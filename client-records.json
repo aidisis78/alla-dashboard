@@ -1,0 +1,4253 @@
+{
+ "generated": "2026-08-03 11:32",
+ "ads_spend_note": "Google Ads spend not wired yet (Ads API access pending); coming in a later pass.",
+ "clients": {
+  "aig": {
+   "name": "AIG Web Methods",
+   "domain": "aigwebmethods.com",
+   "gbp_posts": [
+    {
+     "date": "2026-07-17",
+     "title": "2026-07-17.md",
+     "timestamp": "",
+     "status": "log file (unparsed format)",
+     "link": "",
+     "image": "",
+     "body": "# GBP Post Log: AIG Web Methods, 2026-07-17\n**Timestamp:** 2026-07-17 ~18:40 EDT (interactive session, Alla-authorized batch)\n**Authorization:** Alla in chat 2026-07-17: publish without per-page appro",
+     "log_file": "/Users/home/Documents/Obsidian Vault/01 - Business/Clients/Active/AIG Web Methods/Marketing/GBP-Posts/2026-07-17.md"
+    },
+    {
+     "date": "2026-07-15",
+     "title": "2026-07-15.md",
+     "timestamp": "",
+     "status": "log file (unparsed format)",
+     "link": "",
+     "image": "",
+     "body": "# GBP Post: AIG Web Methods, 2026-07-15\n\nSubmitted: 2026-07-15 09:58 ET via localPosts API (engine-run daily). RETRY of the 07-14 rejected post per its documented investigation plan.\nChange vs 07-14: ",
+     "log_file": "/Users/home/Documents/Obsidian Vault/01 - Business/Clients/Active/AIG Web Methods/Marketing/GBP-Posts/2026-07-15.md"
+    },
+    {
+     "date": "2026-07-14",
+     "title": "2026-07-14.md",
+     "timestamp": "",
+     "status": "log file (unparsed format)",
+     "link": "",
+     "image": "",
+     "body": "# GBP Post: AIG Web Methods, 2026-07-14\n\nSubmitted: 2026-07-14 09:54 ET via localPosts API (engine-run daily)\nGoogle response: 200, state PROCESSING, name accounts/114215851326449996098/locations/1221",
+     "log_file": "/Users/home/Documents/Obsidian Vault/01 - Business/Clients/Active/AIG Web Methods/Marketing/GBP-Posts/2026-07-14.md"
+    }
+   ],
+   "published": [
+    {
+     "topic": "AI chatbot for small business website",
+     "type": "blog",
+     "live_url": "https://aigwebmethods.com/ai-chatbot-for-small-business-website/",
+     "released_on": "2026-08-01 12:45"
+    },
+    {
+     "topic": "SEO for home care agencies Pennsylvania",
+     "type": "blog",
+     "live_url": "https://aigwebmethods.com/seo-for-home-care-agencies-pennsylvania/",
+     "released_on": "2026-08-01 12:45"
+    },
+    {
+     "topic": "best local SEO agency Bucks County PA",
+     "type": "blog",
+     "live_url": "https://aigwebmethods.com/best-local-seo-agency-bucks-county-pa/",
+     "released_on": ""
+    },
+    {
+     "topic": "digital marketing agency for small business Philadelphia suburbs",
+     "type": "blog",
+     "live_url": "https://aigwebmethods.com/digital-marketing-agency-for-small-business-philadelphia-suburbs/",
+     "released_on": ""
+    }
+   ],
+   "plan": {
+    "promise": "2",
+    "overdue": [
+     {
+      "topic": "Google Business Profile management Montgomery County PA",
+      "date": "2026-07-30",
+      "type": "truthlayer",
+      "in_pipeline": false
+     }
+    ],
+    "upcoming": [],
+    "available": true
+   },
+   "calendar": [
+    {
+     "date": "2026-07-28",
+     "topic": "best local SEO agency Bucks County PA",
+     "type": "truthlayer",
+     "query": "best local SEO agency Bucks County PA",
+     "status": "released"
+    },
+    {
+     "date": "2026-07-30",
+     "topic": "Google Business Profile management Montgomery County PA",
+     "type": "truthlayer",
+     "query": "Google Business Profile management Montgomery County PA",
+     "status": "overdue"
+    },
+    {
+     "date": "2026-08-04",
+     "topic": "digital marketing agency for small business Philadelphia suburbs",
+     "type": "truthlayer",
+     "query": "digital marketing agency for small business Philadelphia suburbs",
+     "status": "released"
+    },
+    {
+     "date": "2026-08-06",
+     "topic": "AI chatbot for small business website",
+     "type": "truthlayer",
+     "query": "AI chatbot for small business website",
+     "status": "released"
+    },
+    {
+     "date": "2026-08-11",
+     "topic": "SEO for home care agencies Pennsylvania",
+     "type": "truthlayer",
+     "query": "SEO for home care agencies Pennsylvania",
+     "status": "released"
+    }
+   ],
+   "keywords": {
+    "requested": [],
+    "requested_available": false,
+    "working": [
+     {
+      "q": "best local SEO agency Bucks County PA",
+      "date": "2026-07-28",
+      "status": "released"
+     },
+     {
+      "q": "Google Business Profile management Montgomery County PA",
+      "date": "2026-07-30",
+      "status": "overdue"
+     },
+     {
+      "q": "digital marketing agency for small business Philadelphia suburbs",
+      "date": "2026-08-04",
+      "status": "released"
+     },
+     {
+      "q": "AI chatbot for small business website",
+      "date": "2026-08-06",
+      "status": "released"
+     },
+     {
+      "q": "SEO for home care agencies Pennsylvania",
+      "date": "2026-08-11",
+      "status": "released"
+     }
+    ],
+    "hubs": [
+     {
+      "hub": "local-seo",
+      "pages": 9
+     },
+     {
+      "hub": "local-seo",
+      "pages": 6
+     },
+     {
+      "hub": "google-ads",
+      "pages": 5
+     },
+     {
+      "hub": "google-ads",
+      "pages": 4
+     },
+     {
+      "hub": "2668",
+      "pages": 3
+     },
+     {
+      "hub": "client-onboarding",
+      "pages": 3
+     }
+    ]
+   },
+   "gsc": {
+    "available": false,
+    "week": "",
+    "rows": [],
+    "summary": ""
+   },
+   "stages": {
+    "rungs": [
+     {
+      "name": "1. Foundation Lock (entity, schema, GBP claimed)",
+      "state": "done",
+      "evidence": "GBP API reachable: True [engine config]",
+      "gap": ""
+     },
+     {
+      "name": "2. Page Optimization (CK-gated pages live)",
+      "state": "done",
+      "evidence": "4 page(s)/post(s) released through the CK gate [release queue]",
+      "gap": ""
+     },
+     {
+      "name": "3. Content Engine (60-day calendar running)",
+      "state": "active",
+      "evidence": "calendar on file, 1 overdue [engine calendar]",
+      "gap": "1 planned item(s) past date"
+     },
+     {
+      "name": "4. Local presence (GBP posting cadence)",
+      "state": "gap",
+      "evidence": "0 GBP post(s) in the last 14 days [GBP post logs]",
+      "gap": "no GBP posts logged in 14 days"
+     },
+     {
+      "name": "5. Growth sprints (audit findings worked down)",
+      "state": "gap",
+      "evidence": "open decisions + fixer queue drive this stage [fixer queue]",
+      "gap": "see the Approvals tab for this client's open items"
+     },
+     {
+      "name": "6. Compound loop (weekly GSC measurement)",
+      "state": "gap",
+      "evidence": "weekly GSC keyword tracking: not logged yet [Monday engine run]",
+      "gap": "first data lands on the next Monday run"
+     }
+    ],
+    "next_move": "1 planned item(s) past date"
+   },
+   "fixer_active": [
+    {
+     "finding": "GTranslate widget absent from homepage, /about/, /contact/ because they are standalone pages (aig-standalone-homepage plugin) outside wp_footer",
+     "state": "queued"
+    },
+    {
+     "finding": "GBP profile strength for AIG Web Methods (locations/12215864211000398582) not yet verified at 100%",
+     "state": "queued"
+    },
+    {
+     "finding": "GSC: NOT INDEXED: https://aigwebmethods.com/ai-chatbot-for-small-business-website/ (URL is unknown to Google)",
+     "state": "queued"
+    },
+    {
+     "finding": "GSC: NOT INDEXED: https://aigwebmethods.com/seo-for-home-care-agencies-pennsylvania/ (URL is unknown to Google)",
+     "state": "queued"
+    },
+    {
+     "finding": "GSC: NOT INDEXED: https://aigwebmethods.com/digital-marketing-agency-for-small-business-philadelphia-suburbs/ (URL is unknown to Google)",
+     "state": "queued"
+    },
+    {
+     "finding": "GSC: NOT INDEXED: https://aigwebmethods.com/best-local-seo-agency-bucks-county-pa/ (URL is unknown to Google)",
+     "state": "queued"
+    },
+    {
+     "finding": "Rank report: deep at position 45: 'local SEO company Bucks County'",
+     "state": "queued"
+    },
+    {
+     "finding": "Rank report: deep at position 68: 'AI SEO Philadelphia'",
+     "state": "queued"
+    },
+    {
+     "finding": "Coverage gap: no ga4_property_id in engine config (GA4 numbers missing from reports/dashboard for AIG itself)",
+     "state": "queued"
+    },
+    {
+     "finding": "Coverage gap: AIG missing from the weekly keyword-positions log and the site health probe (aig-site-report CLIENTS list)",
+     "state": "queued"
+    }
+   ],
+   "kw_moves": [],
+   "reports": [
+    {
+     "name": "Weekly-Work-Report-2026-08-03-DRAFT.md",
+     "obsidian": "obsidian://open?vault=Obsidian%20Vault&file=01%20-%20Business/Clients/Active/AIG%20Web%20Methods/Reports/Weekly-Work-Report-2026-08-03-DRAFT.md",
+     "date": "2026-08-03"
+    },
+    {
+     "name": "Weekly-Email-2026-08-03.md",
+     "obsidian": "obsidian://open?vault=Obsidian%20Vault&file=01%20-%20Business/Clients/Active/AIG%20Web%20Methods/Reports/Weekly-Email-2026-08-03.md",
+     "date": "2026-08-03"
+    },
+    {
+     "name": "Monthly-Email-2026-08.md",
+     "obsidian": "obsidian://open?vault=Obsidian%20Vault&file=01%20-%20Business/Clients/Active/AIG%20Web%20Methods/Reports/Monthly-Email-2026-08.md",
+     "date": "2026-08-01"
+    },
+    {
+     "name": "Monthly-Report-2026-07.md",
+     "obsidian": "obsidian://open?vault=Obsidian%20Vault&file=01%20-%20Business/Clients/Active/AIG%20Web%20Methods/Reports/Monthly-Report-2026-07.md",
+     "date": "2026-07-31"
+    },
+    {
+     "name": "Weekly-Email-2026-07-27.md",
+     "obsidian": "obsidian://open?vault=Obsidian%20Vault&file=01%20-%20Business/Clients/Active/AIG%20Web%20Methods/Reports/Weekly-Email-2026-07-27.md",
+     "date": "2026-07-27"
+    },
+    {
+     "name": "Weekly-Email-2026-07-20.md",
+     "obsidian": "obsidian://open?vault=Obsidian%20Vault&file=01%20-%20Business/Clients/Active/AIG%20Web%20Methods/Reports/Weekly-Email-2026-07-20.md",
+     "date": "2026-07-20"
+    },
+    {
+     "name": "Weekly-Email-2026-07-13.md",
+     "obsidian": "obsidian://open?vault=Obsidian%20Vault&file=01%20-%20Business/Clients/Active/AIG%20Web%20Methods/Reports/Weekly-Email-2026-07-13.md",
+     "date": "2026-07-13"
+    },
+    {
+     "name": "Weekly-Email-2026-07-06.md",
+     "obsidian": "obsidian://open?vault=Obsidian%20Vault&file=01%20-%20Business/Clients/Active/AIG%20Web%20Methods/Reports/Weekly-Email-2026-07-06.md",
+     "date": "2026-07-06"
+    }
+   ]
+  },
+  "ateam": {
+   "name": "A-Team Home Care",
+   "domain": "ateampa.com",
+   "gbp_posts": [
+    {
+     "date": "2026-06-27",
+     "title": "2026-06-27-blog-whatsnew-DRAFT.md",
+     "timestamp": "",
+     "status": "log file (unparsed format)",
+     "link": "",
+     "image": "",
+     "body": "# A-Team blog GBP \"What's New\" posts \u2014 DRAFT (pending GBP access)\n\n\u26d4 BLOCKED: admin@aigwebmethods.com is NOT a manager on A-Team's Google Business Profile (GBP inventory 2026-05-11 marks it \"NOT FOUND",
+     "log_file": "/Users/home/Documents/Obsidian Vault/01 - Business/Clients/Active/A-Team Home Care/Marketing/GBP-Posts/2026-06-27-blog-whatsnew-DRAFT.md"
+    }
+   ],
+   "published": [
+    {
+     "topic": "Community HealthChoices in Pennsylvania: How to Get Home Care Covered",
+     "type": "blog",
+     "live_url": "https://ateampa.com/community-healthchoices-pennsylvania-home-care/",
+     "released_on": "2026-07-23 18:30"
+    },
+    {
+     "topic": "Who Qualifies for Medicaid Home Care in PA: The CHC Waiver Explained",
+     "type": "blog",
+     "live_url": "https://ateampa.com/who-qualifies-medicaid-home-care-pa-chc-waiver/",
+     "released_on": "2026-07-23 18:30"
+    }
+   ],
+   "plan": {
+    "promise": "2",
+    "overdue": [],
+    "upcoming": [
+     {
+      "topic": "8 Signs Your Aging Parent Needs In-Home Care",
+      "date": "2026-08-04",
+      "type": "blog"
+     },
+     {
+      "topic": "How to Get Paid to Care for a Family Member in Pennsylvania",
+      "date": "2026-08-07",
+      "type": "blog"
+     },
+     {
+      "topic": "Medicare vs Medicaid Home Care: What PA Families Need to Know",
+      "date": "2026-08-11",
+      "type": "blog"
+     },
+     {
+      "topic": "Power of Attorney for Elderly Parents in Pennsylvania",
+      "date": "2026-08-14",
+      "type": "blog"
+     },
+     {
+      "topic": "Advance Directives and Healthcare Proxy in PA",
+      "date": "2026-08-18",
+      "type": "blog"
+     }
+    ],
+    "available": true
+   },
+   "calendar": [
+    {
+     "date": "2026-08-04",
+     "topic": "8 Signs Your Aging Parent Needs In-Home Care",
+     "type": "blog",
+     "query": "signs aging parent needs in-home care",
+     "status": "planned"
+    },
+    {
+     "date": "2026-08-07",
+     "topic": "How to Get Paid to Care for a Family Member in Pennsylvania",
+     "type": "blog",
+     "query": "get paid to care for family member pennsylvania",
+     "status": "planned"
+    },
+    {
+     "date": "2026-08-11",
+     "topic": "Medicare vs Medicaid Home Care: What PA Families Need to Know",
+     "type": "blog",
+     "query": "medicare vs medicaid home care pennsylvania",
+     "status": "planned"
+    },
+    {
+     "date": "2026-08-14",
+     "topic": "Power of Attorney for Elderly Parents in Pennsylvania",
+     "type": "blog",
+     "query": "power of attorney elderly parents pennsylvania",
+     "status": "planned"
+    },
+    {
+     "date": "2026-08-18",
+     "topic": "Advance Directives and Healthcare Proxy in PA",
+     "type": "blog",
+     "query": "advance directive pennsylvania",
+     "status": "planned"
+    },
+    {
+     "date": "2026-08-21",
+     "topic": "Medicaid Planning for Long-Term Care in Pennsylvania",
+     "type": "blog",
+     "query": "medicaid planning long-term care pennsylvania",
+     "status": "in pipeline"
+    },
+    {
+     "date": "2026-08-25",
+     "topic": "Protecting Seniors from Online and Phone Scams",
+     "type": "blog",
+     "query": "protect seniors from scams",
+     "status": "in pipeline"
+    },
+    {
+     "date": "2026-08-28",
+     "topic": "Early Signs of Dementia in Elderly Parents",
+     "type": "blog",
+     "query": "early signs of dementia",
+     "status": "planned"
+    },
+    {
+     "date": "2026-09-01",
+     "topic": "Signs of a Stroke in Seniors and What to Do",
+     "type": "blog",
+     "query": "signs of stroke seniors",
+     "status": "in pipeline"
+    },
+    {
+     "date": "2026-09-04",
+     "topic": "ACHC Accreditation: What It Means for A-Team Clients",
+     "type": "blog",
+     "query": "achc accreditation home care",
+     "status": "planned"
+    },
+    {
+     "date": "2026-09-08",
+     "topic": "best companion care in Philadelphia",
+     "type": "truthlayer",
+     "query": "best companion care in Philadelphia",
+     "status": "planned"
+    },
+    {
+     "date": "2026-09-11",
+     "topic": "Family Caregiver Program: How A-Team Pays Family Members",
+     "type": "blog",
+     "query": "family caregiver program a-team",
+     "status": "planned"
+    },
+    {
+     "date": "2026-09-15",
+     "topic": "home care agency Philadelphia PA",
+     "type": "truthlayer",
+     "query": "home care agency Philadelphia PA",
+     "status": "planned"
+    },
+    {
+     "date": "2026-09-18",
+     "topic": "VetAssist Aid & Attendance: Free Home Care for PA Veterans",
+     "type": "blog",
+     "query": "vetassist aid and attendance pennsylvania",
+     "status": "planned"
+    },
+    {
+     "date": "2026-09-22",
+     "topic": "24 hour home care Philadelphia",
+     "type": "truthlayer",
+     "query": "24 hour home care Philadelphia",
+     "status": "planned"
+    },
+    {
+     "date": "2026-09-25",
+     "topic": "private duty nursing Philadelphia",
+     "type": "truthlayer",
+     "query": "private duty nursing Philadelphia",
+     "status": "planned"
+    }
+   ],
+   "keywords": {
+    "requested": [],
+    "requested_available": true,
+    "working": [
+     {
+      "q": "signs aging parent needs in-home care",
+      "date": "2026-08-04",
+      "status": "planned"
+     },
+     {
+      "q": "get paid to care for family member pennsylvania",
+      "date": "2026-08-07",
+      "status": "planned"
+     },
+     {
+      "q": "medicare vs medicaid home care pennsylvania",
+      "date": "2026-08-11",
+      "status": "planned"
+     },
+     {
+      "q": "power of attorney elderly parents pennsylvania",
+      "date": "2026-08-14",
+      "status": "planned"
+     },
+     {
+      "q": "advance directive pennsylvania",
+      "date": "2026-08-18",
+      "status": "planned"
+     },
+     {
+      "q": "medicaid planning long-term care pennsylvania",
+      "date": "2026-08-21",
+      "status": "in pipeline"
+     },
+     {
+      "q": "protect seniors from scams",
+      "date": "2026-08-25",
+      "status": "in pipeline"
+     },
+     {
+      "q": "early signs of dementia",
+      "date": "2026-08-28",
+      "status": "planned"
+     },
+     {
+      "q": "signs of stroke seniors",
+      "date": "2026-09-01",
+      "status": "in pipeline"
+     },
+     {
+      "q": "achc accreditation home care",
+      "date": "2026-09-04",
+      "status": "planned"
+     },
+     {
+      "q": "best companion care in Philadelphia",
+      "date": "2026-09-08",
+      "status": "planned"
+     },
+     {
+      "q": "family caregiver program a-team",
+      "date": "2026-09-11",
+      "status": "planned"
+     },
+     {
+      "q": "home care agency Philadelphia PA",
+      "date": "2026-09-15",
+      "status": "planned"
+     },
+     {
+      "q": "vetassist aid and attendance pennsylvania",
+      "date": "2026-09-18",
+      "status": "planned"
+     },
+     {
+      "q": "24 hour home care Philadelphia",
+      "date": "2026-09-22",
+      "status": "planned"
+     },
+     {
+      "q": "private duty nursing Philadelphia",
+      "date": "2026-09-25",
+      "status": "planned"
+     }
+    ],
+    "hubs": [
+     {
+      "hub": "3010",
+      "pages": 752
+     },
+     {
+      "hub": "vetassist",
+      "pages": 639
+     },
+     {
+      "hub": "vetassist",
+      "pages": 628
+     },
+     {
+      "hub": "home-health-care",
+      "pages": 158
+     },
+     {
+      "hub": "3110",
+      "pages": 115
+     },
+     {
+      "hub": "spring-bonus",
+      "pages": 110
+     },
+     {
+      "hub": "top-paying-home-health-aide-agencies",
+      "pages": 89
+     },
+     {
+      "hub": "caregiver-jobs",
+      "pages": 85
+     },
+     {
+      "hub": "contact-us",
+      "pages": 79
+     },
+     {
+      "hub": "how-to-help-seniors-with-nausea-2",
+      "pages": 77
+     }
+    ]
+   },
+   "gsc": {
+    "available": true,
+    "week": "2026-W32",
+    "rows": [
+     {
+      "q": "24 hour home care bucks county",
+      "position": 5.5,
+      "url": "https://ateampa.com/24-hour-home-care/",
+      "delta": 0.8
+     },
+     {
+      "q": "home care philadelphia",
+      "position": 7.2,
+      "url": "https://ateampa.com/home-care-cost-philadelphia/",
+      "delta": null
+     },
+     {
+      "q": "best home care agency in philadelphia",
+      "position": 8.0,
+      "url": "https://ateampa.com/top-paying-home-health-aide-agencies/",
+      "delta": null
+     },
+     {
+      "q": "help at home philadelphia",
+      "position": 8.4,
+      "url": "https://ateampa.com/help-at-home-philadelphia/",
+      "delta": null
+     },
+     {
+      "q": "caregiver jobs in philadelphia",
+      "position": 11.3,
+      "url": "https://ateampa.com/caregiver-jobs/",
+      "delta": 2.2
+     },
+     {
+      "q": "caregiver jobs philadelphia",
+      "position": 11.7,
+      "url": "https://ateampa.com/caregiver-jobs/",
+      "delta": -0.5
+     },
+     {
+      "q": "respite care for family caregivers",
+      "position": 11.7,
+      "url": "https://ateampa.com/respite-care/",
+      "delta": null
+     },
+     {
+      "q": "personal care near me",
+      "position": 13.4,
+      "url": "https://ateampa.com/chester-county-home-care/",
+      "delta": -1.5
+     },
+     {
+      "q": "help at home care",
+      "position": 14.8,
+      "url": "https://ateampa.com/help-at-home-philadelphia/",
+      "delta": -4.4
+     },
+     {
+      "q": "24 hour home care services",
+      "position": 22.4,
+      "url": "https://ateampa.com/24-hour-home-care/",
+      "delta": -1.8
+     }
+    ],
+    "summary": "602 impressions at stake \u00b7 22 keywords on page 2 \u00b7 6 on page 3 \u00b7 AI citation 10%"
+   },
+   "stages": {
+    "rungs": [
+     {
+      "name": "1. Foundation Lock (entity, schema, GBP claimed)",
+      "state": "active",
+      "evidence": "GBP API reachable: False [engine config]",
+      "gap": "GBP not reachable via admin@ API, access grant needed"
+     },
+     {
+      "name": "2. Page Optimization (CK-gated pages live)",
+      "state": "done",
+      "evidence": "2 page(s)/post(s) released through the CK gate [release queue]",
+      "gap": ""
+     },
+     {
+      "name": "3. Content Engine (60-day calendar running)",
+      "state": "done",
+      "evidence": "calendar on file, 0 overdue [engine calendar]",
+      "gap": ""
+     },
+     {
+      "name": "4. Local presence (GBP posting cadence)",
+      "state": "gap",
+      "evidence": "0 GBP post(s) in the last 14 days [GBP post logs]",
+      "gap": "no GBP posts logged in 14 days"
+     },
+     {
+      "name": "5. Growth sprints (audit findings worked down)",
+      "state": "gap",
+      "evidence": "open decisions + fixer queue drive this stage [fixer queue]",
+      "gap": "see the Approvals tab for this client's open items"
+     },
+     {
+      "name": "6. Compound loop (weekly GSC measurement)",
+      "state": "done",
+      "evidence": "weekly GSC keyword tracking: ON, week 2026-W32 [Monday engine run]",
+      "gap": ""
+     }
+    ],
+    "next_move": "GBP not reachable via admin@ API, access grant needed"
+   },
+   "fixer_active": [
+    {
+     "finding": "Alla requested BUILD NOW via dashboard for overdue calendar item: '8 Signs Your Aging Parent Needs In-Home Care'",
+     "state": "queued"
+    },
+    {
+     "finding": "Alla requested BUILD NOW via dashboard for overdue calendar item: 'How to Get Paid to Care for a Family Member in Pennsylvania'",
+     "state": "queued"
+    },
+    {
+     "finding": "Alla requested BUILD NOW via dashboard for overdue calendar item: 'Medicare vs Medicaid Home Care: What PA Families Need to Know'",
+     "state": "queued"
+    },
+    {
+     "finding": "Alla requested BUILD NOW via dashboard for overdue calendar item: 'Power of Attorney for Elderly Parents in Pennsylvania'",
+     "state": "queued"
+    },
+    {
+     "finding": "Alla requested BUILD NOW via dashboard for overdue calendar item: 'Community HealthChoices in Pennsylvania: How to Get Home Care Covered'",
+     "state": "queued"
+    },
+    {
+     "finding": "Alla requested BUILD NOW via dashboard for overdue calendar item: 'Advance Directives and Healthcare Proxy in PA'",
+     "state": "queued"
+    },
+    {
+     "finding": "Alla requested BUILD NOW via dashboard for overdue calendar item: 'Medicaid Planning for Long-Term Care in Pennsylvania'",
+     "state": "queued"
+    },
+    {
+     "finding": "Alla requested BUILD NOW via dashboard for overdue calendar item: 'Who Qualifies for Medicaid Home Care in PA: The CHC Waiver Explained'",
+     "state": "queued"
+    },
+    {
+     "finding": "Alla requested BUILD NOW via dashboard for overdue calendar item: 'Protecting Seniors from Online and Phone Scams'",
+     "state": "queued"
+    },
+    {
+     "finding": "Alla requested BUILD NOW via dashboard for overdue calendar item: 'Early Signs of Dementia in Elderly Parents'",
+     "state": "queued"
+    }
+   ],
+   "kw_moves": [
+    {
+     "q": "24 hour home care bucks county",
+     "position": 5.5,
+     "url": "https://ateampa.com/24-hour-home-care/",
+     "delta": 0.8,
+     "action": "tracked; no content action scheduled yet"
+    },
+    {
+     "q": "home care philadelphia",
+     "position": 7.2,
+     "url": "https://ateampa.com/home-care-cost-philadelphia/",
+     "delta": null,
+     "action": "tracked; no content action scheduled yet"
+    },
+    {
+     "q": "best home care agency in philadelphia",
+     "position": 8.0,
+     "url": "https://ateampa.com/top-paying-home-health-aide-agencies/",
+     "delta": null,
+     "action": "tracked; no content action scheduled yet"
+    },
+    {
+     "q": "help at home philadelphia",
+     "position": 8.4,
+     "url": "https://ateampa.com/help-at-home-philadelphia/",
+     "delta": null,
+     "action": "tracked; no content action scheduled yet"
+    },
+    {
+     "q": "caregiver jobs in philadelphia",
+     "position": 11.3,
+     "url": "https://ateampa.com/caregiver-jobs/",
+     "delta": 2.2,
+     "action": "tracked; no content action scheduled yet"
+    },
+    {
+     "q": "caregiver jobs philadelphia",
+     "position": 11.7,
+     "url": "https://ateampa.com/caregiver-jobs/",
+     "delta": -0.5,
+     "action": "tracked; no content action scheduled yet"
+    },
+    {
+     "q": "respite care for family caregivers",
+     "position": 11.7,
+     "url": "https://ateampa.com/respite-care/",
+     "delta": null,
+     "action": "tracked; no content action scheduled yet"
+    },
+    {
+     "q": "personal care near me",
+     "position": 13.4,
+     "url": "https://ateampa.com/chester-county-home-care/",
+     "delta": -1.5,
+     "action": "tracked; no content action scheduled yet"
+    },
+    {
+     "q": "help at home care",
+     "position": 14.8,
+     "url": "https://ateampa.com/help-at-home-philadelphia/",
+     "delta": -4.4,
+     "action": "tracked; no content action scheduled yet"
+    },
+    {
+     "q": "24 hour home care services",
+     "position": 22.4,
+     "url": "https://ateampa.com/24-hour-home-care/",
+     "delta": -1.8,
+     "action": "tracked; no content action scheduled yet"
+    }
+   ],
+   "reports": [
+    {
+     "name": "Weekly-Work-Report-2026-08-03-DRAFT.md",
+     "obsidian": "obsidian://open?vault=Obsidian%20Vault&file=01%20-%20Business/Clients/Active/A-Team%20Home%20Care/Reports/Weekly-Work-Report-2026-08-03-DRAFT.md",
+     "date": "2026-08-03"
+    },
+    {
+     "name": "Weekly-Email-2026-08-03.md",
+     "obsidian": "obsidian://open?vault=Obsidian%20Vault&file=01%20-%20Business/Clients/Active/A-Team%20Home%20Care/Reports/Weekly-Email-2026-08-03.md",
+     "date": "2026-08-03"
+    },
+    {
+     "name": "Monthly-Email-2026-08.md",
+     "obsidian": "obsidian://open?vault=Obsidian%20Vault&file=01%20-%20Business/Clients/Active/A-Team%20Home%20Care/Reports/Monthly-Email-2026-08.md",
+     "date": "2026-08-01"
+    },
+    {
+     "name": "Monthly-Report-2026-07.md",
+     "obsidian": "obsidian://open?vault=Obsidian%20Vault&file=01%20-%20Business/Clients/Active/A-Team%20Home%20Care/Reports/Monthly-Report-2026-07.md",
+     "date": "2026-07-31"
+    },
+    {
+     "name": "Weekly-Email-2026-07-27.md",
+     "obsidian": "obsidian://open?vault=Obsidian%20Vault&file=01%20-%20Business/Clients/Active/A-Team%20Home%20Care/Reports/Weekly-Email-2026-07-27.md",
+     "date": "2026-07-27"
+    }
+   ]
+  },
+  "dfs": {
+   "name": "Dynamic Funding Solutions",
+   "domain": "dynamicfunding.net",
+   "gbp_posts": [
+    {
+     "date": "2026-08-02",
+     "title": "2026-08-02.md",
+     "timestamp": "",
+     "status": "log file (unparsed format)",
+     "link": "",
+     "image": "",
+     "body": "# GBP Post Log: Dynamic Funding Solutions, 2026-08-02\n\n**Status:** LIVE (verified via API read after submit)\n**Timestamp:** 2026-08-02 21:50 ET (Sunday slot; last prior post 2026-07-30, no 24h conflic",
+     "log_file": "/Users/home/Documents/Obsidian Vault/01 - Business/Clients/Active/Dynamic Funding Solutions/Marketing/GBP-Posts/2026-08-02.md"
+    },
+    {
+     "date": "2026-07-30",
+     "title": "Arcadia, FL mortgage services",
+     "timestamp": "2026-07-30 14:47 UTC",
+     "status": "SUBMITTED, awaiting live confirmation",
+     "link": "https://dynamicfunding.net/mortgage-broker-arcadia-fl/",
+     "image": "",
+     "body": "Looking for a home loan in Arcadia or Central Florida? Dynamic Funding Solutions specializes in mortgage programs for homebuyers and property investors. We work with first-time buyers, self-employed borrowers, real estate investors, and homeowners looking to refinance. From conve",
+     "log_file": "/Users/home/Documents/Obsidian Vault/01 - Business/Clients/Active/Dynamic Funding Solutions/Marketing/GBP-Posts/2026-07-30.md"
+    },
+    {
+     "date": "2026-07-26",
+     "title": "2026-07-26.md",
+     "timestamp": "",
+     "status": "log file (unparsed format)",
+     "link": "",
+     "image": "",
+     "body": "\n## Review reply AbFvOqlahMgfz2Kr15eP8fAhGsmuLvaUzHnly50cUD6TQOlFKaAWQ-0fKS_53vzQDvXMzF6IuzgSxw (07:13)\nThank you, Anna! Trusting us with multiple mortgages and refinances over the years means the wor",
+     "log_file": "/Users/home/Documents/Obsidian Vault/01 - Business/Clients/Active/Dynamic Funding Solutions/Marketing/GBP-Posts/2026-07-26.md"
+    },
+    {
+     "date": "2026-07-18",
+     "title": "2026-07-18.md",
+     "timestamp": "",
+     "status": "log file (unparsed format)",
+     "link": "",
+     "image": "",
+     "body": "# GBP INCIDENT + HOLD: Dynamic Funding Solutions, 2026-07-18\n\n## Incident (my error, unauthorized bulk delete)\nIntending to delete ONE stuck post (yesterday's Doylestown pair post, PROCESSING 14h), my",
+     "log_file": "/Users/home/Documents/Obsidian Vault/01 - Business/Clients/Active/Dynamic Funding Solutions/Marketing/GBP-Posts/2026-07-18.md"
+    },
+    {
+     "date": "2026-07-17",
+     "title": "2026-07-17.md",
+     "timestamp": "",
+     "status": "log file (unparsed format)",
+     "link": "",
+     "image": "",
+     "body": "# GBP Post Log: Dynamic Funding Solutions, 2026-07-17\n**Timestamp:** 2026-07-17 ~18:40 EDT (interactive session, Alla-authorized batch)\n**Authorization:** Alla in chat 2026-07-17: publish without per-",
+     "log_file": "/Users/home/Documents/Obsidian Vault/01 - Business/Clients/Active/Dynamic Funding Solutions/Marketing/GBP-Posts/2026-07-17.md"
+    },
+    {
+     "date": "2026-07-16",
+     "title": "pair post for the Parkesburg mortgages guide",
+     "timestamp": "2026-07-16 (engine-run daily, autonomous)",
+     "status": "PUBLISHED, verified live by API read-back",
+     "link": "https://dynamicfunding.net/parkesburg-mortgages/",
+     "image": "",
+     "body": "Buying a home in Parkesburg or anywhere in Chester County? Our new guide walks through mortgage options for Parkesburg buyers, what lenders look for, and how to get from application to closing without surprises. It is written in plain English and based on the loan programs we wor",
+     "log_file": "/Users/home/Documents/Obsidian Vault/01 - Business/Clients/Active/Dynamic Funding Solutions/Marketing/GBP-Posts/2026-07-16.md"
+    },
+    {
+     "date": "2026-05-18",
+     "title": "1 \u2014 Sprint #3 Canonical Asset Syndication",
+     "timestamp": "2026-05-18 ~11:30 AM EDT",
+     "status": "\u2705 PUBLISHED \u2014 confirmed live (\"Published 1 minute ago\" in GBP Manager)",
+     "link": "",
+     "image": "",
+     "body": "Hard money loans in Pennsylvania are short-term, asset-based loans funded by private lenders rather than banks. Most real estate investors who need to close in days instead of weeks get their best results by working with a licensed mortgage broker who shops the scenario across mu",
+     "log_file": "/Users/home/Documents/Obsidian Vault/01 - Business/Clients/Active/Dynamic Funding Solutions/Marketing/GBP-Posts/2026-05-18.md"
+    }
+   ],
+   "published": [
+    {
+     "topic": "business line of credit Pennsylvania",
+     "type": "blog",
+     "live_url": "https://dynamicfunding.net/business-line-of-credit-pennsylvania/",
+     "released_on": "2026-07-23"
+    },
+    {
+     "topic": "business funding Bucks County Pennsylvania",
+     "type": "blog",
+     "live_url": "",
+     "released_on": "2026-07-07"
+    },
+    {
+     "topic": "SBA loan broker Pennsylvania",
+     "type": "blog",
+     "live_url": "",
+     "released_on": "2026-07-07"
+    },
+    {
+     "topic": "parkesburg mortgages",
+     "type": "blog",
+     "live_url": "",
+     "released_on": ""
+    }
+   ],
+   "plan": {
+    "promise": "2",
+    "overdue": [],
+    "upcoming": [
+     {
+      "topic": "hard money lender Bucks County PA",
+      "date": "2026-08-13",
+      "type": "truthlayer"
+     },
+     {
+      "topic": "commercial real estate loan Pennsylvania",
+      "date": "2026-08-17",
+      "type": "truthlayer"
+     },
+     {
+      "topic": "dscr loan estero",
+      "date": "2026-08-24",
+      "type": "service"
+     },
+     {
+      "topic": "no doc mortgage pa",
+      "date": "2026-08-27",
+      "type": "location"
+     },
+     {
+      "topic": "business mortgage bucks county",
+      "date": "2026-08-31",
+      "type": "location"
+     }
+    ],
+    "available": true
+   },
+   "calendar": [
+    {
+     "date": "2026-08-06",
+     "topic": "business funding Bucks County Pennsylvania",
+     "type": "truthlayer",
+     "query": "business funding Bucks County Pennsylvania",
+     "status": "released"
+    },
+    {
+     "date": "2026-08-10",
+     "topic": "SBA loan broker Pennsylvania",
+     "type": "truthlayer",
+     "query": "SBA loan broker Pennsylvania",
+     "status": "released"
+    },
+    {
+     "date": "2026-08-13",
+     "topic": "hard money lender Bucks County PA",
+     "type": "truthlayer",
+     "query": "hard money lender Bucks County PA",
+     "status": "planned"
+    },
+    {
+     "date": "2026-08-17",
+     "topic": "commercial real estate loan Pennsylvania",
+     "type": "truthlayer",
+     "query": "commercial real estate loan Pennsylvania",
+     "status": "planned"
+    },
+    {
+     "date": "2026-08-20",
+     "topic": "business line of credit Pennsylvania",
+     "type": "truthlayer",
+     "query": "business line of credit Pennsylvania",
+     "status": "released"
+    },
+    {
+     "date": "2026-08-24",
+     "topic": "dscr loan estero",
+     "type": "service",
+     "query": "dscr loan estero",
+     "status": "planned"
+    },
+    {
+     "date": "2026-08-27",
+     "topic": "no doc mortgage pa",
+     "type": "location",
+     "query": "no doc mortgage pa",
+     "status": "planned"
+    },
+    {
+     "date": "2026-08-31",
+     "topic": "business mortgage bucks county",
+     "type": "location",
+     "query": "business mortgage bucks county",
+     "status": "planned"
+    },
+    {
+     "date": "2026-09-03",
+     "topic": "northampton county mortgage broker",
+     "type": "location",
+     "query": "northampton county mortgage broker",
+     "status": "planned"
+    },
+    {
+     "date": "2026-09-07",
+     "topic": "multi family property loans bloomsburg pa",
+     "type": "location",
+     "query": "multi family property loans bloomsburg pa",
+     "status": "planned"
+    },
+    {
+     "date": "2026-09-10",
+     "topic": "pa multifamily loan",
+     "type": "location",
+     "query": "pa multifamily loan",
+     "status": "planned"
+    },
+    {
+     "date": "2026-09-14",
+     "topic": "multi family mortgage pennsylvania",
+     "type": "service",
+     "query": "multi family mortgage pennsylvania",
+     "status": "planned"
+    },
+    {
+     "date": "2026-09-17",
+     "topic": "mortgage loan officer arcadia fl",
+     "type": "service",
+     "query": "mortgage loan officer arcadia fl",
+     "status": "planned"
+    },
+    {
+     "date": "2026-09-21",
+     "topic": "clay county va loans",
+     "type": "location",
+     "query": "clay county va loans",
+     "status": "planned"
+    },
+    {
+     "date": "2026-09-24",
+     "topic": "mortgage lender shippensburg pa",
+     "type": "location",
+     "query": "mortgage lender shippensburg pa",
+     "status": "planned"
+    },
+    {
+     "date": "2026-09-28",
+     "topic": "pennsylvania\u2019s keystone forgivable in ten years loan program",
+     "type": "service",
+     "query": "pennsylvania\u2019s keystone forgivable in ten years loan program",
+     "status": "planned"
+    }
+   ],
+   "keywords": {
+    "requested": [],
+    "requested_available": false,
+    "working": [
+     {
+      "q": "business funding Bucks County Pennsylvania",
+      "date": "2026-08-06",
+      "status": "released"
+     },
+     {
+      "q": "SBA loan broker Pennsylvania",
+      "date": "2026-08-10",
+      "status": "released"
+     },
+     {
+      "q": "hard money lender Bucks County PA",
+      "date": "2026-08-13",
+      "status": "planned"
+     },
+     {
+      "q": "commercial real estate loan Pennsylvania",
+      "date": "2026-08-17",
+      "status": "planned"
+     },
+     {
+      "q": "business line of credit Pennsylvania",
+      "date": "2026-08-20",
+      "status": "released"
+     },
+     {
+      "q": "dscr loan estero",
+      "date": "2026-08-24",
+      "status": "planned"
+     },
+     {
+      "q": "no doc mortgage pa",
+      "date": "2026-08-27",
+      "status": "planned"
+     },
+     {
+      "q": "business mortgage bucks county",
+      "date": "2026-08-31",
+      "status": "planned"
+     },
+     {
+      "q": "northampton county mortgage broker",
+      "date": "2026-09-03",
+      "status": "planned"
+     },
+     {
+      "q": "multi family property loans bloomsburg pa",
+      "date": "2026-09-07",
+      "status": "planned"
+     },
+     {
+      "q": "pa multifamily loan",
+      "date": "2026-09-10",
+      "status": "planned"
+     },
+     {
+      "q": "multi family mortgage pennsylvania",
+      "date": "2026-09-14",
+      "status": "planned"
+     },
+     {
+      "q": "mortgage loan officer arcadia fl",
+      "date": "2026-09-17",
+      "status": "planned"
+     },
+     {
+      "q": "clay county va loans",
+      "date": "2026-09-21",
+      "status": "planned"
+     },
+     {
+      "q": "mortgage lender shippensburg pa",
+      "date": "2026-09-24",
+      "status": "planned"
+     },
+     {
+      "q": "pennsylvania\u2019s keystone forgivable in ten years loan program",
+      "date": "2026-09-28",
+      "status": "planned"
+     }
+    ],
+    "hubs": [
+     {
+      "hub": "reverse-mortgage",
+      "pages": 718
+     },
+     {
+      "hub": "sba-loans",
+      "pages": 583
+     },
+     {
+      "hub": "va-loans",
+      "pages": 552
+     },
+     {
+      "hub": "fha-loans",
+      "pages": 465
+     },
+     {
+      "hub": "va-mortgage-loan",
+      "pages": 393
+     },
+     {
+      "hub": "sba-loans",
+      "pages": 218
+     },
+     {
+      "hub": "dscr-loans",
+      "pages": 115
+     },
+     {
+      "hub": "usda-loan-florida",
+      "pages": 62
+     },
+     {
+      "hub": "services-florida",
+      "pages": 61
+     },
+     {
+      "hub": "dscr-loan-bay-county-fl",
+      "pages": 53
+     }
+    ]
+   },
+   "gsc": {
+    "available": true,
+    "week": "2026-W32",
+    "rows": [
+     {
+      "q": "clay county va loans",
+      "position": 8.4,
+      "url": "https://dynamicfunding.net/va-loan-clay-county-fl/",
+      "delta": null
+     },
+     {
+      "q": "mortgage lender shippensburg pa",
+      "position": 8.4,
+      "url": "https://dynamicfunding.net/mortgage-broker-shippensburg-pa/",
+      "delta": null
+     },
+     {
+      "q": "northampton county mortgage broker",
+      "position": 9.2,
+      "url": "https://dynamicfunding.net/mortgage-broker-bangor-pa/",
+      "delta": null
+     },
+     {
+      "q": "business mortgage bucks county",
+      "position": 11.7,
+      "url": "https://dynamicfunding.net/business-funding-bucks-county-pennsylvania/",
+      "delta": -0.1
+     },
+     {
+      "q": "mortgage loan officer arcadia fl",
+      "position": 11.7,
+      "url": "https://dynamicfunding.net/mortgage-broker-arcadia-fl/",
+      "delta": 0.0
+     },
+     {
+      "q": "multi family mortgage pennsylvania",
+      "position": 12.1,
+      "url": "https://dynamicfunding.net/multi-family-home-loan-pennsylvania/",
+      "delta": 0.2
+     },
+     {
+      "q": "dscr loan estero",
+      "position": 13.0,
+      "url": "https://dynamicfunding.net/mortgage-broker-estero-fl/",
+      "delta": null
+     },
+     {
+      "q": "pa multifamily loan",
+      "position": 14.0,
+      "url": "https://dynamicfunding.net/multi-family-home-loan-pennsylvania/",
+      "delta": -2.0
+     },
+     {
+      "q": "multi family property loans bloomsburg pa",
+      "position": 14.6,
+      "url": "https://dynamicfunding.net/multi-family-home-loan-pennsylvania/",
+      "delta": 0.1
+     },
+     {
+      "q": "no doc mortgage pa",
+      "position": 15.1,
+      "url": "https://dynamicfunding.net/mortgage-without-tax-returns-pennsylvania/",
+      "delta": null
+     }
+    ],
+    "summary": "288 impressions at stake \u00b7 59 keywords on page 2 \u00b7 24 on page 3 \u00b7 AI citation 10%"
+   },
+   "stages": {
+    "rungs": [
+     {
+      "name": "1. Foundation Lock (entity, schema, GBP claimed)",
+      "state": "done",
+      "evidence": "GBP API reachable: True [engine config]",
+      "gap": ""
+     },
+     {
+      "name": "2. Page Optimization (CK-gated pages live)",
+      "state": "done",
+      "evidence": "4 page(s)/post(s) released through the CK gate [release queue]",
+      "gap": ""
+     },
+     {
+      "name": "3. Content Engine (60-day calendar running)",
+      "state": "done",
+      "evidence": "calendar on file, 0 overdue [engine calendar]",
+      "gap": ""
+     },
+     {
+      "name": "4. Local presence (GBP posting cadence)",
+      "state": "done",
+      "evidence": "3 GBP post(s) in the last 14 days [GBP post logs]",
+      "gap": ""
+     },
+     {
+      "name": "5. Growth sprints (audit findings worked down)",
+      "state": "active",
+      "evidence": "open decisions + fixer queue drive this stage [fixer queue]",
+      "gap": "see the Approvals tab for this client's open items"
+     },
+     {
+      "name": "6. Compound loop (weekly GSC measurement)",
+      "state": "done",
+      "evidence": "weekly GSC keyword tracking: ON, week 2026-W32 [Monday engine run]",
+      "gap": ""
+     }
+    ],
+    "next_move": "see the Approvals tab for this client's open items"
+   },
+   "fixer_active": [
+    {
+     "finding": "GBP profile strength for Dynamic Funding Solutions, Inc (locations/17628707916215391932) not yet verified at 100%",
+     "state": "queued"
+    },
+    {
+     "finding": "VA Loans page (5362, https://dynamicfunding.net/services/va-loans/) visible FAQ accordion has mislabeled pairs: Q1 'Can I use a VA loan more than once",
+     "state": "queued"
+    },
+    {
+     "finding": "Bridge Loan page (6250, https://dynamicfunding.net/services/bridge-loan/) accordion #4 asks 'Can I use a Construction Loan for renovations or addition",
+     "state": "queued"
+    },
+    {
+     "finding": "Florida First-Time Home Buyer page (1809, https://dynamicfunding.net/services-florida/first-time-buyers/) has NO visible FAQ section, so no FAQ schema",
+     "state": "night-queue build"
+    },
+    {
+     "finding": "Old Florida VA Loans page (5210, /services-florida/va-loans/) 301s to the PA VA page (5362). Snippet 11897 had dedicated FL VA content for it. Junk FA",
+     "state": "queued"
+    },
+    {
+     "finding": "WPCode 11897 (schema snippet) deactivated 2026-07-29 and diagnostic probe snippet 16401 (ZZ TEMP DIAG) deactivated 2026-07-30. Both are inactive, not ",
+     "state": "queued"
+    },
+    {
+     "finding": "Rank Math XML sitemap omits 6 published, indexable URLs and duplicates 9 others. Root cause is the Rank Math file cache in wp-content/uploads/rank-mat",
+     "state": "queued"
+    },
+    {
+     "finding": "WPCode snippet 11184 (schema killer, https://dynamicfunding.net/wp-admin/admin.php?page=wpcode-snippet-manager&snippet_id=11184) inactive since 2026-0",
+     "state": "queued"
+    },
+    {
+     "finding": "Live page 1809 (https://dynamicfunding.net/services-florida/first-time-buyers/) carries the h2 'First-Time Homebuyer Assistance Programs for 2022'. Th",
+     "state": "night-queue build"
+    },
+    {
+     "finding": "Rank report action: zero visibility for mortgage broker Huntingdon Valley (core geo term)",
+     "state": "queued"
+    }
+   ],
+   "kw_moves": [
+    {
+     "q": "clay county va loans",
+     "position": 8.4,
+     "url": "https://dynamicfunding.net/va-loan-clay-county-fl/",
+     "delta": null,
+     "action": "content planned (2026-09-21)"
+    },
+    {
+     "q": "mortgage lender shippensburg pa",
+     "position": 8.4,
+     "url": "https://dynamicfunding.net/mortgage-broker-shippensburg-pa/",
+     "delta": null,
+     "action": "content planned (2026-09-24)"
+    },
+    {
+     "q": "northampton county mortgage broker",
+     "position": 9.2,
+     "url": "https://dynamicfunding.net/mortgage-broker-bangor-pa/",
+     "delta": null,
+     "action": "content planned (2026-09-03)"
+    },
+    {
+     "q": "business mortgage bucks county",
+     "position": 11.7,
+     "url": "https://dynamicfunding.net/business-funding-bucks-county-pennsylvania/",
+     "delta": -0.1,
+     "action": "content planned (2026-08-31)"
+    },
+    {
+     "q": "mortgage loan officer arcadia fl",
+     "position": 11.7,
+     "url": "https://dynamicfunding.net/mortgage-broker-arcadia-fl/",
+     "delta": 0.0,
+     "action": "content planned (2026-09-17)"
+    },
+    {
+     "q": "multi family mortgage pennsylvania",
+     "position": 12.1,
+     "url": "https://dynamicfunding.net/multi-family-home-loan-pennsylvania/",
+     "delta": 0.2,
+     "action": "content planned (2026-09-14)"
+    },
+    {
+     "q": "dscr loan estero",
+     "position": 13.0,
+     "url": "https://dynamicfunding.net/mortgage-broker-estero-fl/",
+     "delta": null,
+     "action": "content planned (2026-08-24)"
+    },
+    {
+     "q": "pa multifamily loan",
+     "position": 14.0,
+     "url": "https://dynamicfunding.net/multi-family-home-loan-pennsylvania/",
+     "delta": -2.0,
+     "action": "content planned (2026-09-10)"
+    },
+    {
+     "q": "multi family property loans bloomsburg pa",
+     "position": 14.6,
+     "url": "https://dynamicfunding.net/multi-family-home-loan-pennsylvania/",
+     "delta": 0.1,
+     "action": "content planned (2026-09-07)"
+    },
+    {
+     "q": "no doc mortgage pa",
+     "position": 15.1,
+     "url": "https://dynamicfunding.net/mortgage-without-tax-returns-pennsylvania/",
+     "delta": null,
+     "action": "content planned (2026-08-27)"
+    }
+   ],
+   "reports": [
+    {
+     "name": "Weekly-Work-Report-2026-08-03-DRAFT.md",
+     "obsidian": "obsidian://open?vault=Obsidian%20Vault&file=01%20-%20Business/Clients/Active/Dynamic%20Funding%20Solutions/Reports/Weekly-Work-Report-2026-08-03-DRAFT.md",
+     "date": "2026-08-03"
+    },
+    {
+     "name": "Weekly-Email-2026-08-03.md",
+     "obsidian": "obsidian://open?vault=Obsidian%20Vault&file=01%20-%20Business/Clients/Active/Dynamic%20Funding%20Solutions/Reports/Weekly-Email-2026-08-03.md",
+     "date": "2026-08-03"
+    },
+    {
+     "name": "Monthly-Email-2026-08.md",
+     "obsidian": "obsidian://open?vault=Obsidian%20Vault&file=01%20-%20Business/Clients/Active/Dynamic%20Funding%20Solutions/Reports/Monthly-Email-2026-08.md",
+     "date": "2026-08-01"
+    },
+    {
+     "name": "Monthly-Report-2026-07.md",
+     "obsidian": "obsidian://open?vault=Obsidian%20Vault&file=01%20-%20Business/Clients/Active/Dynamic%20Funding%20Solutions/Reports/Monthly-Report-2026-07.md",
+     "date": "2026-07-31"
+    },
+    {
+     "name": "Weekly-Email-2026-07-27.md",
+     "obsidian": "obsidian://open?vault=Obsidian%20Vault&file=01%20-%20Business/Clients/Active/Dynamic%20Funding%20Solutions/Reports/Weekly-Email-2026-07-27.md",
+     "date": "2026-07-27"
+    },
+    {
+     "name": "Weekly-Email-2026-07-20.md",
+     "obsidian": "obsidian://open?vault=Obsidian%20Vault&file=01%20-%20Business/Clients/Active/Dynamic%20Funding%20Solutions/Reports/Weekly-Email-2026-07-20.md",
+     "date": "2026-07-20"
+    },
+    {
+     "name": "Weekly-Email-2026-07-13.md",
+     "obsidian": "obsidian://open?vault=Obsidian%20Vault&file=01%20-%20Business/Clients/Active/Dynamic%20Funding%20Solutions/Reports/Weekly-Email-2026-07-13.md",
+     "date": "2026-07-13"
+    },
+    {
+     "name": "Weekly-Email-2026-07-06.md",
+     "obsidian": "obsidian://open?vault=Obsidian%20Vault&file=01%20-%20Business/Clients/Active/Dynamic%20Funding%20Solutions/Reports/Weekly-Email-2026-07-06.md",
+     "date": "2026-07-06"
+    }
+   ]
+  },
+  "hometrust": {
+   "name": "HomeTrust Windows & Doors",
+   "domain": "hometrustwindows.com",
+   "gbp_posts": [
+    {
+     "date": "2026-08-02",
+     "title": "2026-08-02.md",
+     "timestamp": "",
+     "status": "log file (unparsed format)",
+     "link": "",
+     "image": "",
+     "body": "# HomeTrust GBP Post 2026-08-02\n\n**Status:** LIVE (verified via API read after submit)\n**Timestamp:** 2026-08-02 21:50 ET (Sunday; makeup for missed Sat 8/1 slot, Tue/Thu/Sat cadence; last prior post ",
+     "log_file": "/Users/home/Documents/Obsidian Vault/01 - Business/Clients/Active/Hometrust Windows/Marketing/GBP-Posts/2026-08-02.md"
+    },
+    {
+     "date": "2026-07-30",
+     "title": "2026-07-30.md",
+     "timestamp": "",
+     "status": "log file (unparsed format)",
+     "link": "",
+     "image": "",
+     "body": "# HomeTrust GBP Post 2026-07-30\n\n**Status:** DONE\n**Timestamp:** 2026-07-30 (Thursday, posting day Tue/Thu/Sat cadence)\n**Last prior post:** 2026-07-23 (7 days ago, no 24h conflict)\n\n## Post Body\n\nSum",
+     "log_file": "/Users/home/Documents/Obsidian Vault/01 - Business/Clients/Active/Hometrust Windows/Marketing/GBP-Posts/2026-07-30.md"
+    },
+    {
+     "date": "2026-07-22",
+     "title": "2026-07-22.md",
+     "timestamp": "",
+     "status": "log file (unparsed format)",
+     "link": "",
+     "image": "",
+     "body": "# HomeTrust GBP Post Log \u2014 2026-07-22\n\n## Post 1 (STANDARD, LEARN_MORE)\n- **Profile:** HomeTrust Windows - Huntingdon Valley PA, 51 Buck Rd (locations/7114024239889037509)\n- **Posted:** 2026-07-22 ~23",
+     "log_file": "/Users/home/Documents/Obsidian Vault/01 - Business/Clients/Active/Hometrust Windows/Marketing/GBP-Posts/2026-07-22.md"
+    },
+    {
+     "date": "2026-07-17",
+     "title": "2026-07-17.md",
+     "timestamp": "",
+     "status": "log file (unparsed format)",
+     "link": "",
+     "image": "",
+     "body": "# GBP Post Log: Hometrust Windows, 2026-07-17\n**Timestamp:** 2026-07-17 ~18:40 EDT (interactive session, Alla-authorized batch)\n**Authorization:** Alla in chat 2026-07-17: publish without per-page app",
+     "log_file": "/Users/home/Documents/Obsidian Vault/01 - Business/Clients/Active/Hometrust Windows/Marketing/GBP-Posts/2026-07-17.md"
+    }
+   ],
+   "published": [],
+   "plan": {
+    "promise": "3",
+    "overdue": [
+     {
+      "topic": "andersen narroline window replacement alternatives reading, pa",
+      "date": "2026-07-21",
+      "type": "location",
+      "in_pipeline": false
+     },
+     {
+      "topic": "replacement windows reading pa",
+      "date": "2026-07-23",
+      "type": "location",
+      "in_pipeline": false
+     },
+     {
+      "topic": "andersen windows",
+      "date": "2026-07-28",
+      "type": "service",
+      "in_pipeline": false
+     },
+     {
+      "topic": "window replacement huntingdon valley pa",
+      "date": "2026-07-30",
+      "type": "location",
+      "in_pipeline": true
+     },
+     {
+      "topic": "anderson windows",
+      "date": "2026-07-30",
+      "type": "service",
+      "in_pipeline": false
+     },
+     {
+      "topic": "Window Replacement in Bucks County PA",
+      "date": "2026-07-31",
+      "type": "service_page",
+      "in_pipeline": true
+     },
+     {
+      "topic": "Window Replacement in Bensalem PA",
+      "date": "2026-07-31",
+      "type": "location_page",
+      "in_pipeline": true
+     }
+    ],
+    "upcoming": [
+     {
+      "topic": "Window Replacement in Philadelphia PA",
+      "date": "2026-08-03",
+      "type": "location_page"
+     },
+     {
+      "topic": "Window Replacement in Malvern PA",
+      "date": "2026-08-05",
+      "type": "location_page"
+     },
+     {
+      "topic": "window installation montgomery county pa",
+      "date": "2026-08-06",
+      "type": "location"
+     },
+     {
+      "topic": "Window Replacement in Ardmore PA",
+      "date": "2026-08-07",
+      "type": "location_page"
+     },
+     {
+      "topic": "Window Replacement in West Chester PA",
+      "date": "2026-08-10",
+      "type": "location_page"
+     }
+    ],
+    "available": true
+   },
+   "calendar": [
+    {
+     "date": "2026-07-21",
+     "topic": "andersen narroline window replacement alternatives reading, pa",
+     "type": "location",
+     "query": "andersen narroline window replacement alternatives reading, pa",
+     "status": "overdue"
+    },
+    {
+     "date": "2026-07-23",
+     "topic": "replacement windows reading pa",
+     "type": "location",
+     "query": "replacement windows reading pa",
+     "status": "overdue"
+    },
+    {
+     "date": "2026-07-28",
+     "topic": "andersen windows",
+     "type": "service",
+     "query": "andersen windows",
+     "status": "overdue"
+    },
+    {
+     "date": "2026-07-30",
+     "topic": "window replacement huntingdon valley pa",
+     "type": "location",
+     "query": "window replacement huntingdon valley pa",
+     "status": "overdue in pipeline"
+    },
+    {
+     "date": "2026-07-30",
+     "topic": "anderson windows",
+     "type": "service",
+     "query": "anderson windows",
+     "status": "overdue"
+    },
+    {
+     "date": "2026-07-31",
+     "topic": "Window Replacement in Bucks County PA",
+     "type": "service_page",
+     "query": "window replacement bucks county pa",
+     "status": "overdue in pipeline"
+    },
+    {
+     "date": "2026-07-31",
+     "topic": "Window Replacement in Bensalem PA",
+     "type": "location_page",
+     "query": "window replacement bensalem pa",
+     "status": "overdue in pipeline"
+    },
+    {
+     "date": "2026-08-03",
+     "topic": "Window Replacement in Philadelphia PA",
+     "type": "location_page",
+     "query": "window replacement philadelphia",
+     "status": "in pipeline"
+    },
+    {
+     "date": "2026-08-05",
+     "topic": "Window Replacement in Malvern PA",
+     "type": "location_page",
+     "query": "window replacement malvern pa",
+     "status": "planned"
+    },
+    {
+     "date": "2026-08-06",
+     "topic": "window installation montgomery county pa",
+     "type": "location",
+     "query": "window installation montgomery county pa",
+     "status": "planned"
+    },
+    {
+     "date": "2026-08-07",
+     "topic": "Window Replacement in Ardmore PA",
+     "type": "location_page",
+     "query": "window replacement ardmore pa",
+     "status": "planned"
+    },
+    {
+     "date": "2026-08-10",
+     "topic": "Window Replacement in West Chester PA",
+     "type": "location_page",
+     "query": "window replacement west chester pa",
+     "status": "planned"
+    },
+    {
+     "date": "2026-08-11",
+     "topic": "window replacement poconos",
+     "type": "location",
+     "query": "window replacement poconos",
+     "status": "planned"
+    },
+    {
+     "date": "2026-08-13",
+     "topic": "window installation monroe county pa",
+     "type": "location",
+     "query": "window installation monroe county pa",
+     "status": "planned"
+    },
+    {
+     "date": "2026-08-18",
+     "topic": "window replacement carbon county pa",
+     "type": "location",
+     "query": "window replacement carbon county pa",
+     "status": "planned"
+    },
+    {
+     "date": "2026-08-27",
+     "topic": "bay and bow window installation",
+     "type": "service",
+     "query": "bay and bow window installation",
+     "status": "planned"
+    },
+    {
+     "date": "2026-09-01",
+     "topic": "energy efficient window replacement cost pa",
+     "type": "blog",
+     "query": "energy efficient window replacement cost pa",
+     "status": "planned"
+    },
+    {
+     "date": "2026-09-03",
+     "topic": "window tax credit 2026",
+     "type": "blog",
+     "query": "window tax credit 2026",
+     "status": "planned"
+    },
+    {
+     "date": "2026-09-10",
+     "topic": "provia windows",
+     "type": "service",
+     "query": "provia windows",
+     "status": "planned"
+    },
+    {
+     "date": "2026-09-10",
+     "topic": "when to replace old windows",
+     "type": "blog",
+     "query": "when to replace old windows",
+     "status": "planned"
+    },
+    {
+     "date": "2026-09-15",
+     "topic": "harvey windows",
+     "type": "service",
+     "query": "harvey windows",
+     "status": "planned"
+    },
+    {
+     "date": "2026-09-15",
+     "topic": "andersen window glazing bead replacement",
+     "type": "service",
+     "query": "andersen window glazing bead replacement",
+     "status": "planned"
+    },
+    {
+     "date": "2026-09-17",
+     "topic": "windows by andersen near me",
+     "type": "service",
+     "query": "windows by andersen near me",
+     "status": "planned"
+    },
+    {
+     "date": "2026-09-29",
+     "topic": "single hung vs double hung windows",
+     "type": "blog",
+     "query": "single hung vs double hung windows",
+     "status": "planned"
+    }
+   ],
+   "keywords": {
+    "requested": [],
+    "requested_available": false,
+    "working": [
+     {
+      "q": "andersen narroline window replacement alternatives reading, pa",
+      "date": "2026-07-21",
+      "status": "overdue"
+     },
+     {
+      "q": "replacement windows reading pa",
+      "date": "2026-07-23",
+      "status": "overdue"
+     },
+     {
+      "q": "andersen windows",
+      "date": "2026-07-28",
+      "status": "overdue"
+     },
+     {
+      "q": "window replacement huntingdon valley pa",
+      "date": "2026-07-30",
+      "status": "overdue in pipeline"
+     },
+     {
+      "q": "anderson windows",
+      "date": "2026-07-30",
+      "status": "overdue"
+     },
+     {
+      "q": "window replacement bucks county pa",
+      "date": "2026-07-31",
+      "status": "overdue in pipeline"
+     },
+     {
+      "q": "window replacement bensalem pa",
+      "date": "2026-07-31",
+      "status": "overdue in pipeline"
+     },
+     {
+      "q": "window replacement philadelphia",
+      "date": "2026-08-03",
+      "status": "in pipeline"
+     },
+     {
+      "q": "window replacement malvern pa",
+      "date": "2026-08-05",
+      "status": "planned"
+     },
+     {
+      "q": "window installation montgomery county pa",
+      "date": "2026-08-06",
+      "status": "planned"
+     },
+     {
+      "q": "window replacement ardmore pa",
+      "date": "2026-08-07",
+      "status": "planned"
+     },
+     {
+      "q": "window replacement west chester pa",
+      "date": "2026-08-10",
+      "status": "planned"
+     },
+     {
+      "q": "window replacement poconos",
+      "date": "2026-08-11",
+      "status": "planned"
+     },
+     {
+      "q": "window installation monroe county pa",
+      "date": "2026-08-13",
+      "status": "planned"
+     },
+     {
+      "q": "window replacement carbon county pa",
+      "date": "2026-08-18",
+      "status": "planned"
+     },
+     {
+      "q": "bay and bow window installation",
+      "date": "2026-08-27",
+      "status": "planned"
+     },
+     {
+      "q": "energy efficient window replacement cost pa",
+      "date": "2026-09-01",
+      "status": "planned"
+     },
+     {
+      "q": "window tax credit 2026",
+      "date": "2026-09-03",
+      "status": "planned"
+     },
+     {
+      "q": "provia windows",
+      "date": "2026-09-10",
+      "status": "planned"
+     },
+     {
+      "q": "when to replace old windows",
+      "date": "2026-09-10",
+      "status": "planned"
+     },
+     {
+      "q": "harvey windows",
+      "date": "2026-09-15",
+      "status": "planned"
+     },
+     {
+      "q": "andersen window glazing bead replacement",
+      "date": "2026-09-15",
+      "status": "planned"
+     },
+     {
+      "q": "windows by andersen near me",
+      "date": "2026-09-17",
+      "status": "planned"
+     },
+     {
+      "q": "single hung vs double hung windows",
+      "date": "2026-09-29",
+      "status": "planned"
+     }
+    ],
+    "hubs": [
+     {
+      "hub": "196",
+      "pages": 141
+     },
+     {
+      "hub": "2551",
+      "pages": 140
+     },
+     {
+      "hub": "8",
+      "pages": 129
+     },
+     {
+      "hub": "8",
+      "pages": 128
+     },
+     {
+      "hub": "3174",
+      "pages": 29
+     },
+     {
+      "hub": "8",
+      "pages": 21
+     },
+     {
+      "hub": "8",
+      "pages": 13
+     },
+     {
+      "hub": "8",
+      "pages": 12
+     },
+     {
+      "hub": "1863",
+      "pages": 6
+     },
+     {
+      "hub": "7071",
+      "pages": 5
+     }
+    ]
+   },
+   "gsc": {
+    "available": true,
+    "week": "2026-W32",
+    "rows": [
+     {
+      "q": "octagon window replacement",
+      "position": 6.0,
+      "url": "https://hometrustwindows.com/window-installation-reading-pa-hometrust-windows/",
+      "delta": null
+     },
+     {
+      "q": "window sale near me",
+      "position": 10.0,
+      "url": "https://hometrustwindows.com/window-installation-reading-pa-hometrust-windows/",
+      "delta": null
+     },
+     {
+      "q": "replacement windows reading pa",
+      "position": 21.0,
+      "url": "https://hometrustwindows.com/window-installation-reading-pa-hometrust-windows/",
+      "delta": 0.0
+     },
+     {
+      "q": "windows for sale near me",
+      "position": 25.0,
+      "url": "https://hometrustwindows.com/window-installation-reading-pa-hometrust-windows/",
+      "delta": null
+     }
+    ],
+    "summary": "2 impressions at stake \u00b7 0 keywords on page 2 \u00b7 2 on page 3 \u00b7 AI citation None%"
+   },
+   "stages": {
+    "rungs": [
+     {
+      "name": "1. Foundation Lock (entity, schema, GBP claimed)",
+      "state": "done",
+      "evidence": "GBP API reachable: True [engine config]",
+      "gap": ""
+     },
+     {
+      "name": "2. Page Optimization (CK-gated pages live)",
+      "state": "active",
+      "evidence": "0 page(s)/post(s) released through the CK gate [release queue]",
+      "gap": "nothing released through the gate yet"
+     },
+     {
+      "name": "3. Content Engine (60-day calendar running)",
+      "state": "gap",
+      "evidence": "calendar on file, 7 overdue [engine calendar]",
+      "gap": "7 planned item(s) past date"
+     },
+     {
+      "name": "4. Local presence (GBP posting cadence)",
+      "state": "done",
+      "evidence": "3 GBP post(s) in the last 14 days [GBP post logs]",
+      "gap": ""
+     },
+     {
+      "name": "5. Growth sprints (audit findings worked down)",
+      "state": "gap",
+      "evidence": "open decisions + fixer queue drive this stage [fixer queue]",
+      "gap": "see the Approvals tab for this client's open items"
+     },
+     {
+      "name": "6. Compound loop (weekly GSC measurement)",
+      "state": "done",
+      "evidence": "weekly GSC keyword tracking: ON, week 2026-W32 [Monday engine run]",
+      "gap": ""
+     }
+    ],
+    "next_move": "nothing released through the gate yet"
+   },
+   "fixer_active": [
+    {
+     "finding": "No code-injection path for the GTranslate widget: no WPCode; MCP option route unavailable for footer scripts",
+     "state": "queued"
+    },
+    {
+     "finding": "GTranslate widget installed via elementor_snippet post 7788 (edit: https://hometrustwindows.com/wp-admin/post.php?post=7788&action=edit) + added to el",
+     "state": "queued"
+    },
+    {
+     "finding": "GBP profile strength for HomeTrust Windows - Huntingdon Valley PA (locations/7114024239889037509) not yet verified at 100%",
+     "state": "queued"
+    },
+    {
+     "finding": "Live Google Ads structured snippet advertises \"Window Repair & Upgrades\". Alla confirmed 2026-07-31 that HomeTrust does NOT do single window repairs, ",
+     "state": "fixed, verify pending"
+    },
+    {
+     "finding": "All PA and NJ responsive search ads still run pre-Andersen-first copy, and Google now reports ad strength below Good on some RSAs. NJ ads went live 20",
+     "state": "fixer working"
+    },
+    {
+     "finding": "92 pages carry a section titled 'Directions from <town> to HomeTrust Windows in Huntingdon Valley' telling local readers to drive to 51 Buck Rd. '51 B",
+     "state": "queued"
+    },
+    {
+     "finding": "6 live pages affirmatively advertise window repair services HomeTrust does not offer (Alla confirmed 2026-07-31: replacement only). Pages and phrases:",
+     "state": "queued"
+    },
+    {
+     "finding": "6 HomeTrust pages not indexed per GSC: 25c-tax-credit-windows-2026 and window-installation-reading-pa (unknown to Google), plus window-installation hu",
+     "state": "queued"
+    },
+    {
+     "finding": "GSC: NOT INDEXED: https://hometrustwindows.com/25c-tax-credit-windows-2026/ (URL is unknown to Google)",
+     "state": "queued"
+    },
+    {
+     "finding": "Target keywords with NO ranking presence (6): Andersen windows contractor, window installation Montgomery County PA, window replacement Philadelphia, ",
+     "state": "queued"
+    }
+   ],
+   "kw_moves": [
+    {
+     "q": "octagon window replacement",
+     "position": 6.0,
+     "url": "https://hometrustwindows.com/window-installation-reading-pa-hometrust-windows/",
+     "delta": null,
+     "action": "tracked; no content action scheduled yet"
+    },
+    {
+     "q": "window sale near me",
+     "position": 10.0,
+     "url": "https://hometrustwindows.com/window-installation-reading-pa-hometrust-windows/",
+     "delta": null,
+     "action": "tracked; no content action scheduled yet"
+    },
+    {
+     "q": "replacement windows reading pa",
+     "position": 21.0,
+     "url": "https://hometrustwindows.com/window-installation-reading-pa-hometrust-windows/",
+     "delta": 0.0,
+     "action": "content overdue (2026-07-23)"
+    },
+    {
+     "q": "windows for sale near me",
+     "position": 25.0,
+     "url": "https://hometrustwindows.com/window-installation-reading-pa-hometrust-windows/",
+     "delta": null,
+     "action": "tracked; no content action scheduled yet"
+    }
+   ],
+   "reports": [
+    {
+     "name": "Weekly-Work-Report-2026-08-03-DRAFT.md",
+     "obsidian": "obsidian://open?vault=Obsidian%20Vault&file=01%20-%20Business/Clients/Active/Hometrust%20Windows/Reports/Weekly-Work-Report-2026-08-03-DRAFT.md",
+     "date": "2026-08-03"
+    },
+    {
+     "name": "Weekly-Email-2026-08-03.md",
+     "obsidian": "obsidian://open?vault=Obsidian%20Vault&file=01%20-%20Business/Clients/Active/Hometrust%20Windows/Reports/Weekly-Email-2026-08-03.md",
+     "date": "2026-08-03"
+    },
+    {
+     "name": "Monthly-Email-2026-08.md",
+     "obsidian": "obsidian://open?vault=Obsidian%20Vault&file=01%20-%20Business/Clients/Active/Hometrust%20Windows/Reports/Monthly-Email-2026-08.md",
+     "date": "2026-08-01"
+    },
+    {
+     "name": "Monthly-Report-2026-07.md",
+     "obsidian": "obsidian://open?vault=Obsidian%20Vault&file=01%20-%20Business/Clients/Active/Hometrust%20Windows/Reports/Monthly-Report-2026-07.md",
+     "date": "2026-07-31"
+    },
+    {
+     "name": "Weekly-Email-2026-07-27.md",
+     "obsidian": "obsidian://open?vault=Obsidian%20Vault&file=01%20-%20Business/Clients/Active/Hometrust%20Windows/Reports/Weekly-Email-2026-07-27.md",
+     "date": "2026-07-27"
+    },
+    {
+     "name": "Client-Dashboard.md",
+     "obsidian": "obsidian://open?vault=Obsidian%20Vault&file=01%20-%20Business/Clients/Active/Hometrust%20Windows/Reports/Client-Dashboard.md",
+     "date": "2026-07-23"
+    },
+    {
+     "name": "Weekly-Email-2026-07-20.md",
+     "obsidian": "obsidian://open?vault=Obsidian%20Vault&file=01%20-%20Business/Clients/Active/Hometrust%20Windows/Reports/Weekly-Email-2026-07-20.md",
+     "date": "2026-07-20"
+    }
+   ]
+  },
+  "patriot": {
+   "name": "Patriot Ambulance",
+   "domain": "patriotamb.com",
+   "gbp_posts": [],
+   "published": [],
+   "plan": {
+    "promise": "2",
+    "overdue": [],
+    "upcoming": [
+     {
+      "topic": "Refresh: Should I call an ambulance or drive to the hospital?",
+      "date": "2026-08-04",
+      "type": "blog"
+     },
+     {
+      "topic": "pa training portal ems",
+      "date": "2026-08-06",
+      "type": "location"
+     },
+     {
+      "topic": "ambulance service philadelphia",
+      "date": "2026-08-11",
+      "type": "service"
+     },
+     {
+      "topic": "non-emergency medical transportation philadelphia",
+      "date": "2026-08-13",
+      "type": "service"
+     },
+     {
+      "topic": "emt training philadelphia",
+      "date": "2026-08-18",
+      "type": "service"
+     }
+    ],
+    "available": true
+   },
+   "calendar": [
+    {
+     "date": "2026-08-04",
+     "topic": "Refresh: Should I call an ambulance or drive to the hospital?",
+     "type": "blog",
+     "query": "should i keep going",
+     "status": "planned"
+    },
+    {
+     "date": "2026-08-06",
+     "topic": "pa training portal ems",
+     "type": "location",
+     "query": "pa training portal ems",
+     "status": "planned"
+    },
+    {
+     "date": "2026-08-11",
+     "topic": "ambulance service philadelphia",
+     "type": "service",
+     "query": "ambulance service philadelphia",
+     "status": "planned"
+    },
+    {
+     "date": "2026-08-13",
+     "topic": "non-emergency medical transportation philadelphia",
+     "type": "service",
+     "query": "non-emergency medical transportation philadelphia",
+     "status": "planned"
+    },
+    {
+     "date": "2026-08-18",
+     "topic": "emt training philadelphia",
+     "type": "service",
+     "query": "emt training philadelphia",
+     "status": "planned"
+    },
+    {
+     "date": "2026-08-20",
+     "topic": "emt certification philadelphia",
+     "type": "service",
+     "query": "emt certification philadelphia",
+     "status": "planned"
+    },
+    {
+     "date": "2026-08-25",
+     "topic": "wheelchair transportation philadelphia",
+     "type": "service",
+     "query": "wheelchair transportation philadelphia",
+     "status": "planned"
+    },
+    {
+     "date": "2026-08-27",
+     "topic": "bariatric transport philadelphia",
+     "type": "service",
+     "query": "bariatric transport philadelphia",
+     "status": "planned"
+    },
+    {
+     "date": "2026-09-01",
+     "topic": "should i keep going",
+     "type": "service",
+     "query": "should i keep going",
+     "status": "planned"
+    },
+    {
+     "date": "2026-09-03",
+     "topic": "critical care ambulance",
+     "type": "service",
+     "query": "critical care ambulance",
+     "status": "planned"
+    },
+    {
+     "date": "2026-09-08",
+     "topic": "wheel chair ambulance",
+     "type": "service",
+     "query": "wheel chair ambulance",
+     "status": "planned"
+    }
+   ],
+   "keywords": {
+    "requested": [
+     "ambulance service philadelphia",
+     "non-emergency medical transportation philadelphia",
+     "emt training philadelphia",
+     "emt certification philadelphia",
+     "wheelchair transportation philadelphia",
+     "bariatric transport philadelphia",
+     "critical care transport philadelphia",
+     "accelerated emt course philadelphia"
+    ],
+    "requested_available": true,
+    "working": [
+     {
+      "q": "should i keep going",
+      "date": "2026-08-04",
+      "status": "planned"
+     },
+     {
+      "q": "pa training portal ems",
+      "date": "2026-08-06",
+      "status": "planned"
+     },
+     {
+      "q": "ambulance service philadelphia",
+      "date": "2026-08-11",
+      "status": "planned"
+     },
+     {
+      "q": "non-emergency medical transportation philadelphia",
+      "date": "2026-08-13",
+      "status": "planned"
+     },
+     {
+      "q": "emt training philadelphia",
+      "date": "2026-08-18",
+      "status": "planned"
+     },
+     {
+      "q": "emt certification philadelphia",
+      "date": "2026-08-20",
+      "status": "planned"
+     },
+     {
+      "q": "wheelchair transportation philadelphia",
+      "date": "2026-08-25",
+      "status": "planned"
+     },
+     {
+      "q": "bariatric transport philadelphia",
+      "date": "2026-08-27",
+      "status": "planned"
+     },
+     {
+      "q": "critical care ambulance",
+      "date": "2026-09-03",
+      "status": "planned"
+     },
+     {
+      "q": "wheel chair ambulance",
+      "date": "2026-09-08",
+      "status": "planned"
+     }
+    ],
+    "hubs": [
+     {
+      "hub": "courses",
+      "pages": 3
+     },
+     {
+      "hub": "bariatric-transportation",
+      "pages": 3
+     }
+    ]
+   },
+   "gsc": {
+    "available": true,
+    "week": "2026-W32",
+    "rows": [
+     {
+      "q": "wheel chair ambulance",
+      "position": 5.0,
+      "url": "https://www.patriotamb.com/wheelchair-transportation/",
+      "delta": null
+     },
+     {
+      "q": "should i keep going",
+      "position": 9.0,
+      "url": "https://www.patriotamb.com/should-i-call-an-ambulance-or-drive-to-the-hospital/",
+      "delta": null
+     },
+     {
+      "q": "wheelchair ambulette",
+      "position": 9.0,
+      "url": "https://www.patriotamb.com/wheelchair-transportation/",
+      "delta": null
+     },
+     {
+      "q": "wheelchair transport",
+      "position": 9.0,
+      "url": "https://www.patriotamb.com/wheelchair-transportation/",
+      "delta": null
+     },
+     {
+      "q": "pa training portal ems",
+      "position": 10.0,
+      "url": "https://www.patriotamb.com/ems-training-portal/",
+      "delta": null
+     },
+     {
+      "q": "cct transport",
+      "position": 11.0,
+      "url": "https://www.patriotamb.com/critical-care-transportation/",
+      "delta": null
+     },
+     {
+      "q": "critical care ambulance",
+      "position": 19.0,
+      "url": "https://www.patriotamb.com/critical-care-transportation/",
+      "delta": null
+     }
+    ],
+    "summary": "3 impressions at stake \u00b7 2 keywords on page 2 \u00b7 0 on page 3 \u00b7 AI citation None%"
+   },
+   "stages": {
+    "rungs": [
+     {
+      "name": "1. Foundation Lock (entity, schema, GBP claimed)",
+      "state": "active",
+      "evidence": "GBP API reachable: False [engine config]",
+      "gap": "GBP not reachable via admin@ API, access grant needed"
+     },
+     {
+      "name": "2. Page Optimization (CK-gated pages live)",
+      "state": "gap",
+      "evidence": "0 page(s)/post(s) released through the CK gate [release queue]",
+      "gap": "nothing released through the gate yet"
+     },
+     {
+      "name": "3. Content Engine (60-day calendar running)",
+      "state": "done",
+      "evidence": "calendar on file, 0 overdue [engine calendar]",
+      "gap": ""
+     },
+     {
+      "name": "4. Local presence (GBP posting cadence)",
+      "state": "gap",
+      "evidence": "0 GBP post(s) in the last 14 days [GBP post logs]",
+      "gap": "no GBP posts logged in 14 days"
+     },
+     {
+      "name": "5. Growth sprints (audit findings worked down)",
+      "state": "gap",
+      "evidence": "open decisions + fixer queue drive this stage [fixer queue]",
+      "gap": "see the Approvals tab for this client's open items"
+     },
+     {
+      "name": "6. Compound loop (weekly GSC measurement)",
+      "state": "done",
+      "evidence": "weekly GSC keyword tracking: ON, week 2026-W32 [Monday engine run]",
+      "gap": ""
+     }
+    ],
+    "next_move": "GBP not reachable via admin@ API, access grant needed"
+   },
+   "fixer_active": [
+    {
+     "finding": "P0 zero JSON-LD structured data sitewide, all 8 pages",
+     "state": "queued"
+    },
+    {
+     "finding": "P0 street address not crawlable text on /home/about-us/, /home/careers/, /home/patients/ (map iframe src only)",
+     "state": "queued"
+    },
+    {
+     "finding": "P1 sitewide nav links use flat paths that 301 to /home/ URLs (6 links, every page)",
+     "state": "queued"
+    },
+    {
+     "finding": "P1 /home/patients/ is an internal orphan; footer 'Patients' label points to external patientnotebook.com billing portal",
+     "state": "queued"
+    },
+    {
+     "finding": "P1 /ems-training-portal/ is an orphan (zero inbound links)",
+     "state": "queued"
+    },
+    {
+     "finding": "P1 no meta description on Home, About Us, Contact",
+     "state": "queued"
+    },
+    {
+     "finding": "P1 PA EMS license (BLS/ALS) and PA MEDIC Affiliate #51013 displayed nowhere on site",
+     "state": "queued"
+    },
+    {
+     "finding": "P1 no named leadership anywhere; blog has zero author bylines",
+     "state": "queued"
+    },
+    {
+     "finding": "P1 BLS/ALS named on only 1 of 8 pages (blog); paratransit only as a job-role word",
+     "state": "queued"
+    },
+    {
+     "finding": "P1 footer Privacy Policy and Terms links 404 AND only exist on 5 of 8 templates",
+     "state": "queued"
+    }
+   ],
+   "kw_moves": [
+    {
+     "q": "wheel chair ambulance",
+     "position": 5.0,
+     "url": "https://www.patriotamb.com/wheelchair-transportation/",
+     "delta": null,
+     "action": "content planned (2026-09-08)"
+    },
+    {
+     "q": "should i keep going",
+     "position": 9.0,
+     "url": "https://www.patriotamb.com/should-i-call-an-ambulance-or-drive-to-the-hospital/",
+     "delta": null,
+     "action": "content planned (2026-09-01)"
+    },
+    {
+     "q": "wheelchair ambulette",
+     "position": 9.0,
+     "url": "https://www.patriotamb.com/wheelchair-transportation/",
+     "delta": null,
+     "action": "tracked; no content action scheduled yet"
+    },
+    {
+     "q": "wheelchair transport",
+     "position": 9.0,
+     "url": "https://www.patriotamb.com/wheelchair-transportation/",
+     "delta": null,
+     "action": "tracked; no content action scheduled yet"
+    },
+    {
+     "q": "pa training portal ems",
+     "position": 10.0,
+     "url": "https://www.patriotamb.com/ems-training-portal/",
+     "delta": null,
+     "action": "content planned (2026-08-06)"
+    },
+    {
+     "q": "cct transport",
+     "position": 11.0,
+     "url": "https://www.patriotamb.com/critical-care-transportation/",
+     "delta": null,
+     "action": "tracked; no content action scheduled yet"
+    },
+    {
+     "q": "critical care ambulance",
+     "position": 19.0,
+     "url": "https://www.patriotamb.com/critical-care-transportation/",
+     "delta": null,
+     "action": "content planned (2026-09-03)"
+    }
+   ],
+   "reports": [
+    {
+     "name": "Weekly-Work-Report-2026-08-03-DRAFT.md",
+     "obsidian": "obsidian://open?vault=Obsidian%20Vault&file=01%20-%20Business/Clients/Active/Patriot%20Ambulance/Reports/Weekly-Work-Report-2026-08-03-DRAFT.md",
+     "date": "2026-08-03"
+    },
+    {
+     "name": "Weekly-Email-2026-08-03.md",
+     "obsidian": "obsidian://open?vault=Obsidian%20Vault&file=01%20-%20Business/Clients/Active/Patriot%20Ambulance/Reports/Weekly-Email-2026-08-03.md",
+     "date": "2026-08-03"
+    },
+    {
+     "name": "Monthly-Email-2026-08.md",
+     "obsidian": "obsidian://open?vault=Obsidian%20Vault&file=01%20-%20Business/Clients/Active/Patriot%20Ambulance/Reports/Monthly-Email-2026-08.md",
+     "date": "2026-08-01"
+    },
+    {
+     "name": "Monthly-Report-2026-07.md",
+     "obsidian": "obsidian://open?vault=Obsidian%20Vault&file=01%20-%20Business/Clients/Active/Patriot%20Ambulance/Reports/Monthly-Report-2026-07.md",
+     "date": "2026-07-31"
+    }
+   ]
+  },
+  "roi": {
+   "name": "ROI National",
+   "domain": "roinational.com",
+   "gbp_posts": [
+    {
+     "date": "2026-07-17",
+     "title": "2026-07-17.md",
+     "timestamp": "",
+     "status": "log file (unparsed format)",
+     "link": "",
+     "image": "",
+     "body": "# GBP Post Log: ROI National, 2026-07-17\n**Timestamp:** 2026-07-17 ~18:40 EDT (interactive session, Alla-authorized batch)\n**Authorization:** Alla in chat 2026-07-17: publish without per-page approval",
+     "log_file": "/Users/home/Documents/Obsidian Vault/01 - Business/Clients/Active/ROI National/Marketing/GBP-Posts/2026-07-17.md"
+    },
+    {
+     "date": "2026-07-13",
+     "title": "2026-07-13.md",
+     "timestamp": "",
+     "status": "log file (unparsed format)",
+     "link": "",
+     "image": "",
+     "body": "# GBP Post \u2014 ROI National \u2014 2026-07-13\n\n**Submitted:** 2026-07-13 07:20 ET by daily /engine-run (scheduled row was 10:00; posting cron remains uninstalled, so the engine run posted it; 1-per-24h rule ",
+     "log_file": "/Users/home/Documents/Obsidian Vault/01 - Business/Clients/Active/ROI National/Marketing/GBP-Posts/2026-07-13.md"
+    },
+    {
+     "date": "2026-07-09",
+     "title": "2026-07-09.md",
+     "timestamp": "",
+     "status": "log file (unparsed format)",
+     "link": "",
+     "image": "",
+     "body": "# GBP Post \u2014 2026-07-09\n\n**Profile:** ROI National \u2013 Sell Your House for Cash\n**Queued date:** 2026-07-06 (posted 3 days late, from backlog \u2014 cron gap, see WORK-LOG)\n**Posted:** 2026-07-09, direct Goo",
+     "log_file": "/Users/home/Documents/Obsidian Vault/01 - Business/Clients/Active/ROI National/Marketing/GBP-Posts/2026-07-09.md"
+    },
+    {
+     "date": "2026-07-02",
+     "title": "2026-07-02.md",
+     "timestamp": "",
+     "status": "log file (unparsed format)",
+     "link": "",
+     "image": "",
+     "body": "# ROI National GBP Post, 2026-07-02\n\n## Submitted 2026-07-02 17:41 UTC (state: LIVE)\n- API: v4 localPosts.create on accounts/114215851326449996098/locations/4585880644306131760\n- Post name: .../localP",
+     "log_file": "/Users/home/Documents/Obsidian Vault/01 - Business/Clients/Active/ROI National/Marketing/GBP-Posts/2026-07-02.md"
+    }
+   ],
+   "published": [
+    {
+     "topic": "we buy houses Levittown PA",
+     "type": "blog",
+     "live_url": "https://roinational.com/we-buy-houses-levittown-pa/",
+     "released_on": "2026-07-23"
+    },
+    {
+     "topic": "cash home buyers near Southampton PA",
+     "type": "blog",
+     "live_url": "",
+     "released_on": ""
+    }
+   ],
+   "plan": {
+    "promise": "2",
+    "overdue": [
+     {
+      "topic": "sell my house fast Bucks County PA",
+      "date": "2026-07-09",
+      "type": "truthlayer",
+      "in_pipeline": false
+     },
+     {
+      "topic": "sell my house fast Camden County NJ",
+      "date": "2026-07-21",
+      "type": "truthlayer",
+      "in_pipeline": true
+     },
+     {
+      "topic": "cash home buyers Burlington County NJ",
+      "date": "2026-07-23",
+      "type": "truthlayer",
+      "in_pipeline": true
+     },
+     {
+      "topic": "sell fire damaged house pennsylvania",
+      "date": "2026-07-28",
+      "type": "service",
+      "in_pipeline": false
+     },
+     {
+      "topic": "roi guys reviews",
+      "date": "2026-07-30",
+      "type": "service",
+      "in_pipeline": false
+     }
+    ],
+    "upcoming": [
+     {
+      "topic": "we buy houses in bucks county",
+      "date": "2026-08-04",
+      "type": "location"
+     },
+     {
+      "topic": "sell my water damaged house",
+      "date": "2026-08-06",
+      "type": "service"
+     },
+     {
+      "topic": "sell my house fast levittown",
+      "date": "2026-08-11",
+      "type": "location"
+     },
+     {
+      "topic": "get cash fast levittown pa",
+      "date": "2026-08-13",
+      "type": "location"
+     }
+    ],
+    "available": true
+   },
+   "calendar": [
+    {
+     "date": "2026-07-09",
+     "topic": "sell my house fast Bucks County PA",
+     "type": "truthlayer",
+     "query": "sell my house fast Bucks County PA",
+     "status": "overdue"
+    },
+    {
+     "date": "2026-07-14",
+     "topic": "cash home buyers near Southampton PA",
+     "type": "truthlayer",
+     "query": "cash home buyers near Southampton PA",
+     "status": "released"
+    },
+    {
+     "date": "2026-07-16",
+     "topic": "we buy houses Levittown PA",
+     "type": "truthlayer",
+     "query": "we buy houses Levittown PA",
+     "status": "released"
+    },
+    {
+     "date": "2026-07-21",
+     "topic": "sell my house fast Camden County NJ",
+     "type": "truthlayer",
+     "query": "sell my house fast Camden County NJ",
+     "status": "overdue in pipeline"
+    },
+    {
+     "date": "2026-07-23",
+     "topic": "cash home buyers Burlington County NJ",
+     "type": "truthlayer",
+     "query": "cash home buyers Burlington County NJ",
+     "status": "overdue in pipeline"
+    },
+    {
+     "date": "2026-07-28",
+     "topic": "sell fire damaged house pennsylvania",
+     "type": "service",
+     "query": "sell fire damaged house pennsylvania",
+     "status": "overdue"
+    },
+    {
+     "date": "2026-07-30",
+     "topic": "roi guys reviews",
+     "type": "service",
+     "query": "roi guys reviews",
+     "status": "overdue"
+    },
+    {
+     "date": "2026-08-04",
+     "topic": "we buy houses in bucks county",
+     "type": "location",
+     "query": "we buy houses in bucks county",
+     "status": "planned"
+    },
+    {
+     "date": "2026-08-06",
+     "topic": "sell my water damaged house",
+     "type": "service",
+     "query": "sell my water damaged house",
+     "status": "planned"
+    },
+    {
+     "date": "2026-08-11",
+     "topic": "sell my house fast levittown",
+     "type": "location",
+     "query": "sell my house fast levittown",
+     "status": "planned"
+    },
+    {
+     "date": "2026-08-13",
+     "topic": "get cash fast levittown pa",
+     "type": "location",
+     "query": "get cash fast levittown pa",
+     "status": "planned"
+    }
+   ],
+   "keywords": {
+    "requested": [],
+    "requested_available": false,
+    "working": [
+     {
+      "q": "sell my house fast Bucks County PA",
+      "date": "2026-07-09",
+      "status": "overdue"
+     },
+     {
+      "q": "cash home buyers near Southampton PA",
+      "date": "2026-07-14",
+      "status": "released"
+     },
+     {
+      "q": "we buy houses Levittown PA",
+      "date": "2026-07-16",
+      "status": "released"
+     },
+     {
+      "q": "sell my house fast Camden County NJ",
+      "date": "2026-07-21",
+      "status": "overdue in pipeline"
+     },
+     {
+      "q": "cash home buyers Burlington County NJ",
+      "date": "2026-07-23",
+      "status": "overdue in pipeline"
+     },
+     {
+      "q": "sell fire damaged house pennsylvania",
+      "date": "2026-07-28",
+      "status": "overdue"
+     },
+     {
+      "q": "roi guys reviews",
+      "date": "2026-07-30",
+      "status": "overdue"
+     },
+     {
+      "q": "we buy houses in bucks county",
+      "date": "2026-08-04",
+      "status": "planned"
+     },
+     {
+      "q": "sell my water damaged house",
+      "date": "2026-08-06",
+      "status": "planned"
+     },
+     {
+      "q": "sell my house fast levittown",
+      "date": "2026-08-11",
+      "status": "planned"
+     },
+     {
+      "q": "get cash fast levittown pa",
+      "date": "2026-08-13",
+      "status": "planned"
+     }
+    ],
+    "hubs": [
+     {
+      "hub": "home-2",
+      "pages": 23
+     },
+     {
+      "hub": "bristol-pa",
+      "pages": 14
+     },
+     {
+      "hub": "bristol-pa",
+      "pages": 14
+     },
+     {
+      "hub": "cities-we-serve",
+      "pages": 12
+     },
+     {
+      "hub": "home-buyers-manayunk-borough-pa",
+      "pages": 11
+     },
+     {
+      "hub": "selling-an-inherited-home-in-pa",
+      "pages": 8
+     },
+     {
+      "hub": "home-buyers-manayunk-borough-pa",
+      "pages": 8
+     },
+     {
+      "hub": "home-buyers-richmond-district-pa",
+      "pages": 8
+     },
+     {
+      "hub": "bristol-pa",
+      "pages": 7
+     },
+     {
+      "hub": "bristol-pa",
+      "pages": 6
+     }
+    ]
+   },
+   "gsc": {
+    "available": true,
+    "week": "2026-W32",
+    "rows": [
+     {
+      "q": "bucks county upset sale",
+      "position": 8.5,
+      "url": "https://roinational.com/delinquent-property-taxes-bucks-county/",
+      "delta": null
+     },
+     {
+      "q": "sell my house fast bucks county pa",
+      "position": 8.8,
+      "url": "https://roinational.com/how-to-sell-your-house-fast-in-bucks-county-pa-complete-2026-guide/",
+      "delta": 8.8
+     },
+     {
+      "q": "delinquent tax roll",
+      "position": 10.0,
+      "url": "https://roinational.com/delinquent-property-taxes-bucks-county/",
+      "delta": null
+     },
+     {
+      "q": "sell my water damaged house",
+      "position": 11.0,
+      "url": "https://roinational.com/sell-damaged-house-pennsylvania/",
+      "delta": 0.0
+     },
+     {
+      "q": "flood/storm/fire damage sell house",
+      "position": 12.0,
+      "url": "https://roinational.com/sell-damaged-house-pennsylvania/",
+      "delta": null
+     },
+     {
+      "q": "the roi guys reviews",
+      "position": 12.0,
+      "url": "https://roinational.com/customer-reviews/",
+      "delta": -3.0
+     },
+     {
+      "q": "sell my house fast levittown",
+      "position": 13.4,
+      "url": "https://roinational.com/levittown-pa/",
+      "delta": 8.2
+     },
+     {
+      "q": "sell your house fast levittown pa",
+      "position": 13.8,
+      "url": "https://roinational.com/levittown-pa/",
+      "delta": null
+     },
+     {
+      "q": "get cash fast levittown pa",
+      "position": 13.9,
+      "url": "https://roinational.com/we-buy-houses-levittown-pa/",
+      "delta": null
+     },
+     {
+      "q": "sell my house fast essington pa",
+      "position": 14.2,
+      "url": "https://roinational.com/we-buy-houses-kensington-district-pa/",
+      "delta": null
+     }
+    ],
+    "summary": "98 impressions at stake \u00b7 22 keywords on page 2 \u00b7 5 on page 3 \u00b7 AI citation 0%"
+   },
+   "stages": {
+    "rungs": [
+     {
+      "name": "1. Foundation Lock (entity, schema, GBP claimed)",
+      "state": "active",
+      "evidence": "GBP API reachable: False [engine config]",
+      "gap": "GBP not reachable via admin@ API, access grant needed"
+     },
+     {
+      "name": "2. Page Optimization (CK-gated pages live)",
+      "state": "done",
+      "evidence": "2 page(s)/post(s) released through the CK gate [release queue]",
+      "gap": ""
+     },
+     {
+      "name": "3. Content Engine (60-day calendar running)",
+      "state": "gap",
+      "evidence": "calendar on file, 5 overdue [engine calendar]",
+      "gap": "5 planned item(s) past date"
+     },
+     {
+      "name": "4. Local presence (GBP posting cadence)",
+      "state": "gap",
+      "evidence": "0 GBP post(s) in the last 14 days [GBP post logs]",
+      "gap": "no GBP posts logged in 14 days"
+     },
+     {
+      "name": "5. Growth sprints (audit findings worked down)",
+      "state": "gap",
+      "evidence": "open decisions + fixer queue drive this stage [fixer queue]",
+      "gap": "see the Approvals tab for this client's open items"
+     },
+     {
+      "name": "6. Compound loop (weekly GSC measurement)",
+      "state": "done",
+      "evidence": "weekly GSC keyword tracking: ON, week 2026-W32 [Monday engine run]",
+      "gap": ""
+     }
+    ],
+    "next_move": "GBP not reachable via admin@ API, access grant needed"
+   },
+   "fixer_active": [
+    {
+     "finding": "GBP profile strength for ROI National - Sell Your House for Cash (locations/4585880644306131760) not yet verified at 100%",
+     "state": "queued"
+    },
+    {
+     "finding": "Post 2284 (/we-buy-houses-levittown-pa/) had entity-rich about/mentions data (2 about, 16 mentions, Wikidata-sourced) in a duplicate in-content BlogPo",
+     "state": "queued"
+    },
+    {
+     "finding": "Rank report: page 2 at position 12.2: 'sell my house fast Philadelphia'",
+     "state": "queued"
+    },
+    {
+     "finding": "Rank report: deep at position 44.2: 'sell my house fast Bucks County PA'",
+     "state": "queued"
+    },
+    {
+     "finding": "Rank report: page 2 at position 11: 'we buy houses Levittown PA'",
+     "state": "queued"
+    }
+   ],
+   "kw_moves": [
+    {
+     "q": "bucks county upset sale",
+     "position": 8.5,
+     "url": "https://roinational.com/delinquent-property-taxes-bucks-county/",
+     "delta": null,
+     "action": "tracked; no content action scheduled yet"
+    },
+    {
+     "q": "sell my house fast bucks county pa",
+     "position": 8.8,
+     "url": "https://roinational.com/how-to-sell-your-house-fast-in-bucks-county-pa-complete-2026-guide/",
+     "delta": 8.8,
+     "action": "content overdue (2026-07-09)"
+    },
+    {
+     "q": "delinquent tax roll",
+     "position": 10.0,
+     "url": "https://roinational.com/delinquent-property-taxes-bucks-county/",
+     "delta": null,
+     "action": "tracked; no content action scheduled yet"
+    },
+    {
+     "q": "sell my water damaged house",
+     "position": 11.0,
+     "url": "https://roinational.com/sell-damaged-house-pennsylvania/",
+     "delta": 0.0,
+     "action": "content planned (2026-08-06)"
+    },
+    {
+     "q": "flood/storm/fire damage sell house",
+     "position": 12.0,
+     "url": "https://roinational.com/sell-damaged-house-pennsylvania/",
+     "delta": null,
+     "action": "tracked; no content action scheduled yet"
+    },
+    {
+     "q": "the roi guys reviews",
+     "position": 12.0,
+     "url": "https://roinational.com/customer-reviews/",
+     "delta": -3.0,
+     "action": "tracked; no content action scheduled yet"
+    },
+    {
+     "q": "sell my house fast levittown",
+     "position": 13.4,
+     "url": "https://roinational.com/levittown-pa/",
+     "delta": 8.2,
+     "action": "content planned (2026-08-11)"
+    },
+    {
+     "q": "sell your house fast levittown pa",
+     "position": 13.8,
+     "url": "https://roinational.com/levittown-pa/",
+     "delta": null,
+     "action": "tracked; no content action scheduled yet"
+    },
+    {
+     "q": "get cash fast levittown pa",
+     "position": 13.9,
+     "url": "https://roinational.com/we-buy-houses-levittown-pa/",
+     "delta": null,
+     "action": "content planned (2026-08-13)"
+    },
+    {
+     "q": "sell my house fast essington pa",
+     "position": 14.2,
+     "url": "https://roinational.com/we-buy-houses-kensington-district-pa/",
+     "delta": null,
+     "action": "tracked; no content action scheduled yet"
+    }
+   ],
+   "reports": [
+    {
+     "name": "Weekly-Work-Report-2026-08-03-DRAFT.md",
+     "obsidian": "obsidian://open?vault=Obsidian%20Vault&file=01%20-%20Business/Clients/Active/ROI%20National/Reports/Weekly-Work-Report-2026-08-03-DRAFT.md",
+     "date": "2026-08-03"
+    },
+    {
+     "name": "Weekly-Email-2026-08-03.md",
+     "obsidian": "obsidian://open?vault=Obsidian%20Vault&file=01%20-%20Business/Clients/Active/ROI%20National/Reports/Weekly-Email-2026-08-03.md",
+     "date": "2026-08-03"
+    },
+    {
+     "name": "Monthly-Email-2026-08.md",
+     "obsidian": "obsidian://open?vault=Obsidian%20Vault&file=01%20-%20Business/Clients/Active/ROI%20National/Reports/Monthly-Email-2026-08.md",
+     "date": "2026-08-01"
+    },
+    {
+     "name": "Monthly-Report-2026-07.md",
+     "obsidian": "obsidian://open?vault=Obsidian%20Vault&file=01%20-%20Business/Clients/Active/ROI%20National/Reports/Monthly-Report-2026-07.md",
+     "date": "2026-07-31"
+    },
+    {
+     "name": "Weekly-Email-2026-07-27.md",
+     "obsidian": "obsidian://open?vault=Obsidian%20Vault&file=01%20-%20Business/Clients/Active/ROI%20National/Reports/Weekly-Email-2026-07-27.md",
+     "date": "2026-07-27"
+    },
+    {
+     "name": "Weekly-Email-2026-07-20.md",
+     "obsidian": "obsidian://open?vault=Obsidian%20Vault&file=01%20-%20Business/Clients/Active/ROI%20National/Reports/Weekly-Email-2026-07-20.md",
+     "date": "2026-07-20"
+    },
+    {
+     "name": "Weekly-Email-2026-07-13.md",
+     "obsidian": "obsidian://open?vault=Obsidian%20Vault&file=01%20-%20Business/Clients/Active/ROI%20National/Reports/Weekly-Email-2026-07-13.md",
+     "date": "2026-07-13"
+    }
+   ]
+  },
+  "vector": {
+   "name": "Vector Sleep Clinic",
+   "domain": "vectorsleepclinic.com",
+   "gbp_posts": [
+    {
+     "date": "2026-07-17",
+     "title": "2026-07-17.md",
+     "timestamp": "",
+     "status": "log file (unparsed format)",
+     "link": "",
+     "image": "",
+     "body": "# GBP Post Log: Vector Sleep Clinic, 2026-07-17\n**Timestamp:** 2026-07-17 ~18:40 EDT (interactive session, Alla-authorized batch)\n**Authorization:** Alla in chat 2026-07-17: publish without per-page a",
+     "log_file": "/Users/home/Documents/Obsidian Vault/01 - Business/Clients/Active/Vector Sleep Clinic/Marketing/GBP-Posts/2026-07-17.md"
+    },
+    {
+     "date": "2026-07-16",
+     "title": "pair post for the sleep apnea doctor Manhattan guide",
+     "timestamp": "2026-07-16 (engine-run daily, autonomous)",
+     "status": "PUBLISHED, verified live by API read-back",
+     "link": "https://vectorsleepclinic.com/sleep-apnea-doctor-manhattan/",
+     "image": "",
+     "body": "Do you stop breathing in your sleep, or has someone told you that you snore and gasp at night? Our new guide explains what a sleep apnea doctor actually does, how in-lab testing at our Rego Park clinic works, and what treatment looks like after a diagnosis. It is written for Manh",
+     "log_file": "/Users/home/Documents/Obsidian Vault/01 - Business/Clients/Active/Vector Sleep Clinic/Marketing/GBP-Posts/2026-07-16.md"
+    }
+   ],
+   "published": [
+    {
+     "topic": "sleep apnea doctor Manhattan",
+     "type": "blog",
+     "live_url": "",
+     "released_on": ""
+    },
+    {
+     "topic": "sleep study New York",
+     "type": "blog",
+     "live_url": "",
+     "released_on": ""
+    }
+   ],
+   "plan": {
+    "promise": "2",
+    "overdue": [],
+    "upcoming": [
+     {
+      "topic": "sleep specialist New York City",
+      "date": "2026-08-05",
+      "type": "truthlayer"
+     },
+     {
+      "topic": "insomnia treatment NYC",
+      "date": "2026-08-12",
+      "type": "truthlayer"
+     },
+     {
+      "topic": "CBT-I therapist New York",
+      "date": "2026-08-19",
+      "type": "truthlayer"
+     },
+     {
+      "topic": "dr dmitriy kolesnik",
+      "date": "2026-08-21",
+      "type": "service"
+     },
+     {
+      "topic": "insomnia support group near me",
+      "date": "2026-08-26",
+      "type": "service"
+     }
+    ],
+    "available": true
+   },
+   "calendar": [
+    {
+     "date": "2026-08-05",
+     "topic": "sleep specialist New York City",
+     "type": "truthlayer",
+     "query": "sleep specialist New York City",
+     "status": "planned"
+    },
+    {
+     "date": "2026-08-07",
+     "topic": "sleep apnea doctor Manhattan",
+     "type": "truthlayer",
+     "query": "sleep apnea doctor Manhattan",
+     "status": "released"
+    },
+    {
+     "date": "2026-08-12",
+     "topic": "insomnia treatment NYC",
+     "type": "truthlayer",
+     "query": "insomnia treatment NYC",
+     "status": "planned"
+    },
+    {
+     "date": "2026-08-14",
+     "topic": "sleep study New York",
+     "type": "truthlayer",
+     "query": "sleep study New York",
+     "status": "released"
+    },
+    {
+     "date": "2026-08-19",
+     "topic": "CBT-I therapist New York",
+     "type": "truthlayer",
+     "query": "CBT-I therapist New York",
+     "status": "in pipeline"
+    },
+    {
+     "date": "2026-08-21",
+     "topic": "dr dmitriy kolesnik",
+     "type": "service",
+     "query": "dr dmitriy kolesnik",
+     "status": "planned"
+    },
+    {
+     "date": "2026-08-26",
+     "topic": "insomnia support group near me",
+     "type": "service",
+     "query": "insomnia support group near me",
+     "status": "planned"
+    },
+    {
+     "date": "2026-08-28",
+     "topic": "dmitriy kolesnik md",
+     "type": "service",
+     "query": "dmitriy kolesnik md",
+     "status": "planned"
+    },
+    {
+     "date": "2026-09-02",
+     "topic": "dr dmitriy v kolesnik md reviews",
+     "type": "service",
+     "query": "dr dmitriy v kolesnik md reviews",
+     "status": "planned"
+    },
+    {
+     "date": "2026-09-04",
+     "topic": "narcolepsy support group near me",
+     "type": "service",
+     "query": "narcolepsy support group near me",
+     "status": "planned"
+    },
+    {
+     "date": "2026-09-09",
+     "topic": "herbs for rls",
+     "type": "service",
+     "query": "herbs for rls",
+     "status": "planned"
+    },
+    {
+     "date": "2026-09-11",
+     "topic": "sleep clinic bronx",
+     "type": "service",
+     "query": "sleep clinic bronx",
+     "status": "planned"
+    },
+    {
+     "date": "2026-09-16",
+     "topic": "valerian root for restless legs",
+     "type": "service",
+     "query": "valerian root for restless legs",
+     "status": "planned"
+    },
+    {
+     "date": "2026-09-18",
+     "topic": "otc for restless legs",
+     "type": "service",
+     "query": "otc for restless legs",
+     "status": "planned"
+    },
+    {
+     "date": "2026-09-23",
+     "topic": "valerian root for rls",
+     "type": "service",
+     "query": "valerian root for rls",
+     "status": "planned"
+    },
+    {
+     "date": "2026-09-25",
+     "topic": "inconsistent sleep patterns",
+     "type": "service",
+     "query": "inconsistent sleep patterns",
+     "status": "planned"
+    }
+   ],
+   "keywords": {
+    "requested": [],
+    "requested_available": false,
+    "working": [
+     {
+      "q": "sleep specialist New York City",
+      "date": "2026-08-05",
+      "status": "planned"
+     },
+     {
+      "q": "sleep apnea doctor Manhattan",
+      "date": "2026-08-07",
+      "status": "released"
+     },
+     {
+      "q": "insomnia treatment NYC",
+      "date": "2026-08-12",
+      "status": "planned"
+     },
+     {
+      "q": "sleep study New York",
+      "date": "2026-08-14",
+      "status": "released"
+     },
+     {
+      "q": "CBT-I therapist New York",
+      "date": "2026-08-19",
+      "status": "in pipeline"
+     },
+     {
+      "q": "dr dmitriy kolesnik",
+      "date": "2026-08-21",
+      "status": "planned"
+     },
+     {
+      "q": "insomnia support group near me",
+      "date": "2026-08-26",
+      "status": "planned"
+     },
+     {
+      "q": "dmitriy kolesnik md",
+      "date": "2026-08-28",
+      "status": "planned"
+     },
+     {
+      "q": "dr dmitriy v kolesnik md reviews",
+      "date": "2026-09-02",
+      "status": "planned"
+     },
+     {
+      "q": "narcolepsy support group near me",
+      "date": "2026-09-04",
+      "status": "planned"
+     },
+     {
+      "q": "herbs for rls",
+      "date": "2026-09-09",
+      "status": "planned"
+     },
+     {
+      "q": "sleep clinic bronx",
+      "date": "2026-09-11",
+      "status": "planned"
+     },
+     {
+      "q": "valerian root for restless legs",
+      "date": "2026-09-16",
+      "status": "planned"
+     },
+     {
+      "q": "otc for restless legs",
+      "date": "2026-09-18",
+      "status": "planned"
+     },
+     {
+      "q": "valerian root for rls",
+      "date": "2026-09-23",
+      "status": "planned"
+     },
+     {
+      "q": "inconsistent sleep patterns",
+      "date": "2026-09-25",
+      "status": "planned"
+     }
+    ],
+    "hubs": [
+     {
+      "hub": "drkolesnik",
+      "pages": 127
+     },
+     {
+      "hub": "what-are-the-dangers-of-sleep-walking-in-adults",
+      "pages": 21
+     },
+     {
+      "hub": "cbt-i",
+      "pages": 19
+     },
+     {
+      "hub": "how-to-cure-apnea",
+      "pages": 17
+     },
+     {
+      "hub": "concierge-sleep-evaluation",
+      "pages": 16
+     },
+     {
+      "hub": "rego-park-ny",
+      "pages": 13
+     },
+     {
+      "hub": "rego-park-ny",
+      "pages": 10
+     },
+     {
+      "hub": "insomnia-solutions",
+      "pages": 8
+     },
+     {
+      "hub": "restless-leg-syndrome",
+      "pages": 8
+     },
+     {
+      "hub": "snoring-to-sleep-apnea-sleep-study-diagnosis",
+      "pages": 8
+     }
+    ]
+   },
+   "gsc": {
+    "available": true,
+    "week": "2026-W32",
+    "rows": [
+     {
+      "q": "dr dmitriy kolesnik",
+      "position": 8.3,
+      "url": "https://vectorsleepclinic.com/drkolesnik/",
+      "delta": 0.7
+     },
+     {
+      "q": "valerian root for restless legs",
+      "position": 8.5,
+      "url": "https://vectorsleepclinic.com/are-there-any-alternative-therapies-for-treating-restless-leg-syndrome/",
+      "delta": null
+     },
+     {
+      "q": "dr dmitriy v kolesnik md reviews",
+      "position": 8.8,
+      "url": "https://vectorsleepclinic.com/drkolesnik/",
+      "delta": 2.2
+     },
+     {
+      "q": "dmitriy kolesnik md",
+      "position": 8.8,
+      "url": "https://vectorsleepclinic.com/drkolesnik/",
+      "delta": 0.2
+     },
+     {
+      "q": "valerian root restless leg syndrome",
+      "position": 9.2,
+      "url": "https://vectorsleepclinic.com/are-there-any-alternative-therapies-for-treating-restless-leg-syndrome/",
+      "delta": null
+     },
+     {
+      "q": "insomnia support group near me",
+      "position": 12.0,
+      "url": "https://vectorsleepclinic.com/are-there-any-support-groups-for-people-with-sleep-disorders-in-new-york-city/",
+      "delta": null
+     },
+     {
+      "q": "sleep clinic bronx",
+      "position": 12.0,
+      "url": "https://vectorsleepclinic.com/locations/the-bronx-2/",
+      "delta": null
+     },
+     {
+      "q": "herbs for rls",
+      "position": 12.0,
+      "url": "https://vectorsleepclinic.com/are-there-any-alternative-therapies-for-treating-restless-leg-syndrome/",
+      "delta": null
+     },
+     {
+      "q": "inconsistent sleep patterns",
+      "position": 15.0,
+      "url": "https://vectorsleepclinic.com/bad-sleep-habits-to-avoid/",
+      "delta": null
+     },
+     {
+      "q": "narcolepsy support group near me",
+      "position": 19.0,
+      "url": "https://vectorsleepclinic.com/are-there-any-support-groups-for-people-with-sleep-disorders-in-new-york-city/",
+      "delta": -2.6
+     }
+    ],
+    "summary": "56 impressions at stake \u00b7 20 keywords on page 2 \u00b7 4 on page 3 \u00b7 AI citation 0%"
+   },
+   "stages": {
+    "rungs": [
+     {
+      "name": "1. Foundation Lock (entity, schema, GBP claimed)",
+      "state": "done",
+      "evidence": "GBP API reachable: True [engine config]",
+      "gap": ""
+     },
+     {
+      "name": "2. Page Optimization (CK-gated pages live)",
+      "state": "done",
+      "evidence": "2 page(s)/post(s) released through the CK gate [release queue]",
+      "gap": ""
+     },
+     {
+      "name": "3. Content Engine (60-day calendar running)",
+      "state": "done",
+      "evidence": "calendar on file, 0 overdue [engine calendar]",
+      "gap": ""
+     },
+     {
+      "name": "4. Local presence (GBP posting cadence)",
+      "state": "active",
+      "evidence": "0 GBP post(s) in the last 14 days [GBP post logs]",
+      "gap": "no GBP posts logged in 14 days"
+     },
+     {
+      "name": "5. Growth sprints (audit findings worked down)",
+      "state": "gap",
+      "evidence": "open decisions + fixer queue drive this stage [fixer queue]",
+      "gap": "see the Approvals tab for this client's open items"
+     },
+     {
+      "name": "6. Compound loop (weekly GSC measurement)",
+      "state": "done",
+      "evidence": "weekly GSC keyword tracking: ON, week 2026-W32 [Monday engine run]",
+      "gap": ""
+     }
+    ],
+    "next_move": "no GBP posts logged in 14 days"
+   },
+   "fixer_active": [
+    {
+     "finding": "GBP profile strength for Vector Sleep Diagnostic Center (locations/1428495091849280885) not yet verified at 100%",
+     "state": "queued"
+    },
+    {
+     "finding": "Rank report action: Manhattan vs Queens geo-targeting conflict; /sleep-apnea-doctor-manhattan/ may cannibalize Queens intent",
+     "state": "queued"
+    },
+    {
+     "finding": "Rank report action: thin topical authority for sleep informational queries",
+     "state": "queued"
+    },
+    {
+     "finding": "Rank report: deep at position 58: 'sleep apnea treatment NYC'",
+     "state": "queued"
+    },
+    {
+     "finding": "Rank report: no ranking presence: 'insomnia treatment NYC'",
+     "state": "queued"
+    },
+    {
+     "finding": "Rank report: no ranking presence: 'CPAP therapy Queens NY'",
+     "state": "queued"
+    },
+    {
+     "finding": "Rank report: no ranking presence: 'sleep disorder specialist NYC'",
+     "state": "queued"
+    },
+    {
+     "finding": "Rank report: no ranking presence: 'sleep study near me Queens'",
+     "state": "queued"
+    },
+    {
+     "finding": "Rank report: no ranking presence: 'polysomnography Queens NY'",
+     "state": "queued"
+    },
+    {
+     "finding": "Rank report: no ranking presence: 'sleep apnea specialist Rego Park'",
+     "state": "queued"
+    }
+   ],
+   "kw_moves": [
+    {
+     "q": "dr dmitriy kolesnik",
+     "position": 8.3,
+     "url": "https://vectorsleepclinic.com/drkolesnik/",
+     "delta": 0.7,
+     "action": "content planned (2026-08-21)"
+    },
+    {
+     "q": "valerian root for restless legs",
+     "position": 8.5,
+     "url": "https://vectorsleepclinic.com/are-there-any-alternative-therapies-for-treating-restless-leg-syndrome/",
+     "delta": null,
+     "action": "content planned (2026-09-16)"
+    },
+    {
+     "q": "dr dmitriy v kolesnik md reviews",
+     "position": 8.8,
+     "url": "https://vectorsleepclinic.com/drkolesnik/",
+     "delta": 2.2,
+     "action": "content planned (2026-09-02)"
+    },
+    {
+     "q": "dmitriy kolesnik md",
+     "position": 8.8,
+     "url": "https://vectorsleepclinic.com/drkolesnik/",
+     "delta": 0.2,
+     "action": "content planned (2026-08-28)"
+    },
+    {
+     "q": "valerian root restless leg syndrome",
+     "position": 9.2,
+     "url": "https://vectorsleepclinic.com/are-there-any-alternative-therapies-for-treating-restless-leg-syndrome/",
+     "delta": null,
+     "action": "tracked; no content action scheduled yet"
+    },
+    {
+     "q": "insomnia support group near me",
+     "position": 12.0,
+     "url": "https://vectorsleepclinic.com/are-there-any-support-groups-for-people-with-sleep-disorders-in-new-york-city/",
+     "delta": null,
+     "action": "content planned (2026-08-26)"
+    },
+    {
+     "q": "sleep clinic bronx",
+     "position": 12.0,
+     "url": "https://vectorsleepclinic.com/locations/the-bronx-2/",
+     "delta": null,
+     "action": "content planned (2026-09-11)"
+    },
+    {
+     "q": "herbs for rls",
+     "position": 12.0,
+     "url": "https://vectorsleepclinic.com/are-there-any-alternative-therapies-for-treating-restless-leg-syndrome/",
+     "delta": null,
+     "action": "content planned (2026-09-09)"
+    },
+    {
+     "q": "inconsistent sleep patterns",
+     "position": 15.0,
+     "url": "https://vectorsleepclinic.com/bad-sleep-habits-to-avoid/",
+     "delta": null,
+     "action": "content planned (2026-09-25)"
+    },
+    {
+     "q": "narcolepsy support group near me",
+     "position": 19.0,
+     "url": "https://vectorsleepclinic.com/are-there-any-support-groups-for-people-with-sleep-disorders-in-new-york-city/",
+     "delta": -2.6,
+     "action": "content planned (2026-09-04)"
+    }
+   ],
+   "reports": [
+    {
+     "name": "Weekly-Email-2026-08-03.md",
+     "obsidian": "obsidian://open?vault=Obsidian%20Vault&file=01%20-%20Business/Clients/Active/Vector%20Sleep%20Clinic/Reports/Weekly-Email-2026-08-03.md",
+     "date": "2026-08-03"
+    },
+    {
+     "name": "Monthly-Email-2026-08.md",
+     "obsidian": "obsidian://open?vault=Obsidian%20Vault&file=01%20-%20Business/Clients/Active/Vector%20Sleep%20Clinic/Reports/Monthly-Email-2026-08.md",
+     "date": "2026-08-01"
+    },
+    {
+     "name": "Monthly-Report-2026-07.md",
+     "obsidian": "obsidian://open?vault=Obsidian%20Vault&file=01%20-%20Business/Clients/Active/Vector%20Sleep%20Clinic/Reports/Monthly-Report-2026-07.md",
+     "date": "2026-07-31"
+    },
+    {
+     "name": "Weekly-Email-2026-07-27.md",
+     "obsidian": "obsidian://open?vault=Obsidian%20Vault&file=01%20-%20Business/Clients/Active/Vector%20Sleep%20Clinic/Reports/Weekly-Email-2026-07-27.md",
+     "date": "2026-07-27"
+    },
+    {
+     "name": "Weekly-Email-2026-07-20.md",
+     "obsidian": "obsidian://open?vault=Obsidian%20Vault&file=01%20-%20Business/Clients/Active/Vector%20Sleep%20Clinic/Reports/Weekly-Email-2026-07-20.md",
+     "date": "2026-07-20"
+    },
+    {
+     "name": "Weekly-Email-2026-07-13.md",
+     "obsidian": "obsidian://open?vault=Obsidian%20Vault&file=01%20-%20Business/Clients/Active/Vector%20Sleep%20Clinic/Reports/Weekly-Email-2026-07-13.md",
+     "date": "2026-07-13"
+    },
+    {
+     "name": "Weekly-Email-2026-07-06.md",
+     "obsidian": "obsidian://open?vault=Obsidian%20Vault&file=01%20-%20Business/Clients/Active/Vector%20Sleep%20Clinic/Reports/Weekly-Email-2026-07-06.md",
+     "date": "2026-07-06"
+    },
+    {
+     "name": "Weekly-Email-2026-07-03.md",
+     "obsidian": "obsidian://open?vault=Obsidian%20Vault&file=01%20-%20Business/Clients/Active/Vector%20Sleep%20Clinic/Reports/Weekly-Email-2026-07-03.md",
+     "date": "2026-07-03"
+    }
+   ]
+  },
+  "ybr": {
+   "name": "YBR Roofing Siding & Windows",
+   "domain": "ybrroofingsidingwindows.com",
+   "gbp_posts": [
+    {
+     "date": "2026-07-17",
+     "title": "2026-07-17.md",
+     "timestamp": "",
+     "status": "log file (unparsed format)",
+     "link": "",
+     "image": "",
+     "body": "# GBP Post Log: YBR Roofing Siding and Windows, 2026-07-17\n**Timestamp:** 2026-07-17 ~18:40 EDT (interactive session, Alla-authorized batch)\n**Authorization:** Alla in chat 2026-07-17: publish without",
+     "log_file": "/Users/home/Documents/Obsidian Vault/01 - Business/Clients/Active/YBR Roofing Siding and Windows/Marketing/GBP-Posts/2026-07-17.md"
+    },
+    {
+     "date": "2026-07-09",
+     "title": "2026-07-09.md",
+     "timestamp": "",
+     "status": "log file (unparsed format)",
+     "link": "",
+     "image": "",
+     "body": "# GBP Post \u2014 2026-07-09\n\n**Profile:** YBR GROUP Inc\n**Queued date:** 2026-04-29 (posted 71 days late, from backlog \u2014 cron gap, see WORK-LOG)\n**Posted:** 2026-07-09, direct Google Business Profile API ",
+     "log_file": "/Users/home/Documents/Obsidian Vault/01 - Business/Clients/Active/YBR Roofing Siding and Windows/Marketing/GBP-Posts/2026-07-09.md"
+    },
+    {
+     "date": "2026-06-01",
+     "title": "2026-06-01.md",
+     "timestamp": "",
+     "status": "log file (unparsed format)",
+     "link": "",
+     "image": "",
+     "body": "# YBR GBP Post \u2014 2026-06-01\n\n**Profile:** YBR GROUP Inc\n**Location ID:** accounts/114215851326449996098/locations/6336253721126147016\n**Post resource name:** accounts/114215851326449996098/locations/6",
+     "log_file": "/Users/home/Documents/Obsidian Vault/01 - Business/Clients/Active/YBR Roofing Siding and Windows/Marketing/GBP-Posts/2026-06-01.md"
+    },
+    {
+     "date": "2026-05-15",
+     "title": "2026-05-15-batch.md",
+     "timestamp": "",
+     "status": "log file (unparsed format)",
+     "link": "",
+     "image": "",
+     "body": "# YBR GBP Posts \u2014 Batch 2026-05-15\n\n**Profile:** YBR GROUP Inc (ludocid: 8760659385398225641)\n**Submitted by:** admin@aigwebmethods.com\n**Submission time:** ~2026-05-15 23:35\u201323:50 ET\n**Post type:** U",
+     "log_file": "/Users/home/Documents/Obsidian Vault/01 - Business/Clients/Active/YBR Roofing Siding and Windows/Marketing/GBP-Posts/2026-05-15-batch.md"
+    }
+   ],
+   "published": [
+    {
+     "topic": "metal roofing vs asphalt shingles Pennsylvania",
+     "type": "blog",
+     "live_url": "https://ybrroofingsidingwindows.com/metal-roofing-vs-asphalt-shingles-pennsylvania/",
+     "released_on": "2026-08-01 12:45"
+    },
+    {
+     "topic": "How Long Does a Roof Replacement Take in Bucks County PA",
+     "type": "blog",
+     "live_url": "",
+     "released_on": ""
+    }
+   ],
+   "plan": {
+    "promise": "2",
+    "overdue": [],
+    "upcoming": [
+     {
+      "topic": "best roofing contractor Bucks County PA",
+      "date": "2026-08-04",
+      "type": "truthlayer"
+     },
+     {
+      "topic": "James Hardie siding installer Bucks County",
+      "date": "2026-08-06",
+      "type": "truthlayer"
+     },
+     {
+      "topic": "emergency roof repair Southampton PA",
+      "date": "2026-08-11",
+      "type": "truthlayer"
+     },
+     {
+      "topic": "window replacement contractor Bucks County",
+      "date": "2026-08-13",
+      "type": "truthlayer"
+     },
+     {
+      "topic": "new+roof+cost+bucks+county+pa",
+      "date": "2026-08-20",
+      "type": "blog"
+     }
+    ],
+    "available": true
+   },
+   "calendar": [
+    {
+     "date": "2026-08-04",
+     "topic": "best roofing contractor Bucks County PA",
+     "type": "truthlayer",
+     "query": "best roofing contractor Bucks County PA",
+     "status": "planned"
+    },
+    {
+     "date": "2026-08-06",
+     "topic": "James Hardie siding installer Bucks County",
+     "type": "truthlayer",
+     "query": "James Hardie siding installer Bucks County",
+     "status": "planned"
+    },
+    {
+     "date": "2026-08-11",
+     "topic": "emergency roof repair Southampton PA",
+     "type": "truthlayer",
+     "query": "emergency roof repair Southampton PA",
+     "status": "planned"
+    },
+    {
+     "date": "2026-08-13",
+     "topic": "window replacement contractor Bucks County",
+     "type": "truthlayer",
+     "query": "window replacement contractor Bucks County",
+     "status": "planned"
+    },
+    {
+     "date": "2026-08-18",
+     "topic": "metal roofing vs asphalt shingles Pennsylvania",
+     "type": "truthlayer",
+     "query": "metal roofing vs asphalt shingles Pennsylvania",
+     "status": "released"
+    },
+    {
+     "date": "2026-08-20",
+     "topic": "new+roof+cost+bucks+county+pa",
+     "type": "blog",
+     "query": "new+roof+cost+bucks+county+pa",
+     "status": "planned"
+    },
+    {
+     "date": "2026-08-25",
+     "topic": "roof+decking+replacement+cost+bucks+county+pa",
+     "type": "blog",
+     "query": "roof+decking+replacement+cost+bucks+county+pa",
+     "status": "planned"
+    },
+    {
+     "date": "2026-08-27",
+     "topic": "roof+replacement+timeline+bucks+county+pa",
+     "type": "location",
+     "query": "roof+replacement+timeline+bucks+county+pa",
+     "status": "planned"
+    },
+    {
+     "date": "2026-09-01",
+     "topic": "hardie+board+siding+installation+bucks+county",
+     "type": "location",
+     "query": "hardie+board+siding+installation+bucks+county",
+     "status": "planned"
+    },
+    {
+     "date": "2026-09-03",
+     "topic": "roof replacement estimate bucks county pa",
+     "type": "location",
+     "query": "roof replacement estimate bucks county pa",
+     "status": "planned"
+    },
+    {
+     "date": "2026-09-08",
+     "topic": "roof+replacement+cost+breakdown+bucks+county+pa",
+     "type": "blog",
+     "query": "roof+replacement+cost+breakdown+bucks+county+pa",
+     "status": "planned"
+    },
+    {
+     "date": "2026-09-10",
+     "topic": "roof+installation+cost+per+square+foot+bucks+county",
+     "type": "blog",
+     "query": "roof+installation+cost+per+square+foot+bucks+county",
+     "status": "planned"
+    },
+    {
+     "date": "2026-09-15",
+     "topic": "roof+replacement+cost+bucks+county+pa",
+     "type": "blog",
+     "query": "roof+replacement+cost+bucks+county+pa",
+     "status": "planned"
+    },
+    {
+     "date": "2026-09-17",
+     "topic": "window repair bucks county",
+     "type": "blog",
+     "query": "window repair bucks county",
+     "status": "planned"
+    },
+    {
+     "date": "2026-09-22",
+     "topic": "professional siding services doylestown pa",
+     "type": "location",
+     "query": "professional siding services doylestown pa",
+     "status": "planned"
+    },
+    {
+     "date": "2026-09-24",
+     "topic": "hardie+plank+siding+installation+bucks+county",
+     "type": "location",
+     "query": "hardie+plank+siding+installation+bucks+county",
+     "status": "planned"
+    }
+   ],
+   "keywords": {
+    "requested": [],
+    "requested_available": false,
+    "working": [
+     {
+      "q": "best roofing contractor Bucks County PA",
+      "date": "2026-08-04",
+      "status": "planned"
+     },
+     {
+      "q": "James Hardie siding installer Bucks County",
+      "date": "2026-08-06",
+      "status": "planned"
+     },
+     {
+      "q": "emergency roof repair Southampton PA",
+      "date": "2026-08-11",
+      "status": "planned"
+     },
+     {
+      "q": "window replacement contractor Bucks County",
+      "date": "2026-08-13",
+      "status": "planned"
+     },
+     {
+      "q": "metal roofing vs asphalt shingles Pennsylvania",
+      "date": "2026-08-18",
+      "status": "released"
+     },
+     {
+      "q": "new+roof+cost+bucks+county+pa",
+      "date": "2026-08-20",
+      "status": "planned"
+     },
+     {
+      "q": "roof+decking+replacement+cost+bucks+county+pa",
+      "date": "2026-08-25",
+      "status": "planned"
+     },
+     {
+      "q": "roof+replacement+timeline+bucks+county+pa",
+      "date": "2026-08-27",
+      "status": "planned"
+     },
+     {
+      "q": "hardie+board+siding+installation+bucks+county",
+      "date": "2026-09-01",
+      "status": "planned"
+     },
+     {
+      "q": "roof replacement estimate bucks county pa",
+      "date": "2026-09-03",
+      "status": "planned"
+     },
+     {
+      "q": "roof+replacement+cost+breakdown+bucks+county+pa",
+      "date": "2026-09-08",
+      "status": "planned"
+     },
+     {
+      "q": "roof+installation+cost+per+square+foot+bucks+county",
+      "date": "2026-09-10",
+      "status": "planned"
+     },
+     {
+      "q": "roof+replacement+cost+bucks+county+pa",
+      "date": "2026-09-15",
+      "status": "planned"
+     },
+     {
+      "q": "window repair bucks county",
+      "date": "2026-09-17",
+      "status": "planned"
+     },
+     {
+      "q": "professional siding services doylestown pa",
+      "date": "2026-09-22",
+      "status": "planned"
+     },
+     {
+      "q": "hardie+plank+siding+installation+bucks+county",
+      "date": "2026-09-24",
+      "status": "planned"
+     }
+    ],
+    "hubs": [
+     {
+      "hub": "siding",
+      "pages": 32
+     },
+     {
+      "hub": "roofing",
+      "pages": 28
+     },
+     {
+      "hub": "windows",
+      "pages": 26
+     },
+     {
+      "hub": "hail-damage-bucks-county-pa",
+      "pages": 16
+     },
+     {
+      "hub": "yardley-pa",
+      "pages": 12
+     },
+     {
+      "hub": "stone-veneer-vs-stucco-pennsylvania",
+      "pages": 10
+     },
+     {
+      "hub": "yardley-pa",
+      "pages": 6
+     },
+     {
+      "hub": "pa-energy-rebates-bucks-county",
+      "pages": 6
+     },
+     {
+      "hub": "bucks-county-contractor-guide",
+      "pages": 5
+     },
+     {
+      "hub": "attic-ventilation-summer-heat-pennsylvania",
+      "pages": 4
+     }
+    ]
+   },
+   "gsc": {
+    "available": true,
+    "week": "2026-W32",
+    "rows": [
+     {
+      "q": "roof replacement cost bucks county pa",
+      "position": 7.9,
+      "url": "https://ybrroofingsidingwindows.com/roof-replacement-cost-bucks-county-pa/",
+      "delta": null
+     },
+     {
+      "q": "roof replacement cost bucks county pa",
+      "position": 8.0,
+      "url": "https://ybrroofingsidingwindows.com/roof-replacement-cost-bucks-county-pa/",
+      "delta": null
+     },
+     {
+      "q": "roof replacement estimate bucks county pa",
+      "position": 10.3,
+      "url": "https://ybrroofingsidingwindows.com/roof-replacement-cost-bucks-county-pa/",
+      "delta": null
+     },
+     {
+      "q": "hardie board siding installation bucks county",
+      "position": 11.0,
+      "url": "https://ybrroofingsidingwindows.com/james-hardie-siding-installation-pennsylvania/",
+      "delta": -0.5
+     },
+     {
+      "q": "roof decking replacement cost bucks county pa",
+      "position": 12.6,
+      "url": "https://ybrroofingsidingwindows.com/roof-replacement-cost-bucks-county-pa/",
+      "delta": -0.2
+     },
+     {
+      "q": "new roof cost bucks county pa",
+      "position": 12.9,
+      "url": "https://ybrroofingsidingwindows.com/roof-replacement-cost-bucks-county-pa/",
+      "delta": -2.9
+     },
+     {
+      "q": "roof replacement timeline bucks county pa",
+      "position": 15.1,
+      "url": "https://ybrroofingsidingwindows.com/how-long-does-a-roof-replacement-take-bucks-county-pa/",
+      "delta": -7.0
+     },
+     {
+      "q": "roof installation cost per square foot bucks county",
+      "position": 20.9,
+      "url": "https://ybrroofingsidingwindows.com/roof-replacement-cost-bucks-county-pa/",
+      "delta": null
+     },
+     {
+      "q": "roof replacement cost breakdown bucks county pa",
+      "position": 23.5,
+      "url": "https://ybrroofingsidingwindows.com/roof-replacement-cost-bucks-county-pa/",
+      "delta": -0.1
+     },
+     {
+      "q": "professional siding services doylestown pa",
+      "position": 25.0,
+      "url": "https://ybrroofingsidingwindows.com/siding/",
+      "delta": null
+     }
+    ],
+    "summary": "110 impressions at stake \u00b7 6 keywords on page 2 \u00b7 4 on page 3 \u00b7 AI citation 10%"
+   },
+   "stages": {
+    "rungs": [
+     {
+      "name": "1. Foundation Lock (entity, schema, GBP claimed)",
+      "state": "done",
+      "evidence": "GBP API reachable: True [engine config]",
+      "gap": ""
+     },
+     {
+      "name": "2. Page Optimization (CK-gated pages live)",
+      "state": "done",
+      "evidence": "2 page(s)/post(s) released through the CK gate [release queue]",
+      "gap": ""
+     },
+     {
+      "name": "3. Content Engine (60-day calendar running)",
+      "state": "done",
+      "evidence": "calendar on file, 0 overdue [engine calendar]",
+      "gap": ""
+     },
+     {
+      "name": "4. Local presence (GBP posting cadence)",
+      "state": "active",
+      "evidence": "0 GBP post(s) in the last 14 days [GBP post logs]",
+      "gap": "no GBP posts logged in 14 days"
+     },
+     {
+      "name": "5. Growth sprints (audit findings worked down)",
+      "state": "gap",
+      "evidence": "open decisions + fixer queue drive this stage [fixer queue]",
+      "gap": "see the Approvals tab for this client's open items"
+     },
+     {
+      "name": "6. Compound loop (weekly GSC measurement)",
+      "state": "done",
+      "evidence": "weekly GSC keyword tracking: ON, week 2026-W32 [Monday engine run]",
+      "gap": ""
+     }
+    ],
+    "next_move": "no GBP posts logged in 14 days"
+   },
+   "fixer_active": [
+    {
+     "finding": "GBP profile strength for YBR GROUP Inc (locations/6336253721126147016) not yet verified at 100%",
+     "state": "queued"
+    },
+    {
+     "finding": "Alla requested BUILD NOW via dashboard for overdue calendar item: 'best roofing contractor Bucks County PA'",
+     "state": "queued"
+    },
+    {
+     "finding": "Alla requested BUILD NOW via dashboard for overdue calendar item: 'James Hardie siding installer Bucks County'",
+     "state": "queued"
+    },
+    {
+     "finding": "Alla requested BUILD NOW via dashboard for overdue calendar item: 'emergency roof repair Southampton PA'",
+     "state": "queued"
+    },
+    {
+     "finding": "Alla requested BUILD NOW via dashboard for overdue calendar item: 'window replacement contractor Bucks County'",
+     "state": "queued"
+    },
+    {
+     "finding": "GSC: NOT INDEXED: https://ybrroofingsidingwindows.com/metal-roofing-vs-asphalt-shingles-pennsylvania/ (URL is unknown to Google)",
+     "state": "queued"
+    },
+    {
+     "finding": "Rank report action: service pages lack explicit geo schema (Bucks County, Southampton, Holland, Levittown)",
+     "state": "queued"
+    },
+    {
+     "finding": "Rank report action: GSC sc-domain property returns 403 for the reporting credentials: rank data incomplete",
+     "state": "queued"
+    },
+    {
+     "finding": "Rank report: no ranking presence: 'roof replacement Southampton PA'",
+     "state": "queued"
+    },
+    {
+     "finding": "Rank report: page 2 at position 22.9: 'siding contractor Bucks County PA'",
+     "state": "queued"
+    }
+   ],
+   "kw_moves": [
+    {
+     "q": "roof replacement cost bucks county pa",
+     "position": 7.9,
+     "url": "https://ybrroofingsidingwindows.com/roof-replacement-cost-bucks-county-pa/",
+     "delta": null,
+     "action": "content planned (2026-09-15)"
+    },
+    {
+     "q": "roof replacement cost bucks county pa",
+     "position": 8.0,
+     "url": "https://ybrroofingsidingwindows.com/roof-replacement-cost-bucks-county-pa/",
+     "delta": null,
+     "action": "content planned (2026-09-15)"
+    },
+    {
+     "q": "roof replacement estimate bucks county pa",
+     "position": 10.3,
+     "url": "https://ybrroofingsidingwindows.com/roof-replacement-cost-bucks-county-pa/",
+     "delta": null,
+     "action": "content planned (2026-09-03)"
+    },
+    {
+     "q": "hardie board siding installation bucks county",
+     "position": 11.0,
+     "url": "https://ybrroofingsidingwindows.com/james-hardie-siding-installation-pennsylvania/",
+     "delta": -0.5,
+     "action": "content planned (2026-09-01)"
+    },
+    {
+     "q": "roof decking replacement cost bucks county pa",
+     "position": 12.6,
+     "url": "https://ybrroofingsidingwindows.com/roof-replacement-cost-bucks-county-pa/",
+     "delta": -0.2,
+     "action": "content planned (2026-08-25)"
+    },
+    {
+     "q": "new roof cost bucks county pa",
+     "position": 12.9,
+     "url": "https://ybrroofingsidingwindows.com/roof-replacement-cost-bucks-county-pa/",
+     "delta": -2.9,
+     "action": "content planned (2026-08-20)"
+    },
+    {
+     "q": "roof replacement timeline bucks county pa",
+     "position": 15.1,
+     "url": "https://ybrroofingsidingwindows.com/how-long-does-a-roof-replacement-take-bucks-county-pa/",
+     "delta": -7.0,
+     "action": "content planned (2026-08-27)"
+    },
+    {
+     "q": "roof installation cost per square foot bucks county",
+     "position": 20.9,
+     "url": "https://ybrroofingsidingwindows.com/roof-replacement-cost-bucks-county-pa/",
+     "delta": null,
+     "action": "content planned (2026-09-10)"
+    },
+    {
+     "q": "roof replacement cost breakdown bucks county pa",
+     "position": 23.5,
+     "url": "https://ybrroofingsidingwindows.com/roof-replacement-cost-bucks-county-pa/",
+     "delta": -0.1,
+     "action": "content planned (2026-09-08)"
+    },
+    {
+     "q": "professional siding services doylestown pa",
+     "position": 25.0,
+     "url": "https://ybrroofingsidingwindows.com/siding/",
+     "delta": null,
+     "action": "content planned (2026-09-22)"
+    }
+   ],
+   "reports": [
+    {
+     "name": "Weekly-Work-Report-2026-08-03-DRAFT.md",
+     "obsidian": "obsidian://open?vault=Obsidian%20Vault&file=01%20-%20Business/Clients/Active/YBR%20Roofing%20Siding%20and%20Windows/Reports/Weekly-Work-Report-2026-08-03-DRAFT.md",
+     "date": "2026-08-03"
+    },
+    {
+     "name": "Weekly-Email-2026-08-03.md",
+     "obsidian": "obsidian://open?vault=Obsidian%20Vault&file=01%20-%20Business/Clients/Active/YBR%20Roofing%20Siding%20and%20Windows/Reports/Weekly-Email-2026-08-03.md",
+     "date": "2026-08-03"
+    },
+    {
+     "name": "Monthly-Email-2026-08.md",
+     "obsidian": "obsidian://open?vault=Obsidian%20Vault&file=01%20-%20Business/Clients/Active/YBR%20Roofing%20Siding%20and%20Windows/Reports/Monthly-Email-2026-08.md",
+     "date": "2026-08-01"
+    },
+    {
+     "name": "Monthly-Report-2026-07.md",
+     "obsidian": "obsidian://open?vault=Obsidian%20Vault&file=01%20-%20Business/Clients/Active/YBR%20Roofing%20Siding%20and%20Windows/Reports/Monthly-Report-2026-07.md",
+     "date": "2026-07-31"
+    },
+    {
+     "name": "Weekly-Email-2026-07-27.md",
+     "obsidian": "obsidian://open?vault=Obsidian%20Vault&file=01%20-%20Business/Clients/Active/YBR%20Roofing%20Siding%20and%20Windows/Reports/Weekly-Email-2026-07-27.md",
+     "date": "2026-07-27"
+    },
+    {
+     "name": "Weekly-Email-2026-07-20.md",
+     "obsidian": "obsidian://open?vault=Obsidian%20Vault&file=01%20-%20Business/Clients/Active/YBR%20Roofing%20Siding%20and%20Windows/Reports/Weekly-Email-2026-07-20.md",
+     "date": "2026-07-20"
+    },
+    {
+     "name": "Weekly-Email-2026-07-13.md",
+     "obsidian": "obsidian://open?vault=Obsidian%20Vault&file=01%20-%20Business/Clients/Active/YBR%20Roofing%20Siding%20and%20Windows/Reports/Weekly-Email-2026-07-13.md",
+     "date": "2026-07-13"
+    },
+    {
+     "name": "Weekly-Email-2026-07-06.md",
+     "obsidian": "obsidian://open?vault=Obsidian%20Vault&file=01%20-%20Business/Clients/Active/YBR%20Roofing%20Siding%20and%20Windows/Reports/Weekly-Email-2026-07-06.md",
+     "date": "2026-07-06"
+    }
+   ]
+  }
+ }
+}

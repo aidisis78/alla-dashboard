@@ -1,0 +1,483 @@
+{
+ "generated": "2026-08-03 11:32",
+ "days": [
+  {
+   "date": "2026-08-03",
+   "events": [
+    {
+     "date": "2026-08-03",
+     "client": "ateam",
+     "kind": "verified fix",
+     "text": "GSC: NOT INDEXED: https://ateampa.com/who-qualifies-medicaid-home-care-pa-chc-waiver/ (Discovered - currently not indexed)",
+     "link": "",
+     "client_name": "A-Team Home Care"
+    },
+    {
+     "date": "2026-08-03",
+     "client": "hometrust",
+     "kind": "verified fix",
+     "text": "",
+     "link": "",
+     "client_name": "HomeTrust Windows & Doors"
+    },
+    {
+     "date": "2026-08-03",
+     "client": "hometrust",
+     "kind": "verified fix",
+     "text": "GSC: NOT INDEXED: https://hometrustwindows.com/window-installation-hulmeville-pa-hometrust-windows/ (Discovered - currently not indexed)",
+     "link": "",
+     "client_name": "HomeTrust Windows & Doors"
+    },
+    {
+     "date": "2026-08-03",
+     "client": "hometrust",
+     "kind": "verified fix",
+     "text": "GSC: NOT INDEXED: https://hometrustwindows.com/window-installation-dublin-pa-hometrust-windows-2/ (Discovered - currently not indexed)",
+     "link": "",
+     "client_name": "HomeTrust Windows & Doors"
+    },
+    {
+     "date": "2026-08-03",
+     "client": "hometrust",
+     "kind": "verified fix",
+     "text": "GSC: NOT INDEXED: https://hometrustwindows.com/window-installation-doylestown-pa-hometrust-windows/ (Discovered - currently not indexed)",
+     "link": "",
+     "client_name": "HomeTrust Windows & Doors"
+    },
+    {
+     "date": "2026-08-03",
+     "client": "hometrust",
+     "kind": "verified fix",
+     "text": "GSC: NOT INDEXED: https://hometrustwindows.com/window-installation-bucks-county-pa-hometrust-windows/ (Discovered - currently not indexed)",
+     "link": "",
+     "client_name": "HomeTrust Windows & Doors"
+    },
+    {
+     "date": "2026-08-03",
+     "client": "hometrust",
+     "kind": "verified fix",
+     "text": "GSC: NOT INDEXED: https://hometrustwindows.com/window-installation-reading-pa-hometrust-windows/ (URL is unknown to Google)",
+     "link": "",
+     "client_name": "HomeTrust Windows & Doors"
+    },
+    {
+     "date": "2026-08-03",
+     "client": "hometrust",
+     "kind": "verified fix",
+     "text": "GSC: NOT INDEXED: https://hometrustwindows.com/pocono-winter-windows/ (URL is unknown to Google)",
+     "link": "",
+     "client_name": "HomeTrust Windows & Doors"
+    },
+    {
+     "date": "2026-08-03",
+     "client": "hometrust",
+     "kind": "verified fix",
+     "text": "GSC: NOT INDEXED: https://hometrustwindows.com/window-installation-reading-pa-hometrust-windows/ (Discovered - currently not indexed)",
+     "link": "",
+     "client_name": "HomeTrust Windows & Doors"
+    },
+    {
+     "date": "2026-08-03",
+     "client": "patriot",
+     "kind": "verified fix",
+     "text": "Page id 5, slug 'home', is the static front page (page_on_front=5). about-us(343), blog(6), careers(358), contact(341), courses(3224), patients(2707) all have p",
+     "link": "",
+     "client_name": "Patriot Ambulance"
+    },
+    {
+     "date": "2026-08-03",
+     "client": "patriot",
+     "kind": "verified fix",
+     "text": "PIPELINE JOB: patriot-draft-runner.log overdue or errored",
+     "link": "",
+     "client_name": "Patriot Ambulance"
+    },
+    {
+     "date": "2026-08-03",
+     "client": "patriot",
+     "kind": "verified fix",
+     "text": "GSC: NOT INDEXED: https://www.patriotamb.com/2021-ems-week-bbq/ (Crawled - currently not indexed)",
+     "link": "",
+     "client_name": "Patriot Ambulance"
+    },
+    {
+     "date": "2026-08-03",
+     "client": "richboro-family-dentistry",
+     "kind": "fix fixed",
+     "text": "Vimeo embeds (949583158/949585425/949586822) on https://richborodentistry.aigwebmethods.com/ are domain-locked to a Nexvel Solutions Vimeo account (owner is the",
+     "link": "",
+     "client_name": "richboro-family-dentistry"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-02",
+   "events": [
+    {
+     "date": "2026-08-02",
+     "client": "_cross-client",
+     "kind": "verified fix",
+     "text": "com.aigwebmethods.client-monthly-email.plist has a DUPLICATED StandardOutPath key and points stdout+stderr at the same file via separate handles, so log writes ",
+     "link": "",
+     "client_name": "Cross-client"
+    },
+    {
+     "date": "2026-08-02",
+     "client": "_cross-client",
+     "kind": "verified fix",
+     "text": "com.aigwebmethods.monthly-pow.plist sat DISABLED with no recorded reason since creation 2026-07-21, so the first scheduled run (Aug 1 07:11) never fired and no ",
+     "link": "",
+     "client_name": "Cross-client"
+    },
+    {
+     "date": "2026-08-02",
+     "client": "_cross-client",
+     "kind": "verified fix",
+     "text": "claude_auth_guard.sh conflates network-down with logged-out: an ENOTFOUND (DNS/network) failure during the 18:37 monitor run produced 'AUTH UNCERTAIN' then 'ABO",
+     "link": "",
+     "client_name": "Cross-client"
+    },
+    {
+     "date": "2026-08-02",
+     "client": "_cross-client",
+     "kind": "verified fix",
+     "text": "Keyword Planner API is operational (probe passing with real volumes). The calendar builder and keyword hunting still score topics without search-volume data.",
+     "link": "",
+     "client_name": "Cross-client"
+    },
+    {
+     "date": "2026-08-02",
+     "client": "_cross-client",
+     "kind": "verified fix",
+     "text": "night-runner 02:47 run on 2026-08-02 skipped via the headless-claude login guard, but hourly runs at 16:55/18:05/21:24 the same day worked, so the login was val",
+     "link": "",
+     "client_name": "Cross-client"
+    },
+    {
+     "date": "2026-08-02",
+     "client": "_cross-client",
+     "kind": "verified fix",
+     "text": "Both fixer-hourly-runner.sh and night-runner.sh invoke claude -p WITHOUT cd /Users/home first, so the session never loads the /Users/home project MCP servers (e",
+     "link": "",
+     "client_name": "Cross-client"
+    },
+    {
+     "date": "2026-08-02",
+     "client": "patriot",
+     "kind": "fix done",
+     "text": "White 8px border around page content on 5 of 8 templates (no body margin reset, no page background)",
+     "link": "",
+     "client_name": "Patriot Ambulance"
+    },
+    {
+     "date": "2026-08-02",
+     "client": "patriot",
+     "kind": "verified fix",
+     "text": "com.aigwebmethods.patriot-content-draft (daily 09:00, skills-v2 draft_runner.py --client patriot) fails every run: /Users/home/.claude/credentials/patriot_wp.js",
+     "link": "",
+     "client_name": "Patriot Ambulance"
+    },
+    {
+     "date": "2026-08-02",
+     "client": "patriot",
+     "kind": "verified fix",
+     "text": "patriot is in the email-drafter roster (contact David) but NOT configured for the monthly-pow report: no GSC property, no content calendar, no vault folder mapp",
+     "link": "",
+     "client_name": "Patriot Ambulance"
+    },
+    {
+     "date": "2026-08-02",
+     "client": "patriot",
+     "kind": "verified fix",
+     "text": "PIPELINE JOB: patriot-draft-runner.log overdue or errored (daily alert 2026-08-02)",
+     "link": "",
+     "client_name": "Patriot Ambulance"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-01",
+   "events": [
+    {
+     "date": "2026-08-01",
+     "client": "aig",
+     "kind": "published",
+     "text": "AI chatbot for small business website",
+     "link": "https://aigwebmethods.com/ai-chatbot-for-small-business-website/",
+     "client_name": "AIG Web Methods"
+    },
+    {
+     "date": "2026-08-01",
+     "client": "aig",
+     "kind": "published",
+     "text": "SEO for home care agencies Pennsylvania",
+     "link": "https://aigwebmethods.com/seo-for-home-care-agencies-pennsylvania/",
+     "client_name": "AIG Web Methods"
+    },
+    {
+     "date": "2026-08-01",
+     "client": "aig",
+     "kind": "verified fix",
+     "text": "GBP websiteUri is https://www.aigwebmethods.com/ which 301s to the non-www canonical https://aigwebmethods.com/, so every click from the profile takes a redirec",
+     "link": "",
+     "client_name": "AIG Web Methods"
+    },
+    {
+     "date": "2026-08-01",
+     "client": "aig",
+     "kind": "verified fix",
+     "text": "Alla APPROVED release via dashboard: 'AI chatbot for small business website' (blog). Preview: https://aigwebmethods.com/ai-chatbot-for-small-business-website-pr",
+     "link": "",
+     "client_name": "AIG Web Methods"
+    },
+    {
+     "date": "2026-08-01",
+     "client": "aig",
+     "kind": "verified fix",
+     "text": "Alla APPROVED release via dashboard: 'SEO for home care agencies Pennsylvania' (blog). Preview: https://aigwebmethods.com/seo-for-home-care-agencies-pennsylvani",
+     "link": "",
+     "client_name": "AIG Web Methods"
+    },
+    {
+     "date": "2026-08-01",
+     "client": "aig",
+     "kind": "verified fix",
+     "text": "Engine draft pipeline reused the SAME hero photo (media 2727 bucks-county-business-owner-local-search.jpg) on two different posts (2752 chatbot + 2743 home care",
+     "link": "",
+     "client_name": "AIG Web Methods"
+    },
+    {
+     "date": "2026-08-01",
+     "client": "_cross-client",
+     "kind": "verified fix",
+     "text": "ops_heartbeat.py flagged any job with a non-empty .err.log forever (daily-alert self-flagged on a 07-28 DNS blip despite succeeding daily since)",
+     "link": "",
+     "client_name": "Cross-client"
+    },
+    {
+     "date": "2026-08-01",
+     "client": "dfs",
+     "kind": "verified fix",
+     "text": "Lena Polnet Person schema no longer renders on the 21 service pages (snippet 11897 off). Homepage snippet 12592 still emits it homepage-only. Plan says Person i",
+     "link": "",
+     "client_name": "Dynamic Funding Solutions"
+    },
+    {
+     "date": "2026-08-01",
+     "client": "dfs",
+     "kind": "verified fix",
+     "text": "Counter blocks render decorative numbers and labels as real headings: <h5 class=\"counter-number\"> and <h6 class=\"counter-title\">. Sized 2026-07-30 17:06: exactl",
+     "link": "",
+     "client_name": "Dynamic Funding Solutions"
+    },
+    {
+     "date": "2026-08-01",
+     "client": "hometrust",
+     "kind": "verified fix",
+     "text": "GBP websiteUri is https://www.hometrustwindows.com/ which 301s to the non-www canonical https://hometrustwindows.com/, costing every profile click a redirect ho",
+     "link": "",
+     "client_name": "HomeTrust Windows & Doors"
+    },
+    {
+     "date": "2026-08-01",
+     "client": "patriot",
+     "kind": "fix fixed",
+     "text": "Staged patch block-6-standard-footer.html wraps its columns in div.footer-inner, but .footer-inner exists in ZERO of the templates' CSS; the styled container is",
+     "link": "",
+     "client_name": "Patriot Ambulance"
+    },
+    {
+     "date": "2026-08-01",
+     "client": "roi",
+     "kind": "verified fix",
+     "text": "GBP websiteUri is https://www.roinational.com/?utm_source=gbp which 301s to the non-www canonical, so every click from the profile takes a redirect hop. Site ca",
+     "link": "",
+     "client_name": "ROI National"
+    },
+    {
+     "date": "2026-08-01",
+     "client": "roi",
+     "kind": "verified fix",
+     "text": "Indexable post 2284 /we-buy-houses-levittown-pa/ renders TWO BlogPosting nodes: Rank Math emits one at @id https://roinational.com/levittown-pa/#richSnippet and",
+     "link": "",
+     "client_name": "ROI National"
+    },
+    {
+     "date": "2026-08-01",
+     "client": "ybr",
+     "kind": "published",
+     "text": "metal roofing vs asphalt shingles Pennsylvania",
+     "link": "https://ybrroofingsidingwindows.com/metal-roofing-vs-asphalt-shingles-pennsylvania/",
+     "client_name": "YBR Roofing Siding & Windows"
+    },
+    {
+     "date": "2026-08-01",
+     "client": "ybr",
+     "kind": "verified fix",
+     "text": "Alla APPROVED release via dashboard: 'metal roofing vs asphalt shingles Pennsylvania' (blog). Preview: https://ybrroofingsidingwindows.com/metal-roofing-vs-asph",
+     "link": "",
+     "client_name": "YBR Roofing Siding & Windows"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-31",
+   "events": [
+    {
+     "date": "2026-07-31",
+     "client": "_cross-client",
+     "kind": "verified fix",
+     "text": "engine-run-daily.sh calls 'notify.py alert --title --body' but notify.py accepts only page-ready|published cmds with --client/--title/--url/--code/--note; every",
+     "link": "",
+     "client_name": "Cross-client"
+    },
+    {
+     "date": "2026-07-31",
+     "client": "hometrust",
+     "kind": "fix fixed",
+     "text": "Live Google Ads structured snippet advertises \"Window Repair & Upgrades\". Alla confirmed 2026-07-31 that HomeTrust does NOT do single window repairs, they ONLY ",
+     "link": "",
+     "client_name": "HomeTrust Windows & Doors"
+    },
+    {
+     "date": "2026-07-31",
+     "client": "hometrust",
+     "kind": "verified fix",
+     "text": "Alla gained access to a SECOND verified HomeTrust Google Business Profile, the Fairless Hills PA location, and wants its profile strength brought to excellent.",
+     "link": "",
+     "client_name": "HomeTrust Windows & Doors"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-30",
+   "events": [
+    {
+     "date": "2026-07-30",
+     "client": "dfs",
+     "kind": "verified fix",
+     "text": "21 curated pages render duplicate Service+BreadcrumbList (WPCode 11897 overlaps Rank Math); FAQ/Person should migrate into Rank Math then retire 11897",
+     "link": "",
+     "client_name": "Dynamic Funding Solutions"
+    },
+    {
+     "date": "2026-07-30",
+     "client": "dfs",
+     "kind": "verified fix",
+     "text": "Cash-Out Refinance page (https://dynamicfunding.net/services/cash-out-refinance/, edit https://dynamicfunding.net/wp-admin/post.php?post=5943&action=edit) still",
+     "link": "",
+     "client_name": "Dynamic Funding Solutions"
+    },
+    {
+     "date": "2026-07-30",
+     "client": "dfs",
+     "kind": "verified fix",
+     "text": "Posts 11706 (edit https://dynamicfunding.net/wp-admin/post.php?post=11706&action=edit) and 11704 (edit https://dynamicfunding.net/wp-admin/post.php?post=11704&a",
+     "link": "",
+     "client_name": "Dynamic Funding Solutions"
+    },
+    {
+     "date": "2026-07-30",
+     "client": "dfs",
+     "kind": "GBP post",
+     "text": "Arcadia, FL mortgage services",
+     "link": "https://dynamicfunding.net/mortgage-broker-arcadia-fl/",
+     "client_name": "Dynamic Funding Solutions"
+    },
+    {
+     "date": "2026-07-30",
+     "client": "patriot",
+     "kind": "verified fix",
+     "text": "P1 no canonical tag on any page",
+     "link": "",
+     "client_name": "Patriot Ambulance"
+    },
+    {
+     "date": "2026-07-30",
+     "client": "patriot",
+     "kind": "verified fix",
+     "text": "CORRECTION to a standing escalation. Yoast is NOT inert sitewide on patriotamb.com. It is inert only on the 8 hand-built page templates. Blog posts render the f",
+     "link": "",
+     "client_name": "Patriot Ambulance"
+    },
+    {
+     "date": "2026-07-30",
+     "client": "roi",
+     "kind": "verified fix",
+     "text": "Noindexed preview post 2108 /inherited-house-with-siblings-pa-preview/ carries in-content JSON-LD whose @id values point at the LIVE slug (#faq and #breadcrumb ",
+     "link": "",
+     "client_name": "ROI National"
+    },
+    {
+     "date": "2026-07-30",
+     "client": "roi",
+     "kind": "verified fix",
+     "text": "The booking link on ROI National's live Google Business Profile pointed at a dead page: attributes/url_appointment was http://roinational.com/contact-us, which ",
+     "link": "",
+     "client_name": "ROI National"
+    },
+    {
+     "date": "2026-07-30",
+     "client": "roi",
+     "kind": "verified fix",
+     "text": "ROI runs WPCode snippet 1899 (https://roinational.com/wp-admin/admin.php?page=wpcode-snippet-manager&snippet_id=1899), a rank_math/json_ld filter of the same cl",
+     "link": "",
+     "client_name": "ROI National"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-29",
+   "events": [
+    {
+     "date": "2026-07-29",
+     "client": "dfs",
+     "kind": "verified fix",
+     "text": "First engine GBP post after re-enable must be confirmed LIVE (not PROCESSING) within 24h before cadence is trusted",
+     "link": "",
+     "client_name": "Dynamic Funding Solutions"
+    },
+    {
+     "date": "2026-07-29",
+     "client": "patriot",
+     "kind": "fix done",
+     "text": "Careers page inline script had a stray duplicate '})();' causing a SyntaxError that killed the whole script block: header never got .scrolled (transparent menu ",
+     "link": "",
+     "client_name": "Patriot Ambulance"
+    },
+    {
+     "date": "2026-07-29",
+     "client": "patriot",
+     "kind": "fix done",
+     "text": "Careers bottom gallery-section (3 photos: STP_5204, IMG_4578-after, cropped-STP_5184) deemed irrelevant by Alla",
+     "link": "",
+     "client_name": "Patriot Ambulance"
+    },
+    {
+     "date": "2026-07-29",
+     "client": "roi",
+     "kind": "verified fix",
+     "text": "GTranslate plugin installed+configured but float not rendering: host-side per-worker option cache still serves pre-config value",
+     "link": "",
+     "client_name": "ROI National"
+    },
+    {
+     "date": "2026-07-29",
+     "client": "roi",
+     "kind": "verified fix",
+     "text": "WPCode snippet 1899 filters rank_math/json_ld: same anti-pattern that suppressed all Rank Math schema on DFS",
+     "link": "",
+     "client_name": "ROI National"
+    },
+    {
+     "date": "2026-07-29",
+     "client": "roi",
+     "kind": "verified fix",
+     "text": "Post 1897 /inherited-house-with-siblings-pa/ renders TWO BreadcrumbList nodes with the SAME @id #breadcrumb: Rank Math's (Home > Inherited & Probate Property > ",
+     "link": "",
+     "client_name": "ROI National"
+    }
+   ]
+  }
+ ]
+}

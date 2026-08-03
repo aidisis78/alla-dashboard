@@ -1,0 +1,813 @@
+{
+ "generated": "2026-08-03 11:32",
+ "topic": "alla-approvals-e500966531acefb99ebf632b",
+ "counts": {
+  "approvable": 2,
+  "previews": 0,
+  "fixer": 2,
+  "in_build": 12
+ },
+ "releases": [
+  {
+   "kind": "release_info",
+   "id": "info::vector::CBT-I therapist New York",
+   "client": "vector",
+   "client_name": "Vector Sleep Clinic",
+   "title": "CBT-I therapist New York",
+   "type": "blog",
+   "status": "content_gated_needs_build",
+   "approvable": false
+  },
+  {
+   "kind": "release_info",
+   "id": "info::ateam::Medicaid Planning for Long-Term Care in Pennsylvania",
+   "client": "ateam",
+   "client_name": "A-Team Home Care",
+   "title": "Medicaid Planning for Long-Term Care in Pennsylvania",
+   "type": "blog",
+   "status": "ready_for_gate",
+   "approvable": false
+  },
+  {
+   "kind": "release_info",
+   "id": "info::roi::sell my house fast Camden County NJ",
+   "client": "roi",
+   "client_name": "ROI National",
+   "title": "sell my house fast Camden County NJ",
+   "type": "blog",
+   "status": "gate_blocked_rankmath_meta",
+   "approvable": false
+  },
+  {
+   "kind": "release_info",
+   "id": "info::roi::cash home buyers Burlington County NJ",
+   "client": "roi",
+   "client_name": "ROI National",
+   "title": "cash home buyers Burlington County NJ",
+   "type": "blog",
+   "status": "ready_for_gate",
+   "approvable": false
+  },
+  {
+   "kind": "release_info",
+   "id": "info::ateam::Protecting Seniors from Online and Phone Scams",
+   "client": "ateam",
+   "client_name": "A-Team Home Care",
+   "title": "Protecting Seniors from Online and Phone Scams",
+   "type": "blog",
+   "status": "ready_for_gate",
+   "approvable": false
+  },
+  {
+   "kind": "release_info",
+   "id": "info::ateam::Parkinson's Home Care: How In-Home Support Helps Philadelphia Families",
+   "client": "ateam",
+   "client_name": "A-Team Home Care",
+   "title": "Parkinson's Home Care: How In-Home Support Helps Philadelphia Families",
+   "type": "blog",
+   "status": "ready_for_gate",
+   "approvable": false
+  },
+  {
+   "kind": "release_info",
+   "id": "info::ateam::Signs of a Stroke in Seniors and What to Do",
+   "client": "ateam",
+   "client_name": "A-Team Home Care",
+   "title": "Signs of a Stroke in Seniors and What to Do",
+   "type": "blog",
+   "status": "ready_for_gate",
+   "approvable": false
+  },
+  {
+   "kind": "release_info",
+   "id": "info::hometrust::window replacement huntingdon valley pa",
+   "client": "hometrust",
+   "client_name": "HomeTrust Windows & Doors",
+   "title": "window replacement huntingdon valley pa",
+   "type": "location",
+   "status": "needs_fix",
+   "approvable": false
+  },
+  {
+   "kind": "release_info",
+   "id": "info::hometrust::Window Replacement in Bensalem PA",
+   "client": "hometrust",
+   "client_name": "HomeTrust Windows & Doors",
+   "title": "Window Replacement in Bensalem PA",
+   "type": "location_page",
+   "status": "ready_for_gate",
+   "approvable": false
+  },
+  {
+   "kind": "release_info",
+   "id": "info::hometrust::Window Replacement in Bucks County PA",
+   "client": "hometrust",
+   "client_name": "HomeTrust Windows & Doors",
+   "title": "Window Replacement in Bucks County PA",
+   "type": "service_page",
+   "status": "needs_fix",
+   "approvable": false
+  },
+  {
+   "kind": "release_info",
+   "id": "info::ybr::Recover clicks on ybrroofingsidingwindows.com",
+   "client": "ybr",
+   "client_name": "YBR Roofing Siding & Windows",
+   "title": "Recover clicks on ybrroofingsidingwindows.com",
+   "type": "recovery",
+   "status": "ready_for_gate",
+   "approvable": false
+  },
+  {
+   "kind": "release_info",
+   "id": "info::hometrust::Window Replacement in Philadelphia PA",
+   "client": "hometrust",
+   "client_name": "HomeTrust Windows & Doors",
+   "title": "Window Replacement in Philadelphia PA",
+   "type": "location_page",
+   "status": "needs_fix",
+   "approvable": false
+  }
+ ],
+ "fixer": [
+  {
+   "kind": "fixer",
+   "id": "ateam-gbp100-1785336662",
+   "client": "ateam",
+   "client_name": "A-Team Home Care",
+   "title": "A-Team Home Care (2 listings: Philadelphia + Feasterville): profile strength cannot be audited: GBP NOT reachable via admin@ API: manager access needed before any completeness work",
+   "proposed_fix": "needs_alla: grant admin@aigwebmethods.com manager access on this profile (Google Business Profile > Users), then the 100% strength loop runs autonomously",
+   "evidence": "gbp_lookup 2026-07-29: NOT reachable, manager access needed",
+   "severity": "med",
+   "ts": "2026-07-29T14:51:02Z",
+   "approvable": true,
+   "note": "Fix it = the hourly fixer executes the plan. Dismiss = withdrawn."
+  },
+  {
+   "kind": "fixer",
+   "id": "patriot-ambulance-gbp100-1785336662",
+   "client": "patriot",
+   "client_name": "Patriot Ambulance",
+   "title": "Patriot Ambulance: profile strength cannot be audited: GBP NOT reachable via admin@ API: manager access needed",
+   "proposed_fix": "needs_alla: grant admin@aigwebmethods.com manager access on this profile (Google Business Profile > Users), then the 100% strength loop runs autonomously",
+   "evidence": "gbp_lookup 2026-07-29: NOT reachable, manager access needed",
+   "severity": "med",
+   "ts": "2026-07-29T14:51:02Z",
+   "approvable": true,
+   "note": "Fix it = the hourly fixer executes the plan. Dismiss = withdrawn."
+  }
+ ],
+ "decisions": [
+  {
+   "ts": "2026-08-02 23:44",
+   "action": "approve",
+   "client": "patriot-ambulance",
+   "title": "Page id 5, slug 'home', is the static front page (page_on_front=5). about-us(343), blog(6), careers(358), contact(341), courses(3224), patients(2707) all have p",
+   "status": "DONE, verified",
+   "link": "",
+   "why": ""
+  },
+  {
+   "ts": "2026-08-01 17:49",
+   "action": "approve",
+   "client": "patriot",
+   "title": "patriot is in the email-drafter roster (contact David) but NOT configured for the monthly-pow report: no GSC property, no content calendar, no vault folder mapp",
+   "status": "DONE, verified",
+   "link": "",
+   "why": ""
+  },
+  {
+   "ts": "2026-08-01 17:29",
+   "action": "approve",
+   "client": "roi",
+   "title": "GBP websiteUri is https://www.roinational.com/?utm_source=gbp which 301s to the non-www canonical, so every click from the profile takes a redirect hop. Site ca",
+   "status": "DONE, verified",
+   "link": "",
+   "why": ""
+  },
+  {
+   "ts": "2026-08-01 17:04",
+   "action": "approve",
+   "client": "patriot",
+   "title": "com.aigwebmethods.patriot-content-draft (daily 09:00, skills-v2 draft_runner.py --client patriot) fails every run: /Users/home/.claude/credentials/patriot_wp.js",
+   "status": "DONE, verified",
+   "link": "",
+   "why": ""
+  },
+  {
+   "ts": "2026-08-01 11:39",
+   "action": "approve",
+   "client": "hometrust",
+   "title": "GBP websiteUri is https://www.hometrustwindows.com/ which 301s to the non-www canonical https://hometrustwindows.com/, costing every profile click a redirect ho",
+   "status": "DONE, verified",
+   "link": "",
+   "why": ""
+  },
+  {
+   "ts": "2026-08-01 09:28",
+   "action": "approve",
+   "client": "aig",
+   "title": "GBP websiteUri is https://www.aigwebmethods.com/ which 301s to the non-www canonical https://aigwebmethods.com/, so every click from the profile takes a redirec",
+   "status": "DONE, verified",
+   "link": "",
+   "why": ""
+  },
+  {
+   "ts": "2026-08-01 07:58",
+   "action": "approve",
+   "client": "roi",
+   "title": "Indexable post 2284 /we-buy-houses-levittown-pa/ renders TWO BlogPosting nodes: Rank Math emits one at @id https://roinational.com/levittown-pa/#richSnippet and",
+   "status": "DONE, verified",
+   "link": "",
+   "why": ""
+  },
+  {
+   "ts": "2026-08-01 07:53",
+   "action": "approve",
+   "client": "dfs",
+   "title": "Counter blocks render decorative numbers and labels as real headings: <h5 class=\"counter-number\"> and <h6 class=\"counter-title\">. Sized 2026-07-30 17:06: exactl",
+   "status": "DONE, verified",
+   "link": "",
+   "why": ""
+  },
+  {
+   "ts": "2026-08-01 07:03",
+   "action": "approve",
+   "client": "aig",
+   "title": "SEO for home care agencies Pennsylvania",
+   "status": "DONE, live",
+   "link": "https://aigwebmethods.com/seo-for-home-care-agencies-pennsylvania/",
+   "why": ""
+  },
+  {
+   "ts": "2026-08-01 07:03",
+   "action": "approve",
+   "client": "ybr",
+   "title": "metal roofing vs asphalt shingles Pennsylvania",
+   "status": "DONE, live",
+   "link": "https://ybrroofingsidingwindows.com/metal-roofing-vs-asphalt-shingles-pennsylvania/",
+   "why": ""
+  },
+  {
+   "ts": "2026-08-01 07:03",
+   "action": "approve",
+   "client": "aig",
+   "title": "AI chatbot for small business website",
+   "status": "DONE, live",
+   "link": "https://aigwebmethods.com/ai-chatbot-for-small-business-website/",
+   "why": ""
+  },
+  {
+   "ts": "2026-08-03 11:31",
+   "action": "build",
+   "client": "aig",
+   "title": "BUILD NOW: Google Business Profile management Montgomery County PA",
+   "status": "sent to fixer queue",
+   "link": "",
+   "why": ""
+  },
+  {
+   "ts": "2026-08-03 11:31",
+   "action": "approve",
+   "client": "vector",
+   "title": "GBP profile strength for Vector Sleep Diagnostic Center (locations/1428495091849280885) not yet verified at 100%",
+   "status": "queued for fixer",
+   "link": "",
+   "why": ""
+  },
+  {
+   "ts": "2026-08-03 11:31",
+   "action": "approve",
+   "client": "aig",
+   "title": "GTranslate widget absent from homepage, /about/, /contact/ because they are standalone pages (aig-standalone-homepage plugin) outside wp_footer",
+   "status": "queued for fixer",
+   "link": "",
+   "why": ""
+  },
+  {
+   "ts": "2026-08-03 11:31",
+   "action": "approve",
+   "client": "aig",
+   "title": "GSC: NOT INDEXED: https://aigwebmethods.com/best-local-seo-agency-bucks-county-pa/ (URL is unknown to Google)",
+   "status": "queued for fixer",
+   "link": "",
+   "why": ""
+  },
+  {
+   "ts": "2026-08-03 11:31",
+   "action": "approve",
+   "client": "aig",
+   "title": "GSC: NOT INDEXED: https://aigwebmethods.com/digital-marketing-agency-for-small-business-philadelphia-suburbs/ (URL is unknown to Google)",
+   "status": "queued for fixer",
+   "link": "",
+   "why": ""
+  },
+  {
+   "ts": "2026-08-03 11:31",
+   "action": "approve",
+   "client": "aig",
+   "title": "GSC: NOT INDEXED: https://aigwebmethods.com/seo-for-home-care-agencies-pennsylvania/ (URL is unknown to Google)",
+   "status": "queued for fixer",
+   "link": "",
+   "why": ""
+  },
+  {
+   "ts": "2026-08-03 11:31",
+   "action": "approve",
+   "client": "aig",
+   "title": "GSC: NOT INDEXED: https://aigwebmethods.com/ai-chatbot-for-small-business-website/ (URL is unknown to Google)",
+   "status": "queued for fixer",
+   "link": "",
+   "why": ""
+  },
+  {
+   "ts": "2026-08-03 11:31",
+   "action": "approve",
+   "client": "aig",
+   "title": "GBP profile strength for AIG Web Methods (locations/12215864211000398582) not yet verified at 100%",
+   "status": "queued for fixer",
+   "link": "",
+   "why": ""
+  },
+  {
+   "ts": "2026-08-03 11:31",
+   "action": "approve",
+   "client": "ybr",
+   "title": "GSC: NOT INDEXED: https://ybrroofingsidingwindows.com/metal-roofing-vs-asphalt-shingles-pennsylvania/ (URL is unknown to Google)",
+   "status": "queued for fixer",
+   "link": "",
+   "why": ""
+  },
+  {
+   "ts": "2026-08-03 11:31",
+   "action": "approve",
+   "client": "ybr",
+   "title": "GBP profile strength for YBR GROUP Inc (locations/6336253721126147016) not yet verified at 100%",
+   "status": "queued for fixer",
+   "link": "",
+   "why": ""
+  },
+  {
+   "ts": "2026-08-03 11:31",
+   "action": "approve",
+   "client": "ybr",
+   "title": "Alla requested BUILD NOW via dashboard for overdue calendar item: 'window replacement contractor Bucks County'",
+   "status": "queued for fixer",
+   "link": "",
+   "why": ""
+  },
+  {
+   "ts": "2026-08-03 11:26",
+   "action": "approve",
+   "client": "patriot",
+   "title": "P1 no named leadership anywhere; blog has zero author bylines",
+   "status": "queued for fixer",
+   "link": "",
+   "why": ""
+  },
+  {
+   "ts": "2026-08-03 11:26",
+   "action": "approve",
+   "client": "patriot",
+   "title": "GTranslate widget not installed on patriotamb.com AND the custom theme's templates do not call wp_head/wp_footer (zero plugin artifacts in live HTML), so NO plu",
+   "status": "queued for fixer",
+   "link": "",
+   "why": ""
+  },
+  {
+   "ts": "2026-08-03 11:26",
+   "action": "approve",
+   "client": "patriot",
+   "title": "P2 Courses page accreditation claims name no accrediting body",
+   "status": "queued for fixer",
+   "link": "",
+   "why": ""
+  },
+  {
+   "ts": "2026-08-03 11:26",
+   "action": "build",
+   "client": "hometrust",
+   "title": "BUILD NOW: andersen narroline window replacement alternatives reading, pa",
+   "status": "sent to fixer queue",
+   "link": "",
+   "why": ""
+  },
+  {
+   "ts": "2026-08-03 11:26",
+   "action": "build",
+   "client": "hometrust",
+   "title": "BUILD NOW: replacement windows reading pa",
+   "status": "sent to fixer queue",
+   "link": "",
+   "why": ""
+  },
+  {
+   "ts": "2026-08-03 11:26",
+   "action": "build",
+   "client": "hometrust",
+   "title": "BUILD NOW: andersen windows",
+   "status": "sent to fixer queue",
+   "link": "",
+   "why": ""
+  },
+  {
+   "ts": "2026-08-03 11:26",
+   "action": "build",
+   "client": "hometrust",
+   "title": "BUILD NOW: window replacement huntingdon valley pa",
+   "status": "sent to fixer queue",
+   "link": "",
+   "why": ""
+  },
+  {
+   "ts": "2026-08-03 11:26",
+   "action": "approve",
+   "client": "hometrust",
+   "title": "GTranslate widget installed via elementor_snippet post 7788 (edit: https://hometrustwindows.com/wp-admin/post.php?post=7788&action=edit) + added to elementor_pr",
+   "status": "queued for fixer",
+   "link": "",
+   "why": ""
+  },
+  {
+   "ts": "2026-08-03 11:26",
+   "action": "approve",
+   "client": "hometrust",
+   "title": "GSC: NOT INDEXED: https://hometrustwindows.com/25c-tax-credit-windows-2026/ (URL is unknown to Google)",
+   "status": "queued for fixer",
+   "link": "",
+   "why": ""
+  },
+  {
+   "ts": "2026-08-03 11:26",
+   "action": "approve",
+   "client": "hometrust",
+   "title": "6 HomeTrust pages not indexed per GSC: 25c-tax-credit-windows-2026 and window-installation-reading-pa (unknown to Google), plus window-installation hulmeville/d",
+   "status": "queued for fixer",
+   "link": "",
+   "why": ""
+  },
+  {
+   "ts": "2026-08-03 11:26",
+   "action": "approve",
+   "client": "hometrust",
+   "title": "GBP profile strength for HomeTrust Windows - Huntingdon Valley PA (locations/7114024239889037509) not yet verified at 100%",
+   "status": "queued for fixer",
+   "link": "",
+   "why": ""
+  },
+  {
+   "ts": "2026-08-03 11:26",
+   "action": "approve",
+   "client": "hometrust",
+   "title": "No code-injection path for the GTranslate widget: no WPCode; MCP option route unavailable for footer scripts",
+   "status": "queued for fixer",
+   "link": "",
+   "why": ""
+  },
+  {
+   "ts": "2026-08-03 11:26",
+   "action": "approve",
+   "client": "dfs",
+   "title": "GBP profile strength for Dynamic Funding Solutions, Inc (locations/17628707916215391932) not yet verified at 100%",
+   "status": "queued for fixer",
+   "link": "",
+   "why": ""
+  },
+  {
+   "ts": "2026-08-03 11:26",
+   "action": "approve",
+   "client": "dfs",
+   "title": "VA Loans page (5362, https://dynamicfunding.net/services/va-loans/) visible FAQ accordion has mislabeled pairs: Q1 'Can I use a VA loan more than once?' carries",
+   "status": "queued for fixer",
+   "link": "",
+   "why": ""
+  },
+  {
+   "ts": "2026-08-03 11:26",
+   "action": "approve",
+   "client": "dfs",
+   "title": "Bridge Loan page (6250, https://dynamicfunding.net/services/bridge-loan/) accordion #4 asks 'Can I use a Construction Loan for renovations or additions?' but th",
+   "status": "queued for fixer",
+   "link": "",
+   "why": ""
+  },
+  {
+   "ts": "2026-08-03 11:26",
+   "action": "approve",
+   "client": "dfs",
+   "title": "Rank Math XML sitemap omits 6 published, indexable URLs and duplicates 9 others. Root cause is the Rank Math file cache in wp-content/uploads/rank-math/, same c",
+   "status": "queued for fixer",
+   "link": "",
+   "why": ""
+  },
+  {
+   "ts": "2026-08-03 11:26",
+   "action": "approve",
+   "client": "dfs",
+   "title": "Old Florida VA Loans page (5210, /services-florida/va-loans/) 301s to the PA VA page (5362). Snippet 11897 had dedicated FL VA content for it. Junk FAQ meta I b",
+   "status": "queued for fixer",
+   "link": "",
+   "why": ""
+  },
+  {
+   "ts": "2026-08-02 23:44",
+   "action": "approve",
+   "client": "_cross-client",
+   "title": "POLICY: every client incl A-Team gets a 3-pieces-per-week autopilot: drafts built, full CK chain run, staged as noindexed previews on the dashboard; publish onl",
+   "status": "unknown",
+   "link": "",
+   "why": ""
+  },
+  {
+   "ts": "2026-08-02 07:24",
+   "action": "build",
+   "client": "ybr",
+   "title": "BUILD NOW: window replacement contractor Bucks County",
+   "status": "sent to fixer queue",
+   "link": "",
+   "why": ""
+  },
+  {
+   "ts": "2026-08-02 07:24",
+   "action": "build",
+   "client": "ybr",
+   "title": "BUILD NOW: emergency roof repair Southampton PA",
+   "status": "sent to fixer queue",
+   "link": "",
+   "why": ""
+  },
+  {
+   "ts": "2026-08-02 07:24",
+   "action": "build",
+   "client": "ybr",
+   "title": "BUILD NOW: James Hardie siding installer Bucks County",
+   "status": "sent to fixer queue",
+   "link": "",
+   "why": ""
+  },
+  {
+   "ts": "2026-08-02 07:24",
+   "action": "build",
+   "client": "ybr",
+   "title": "BUILD NOW: best roofing contractor Bucks County PA",
+   "status": "sent to fixer queue",
+   "link": "",
+   "why": ""
+  },
+  {
+   "ts": "2026-08-02 07:24",
+   "action": "approve",
+   "client": "roi",
+   "title": "Post 2284 (/we-buy-houses-levittown-pa/) had entity-rich about/mentions data (2 about, 16 mentions, Wikidata-sourced) in a duplicate in-content BlogPosting bloc",
+   "status": "queued for fixer",
+   "link": "",
+   "why": ""
+  },
+  {
+   "ts": "2026-08-01 17:24",
+   "action": "build",
+   "client": "ateam",
+   "title": "BUILD NOW: Early Signs of Dementia in Elderly Parents",
+   "status": "sent to fixer queue",
+   "link": "",
+   "why": ""
+  },
+  {
+   "ts": "2026-08-01 17:24",
+   "action": "build",
+   "client": "ateam",
+   "title": "BUILD NOW: Protecting Seniors from Online and Phone Scams",
+   "status": "sent to fixer queue",
+   "link": "",
+   "why": ""
+  },
+  {
+   "ts": "2026-08-01 17:24",
+   "action": "build",
+   "client": "ateam",
+   "title": "BUILD NOW: Who Qualifies for Medicaid Home Care in PA: The CHC Waiver Explained",
+   "status": "sent to fixer queue",
+   "link": "",
+   "why": ""
+  },
+  {
+   "ts": "2026-08-01 17:24",
+   "action": "build",
+   "client": "ateam",
+   "title": "BUILD NOW: Medicaid Planning for Long-Term Care in Pennsylvania",
+   "status": "sent to fixer queue",
+   "link": "",
+   "why": ""
+  },
+  {
+   "ts": "2026-08-01 17:24",
+   "action": "build",
+   "client": "ateam",
+   "title": "BUILD NOW: Advance Directives and Healthcare Proxy in PA",
+   "status": "sent to fixer queue",
+   "link": "",
+   "why": ""
+  },
+  {
+   "ts": "2026-08-01 17:24",
+   "action": "build",
+   "client": "ateam",
+   "title": "BUILD NOW: Community HealthChoices in Pennsylvania: How to Get Home Care Covered",
+   "status": "sent to fixer queue",
+   "link": "",
+   "why": ""
+  },
+  {
+   "ts": "2026-08-01 17:14",
+   "action": "build",
+   "client": "vector",
+   "title": "BUILD NOW: sleep apnea treatment great neck",
+   "status": "sent to fixer queue",
+   "link": "",
+   "why": ""
+  },
+  {
+   "ts": "2026-08-01 17:14",
+   "action": "build",
+   "client": "vector",
+   "title": "BUILD NOW: CBT-I therapist New York",
+   "status": "sent to fixer queue",
+   "link": "",
+   "why": ""
+  },
+  {
+   "ts": "2026-08-01 17:14",
+   "action": "build",
+   "client": "vector",
+   "title": "BUILD NOW: insomnia treatment NYC",
+   "status": "sent to fixer queue",
+   "link": "",
+   "why": ""
+  },
+  {
+   "ts": "2026-08-01 17:14",
+   "action": "build",
+   "client": "vector",
+   "title": "BUILD NOW: sleep specialist New York City",
+   "status": "sent to fixer queue",
+   "link": "",
+   "why": ""
+  },
+  {
+   "ts": "2026-08-01 17:14",
+   "action": "build",
+   "client": "roi",
+   "title": "BUILD NOW: sell fire damaged house pennsylvania",
+   "status": "sent to fixer queue",
+   "link": "",
+   "why": ""
+  },
+  {
+   "ts": "2026-08-01 17:14",
+   "action": "build",
+   "client": "roi",
+   "title": "BUILD NOW: cash home buyers Burlington County NJ",
+   "status": "sent to fixer queue",
+   "link": "",
+   "why": ""
+  },
+  {
+   "ts": "2026-08-01 17:14",
+   "action": "build",
+   "client": "roi",
+   "title": "BUILD NOW: sell my house fast Camden County NJ",
+   "status": "sent to fixer queue",
+   "link": "",
+   "why": ""
+  },
+  {
+   "ts": "2026-08-01 17:14",
+   "action": "build",
+   "client": "roi",
+   "title": "BUILD NOW: sell my house fast Bucks County PA",
+   "status": "sent to fixer queue",
+   "link": "",
+   "why": ""
+  },
+  {
+   "ts": "2026-08-01 17:14",
+   "action": "build",
+   "client": "dfs",
+   "title": "BUILD NOW: mortgages downingtown",
+   "status": "sent to fixer queue",
+   "link": "",
+   "why": ""
+  }
+ ],
+ "autopilot": [
+  {
+   "client": "richboro-family-dentistry",
+   "finding": "Vimeo embeds (949583158/949585425/949586822) on https://richborodentistry.aigwebmethods.com/ are domain-locked to a Nexvel Solutions Vimeo account (owner is the client's original w",
+   "status": "fixed",
+   "last": "2026-08-03 09:58 hourly fixer: confirmed the domain-lock via curl/oembed evidence (see evidence field), no browser click-test needed, root cause is definitive. Could not complete the fix: this machine",
+   "ts": "2026-08-03T14:00:00Z"
+  },
+  {
+   "client": "HomeTrust Windows & Doors",
+   "finding": "GSC: NOT INDEXED: https://hometrustwindows.com/pocono-winter-windows/ (URL is unknown to Google)",
+   "status": "verified",
+   "last": "2026-08-03 08:50 hourly fixer: page live (HTTP 200, robots index,follow, WP post 7876 published 2026-08-02). ROOT CAUSE FOUND: URL is absent from ALL WP sitemaps (post-sitemap.xml, page-sitemap.xml, l",
+   "ts": "2026-08-03T11:50:20Z"
+  },
+  {
+   "client": "HomeTrust Windows & Doors",
+   "finding": "GSC: NOT INDEXED: https://hometrustwindows.com/window-installation-reading-pa-hometrust-windows/ (Discovered - currently not indexed)",
+   "status": "verified",
+   "last": "2026-08-03 08:50 hourly fixer: page live (HTTP 200, robots index,follow) and confirmed present in https://hometrustwindows.com/post-sitemap.xml (1 match). Resubmitted https://hometrustwindows.com/site",
+   "ts": "2026-08-03T11:50:20Z"
+  },
+  {
+   "client": "Patriot Ambulance",
+   "finding": "GSC: NOT INDEXED: https://www.patriotamb.com/2021-ems-week-bbq/ (Crawled - currently not indexed)",
+   "status": "verified",
+   "last": "2026-08-03 08:50 hourly fixer: page live (HTTP 200) and confirmed present in https://www.patriotamb.com/post-sitemap.xml (1 match, sitemap_index.xml reachable via 301 from /sitemap.xml). Resubmitted h",
+   "ts": "2026-08-03T11:50:20Z"
+  },
+  {
+   "client": "Patriot Ambulance",
+   "finding": "PIPELINE JOB: patriot-draft-runner.log overdue or errored",
+   "status": "verified",
+   "last": "2026-08-03 07:43 ET hourly fixer: diagnosed. The alert was a stale error: launchd log com.aigwebmethods.patriot-content-draft last ran Fri 2026-07-31 09:00 and failed with FileNotFoundError on /Users/",
+   "ts": "2026-08-03T11:00:13Z"
+  },
+  {
+   "client": "A-Team Home Care",
+   "finding": "GSC: NOT INDEXED: https://ateampa.com/who-qualifies-medicaid-home-care-pa-chc-waiver/ (Discovered - currently not indexed)",
+   "status": "verified",
+   "last": "2026-08-03 fixer-hourly: verified index-eligibility (curl -A browser-UA: 200, self-canonical, no noindex meta). Sitemap check: ateampa.com/sitemap.xml resubmitted via GSC API (PUT sitemaps, 204; GET c",
+   "ts": "2026-08-03T03:10:51Z"
+  },
+  {
+   "client": "HomeTrust Windows & Doors",
+   "finding": "GSC: NOT INDEXED: https://hometrustwindows.com/window-installation-hulmeville-pa-hometrust-windows/ (Discovered - currently not indexed)",
+   "status": "verified",
+   "last": "2026-08-03 fixer-hourly: verified (curl w/ full browser headers to clear WAF 406: 200, self-canonical, no noindex). Confirmed present in post-sitemap.xml (1 match). Sitemap index resubmitted via GSC A",
+   "ts": "2026-08-03T03:10:51Z"
+  },
+  {
+   "client": "HomeTrust Windows & Doors",
+   "finding": "GSC: NOT INDEXED: https://hometrustwindows.com/window-installation-dublin-pa-hometrust-windows-2/ (Discovered - currently not indexed)",
+   "status": "verified",
+   "last": "2026-08-03 fixer-hourly: verified (curl w/ full browser headers: 200, self-canonical, no noindex). Present in post-sitemap.xml. Sitemap resubmitted via GSC API (204, isPending, 0/0). Request Indexing ",
+   "ts": "2026-08-03T03:10:51Z"
+  },
+  {
+   "client": "HomeTrust Windows & Doors",
+   "finding": "GSC: NOT INDEXED: https://hometrustwindows.com/window-installation-doylestown-pa-hometrust-windows/ (Discovered - currently not indexed)",
+   "status": "verified",
+   "last": "2026-08-03 fixer-hourly: verified (curl w/ full browser headers: 200, self-canonical, no noindex). Present in post-sitemap.xml. Sitemap resubmitted via GSC API (204, isPending, 0/0). Request Indexing ",
+   "ts": "2026-08-03T03:10:51Z"
+  },
+  {
+   "client": "HomeTrust Windows & Doors",
+   "finding": "GSC: NOT INDEXED: https://hometrustwindows.com/window-installation-bucks-county-pa-hometrust-windows/ (Discovered - currently not indexed)",
+   "status": "verified",
+   "last": "2026-08-03 fixer-hourly: verified (curl w/ full browser headers: 200, self-canonical, no noindex). Present in post-sitemap.xml. Sitemap resubmitted via GSC API (204, isPending, 0/0). Request Indexing ",
+   "ts": "2026-08-03T03:10:51Z"
+  },
+  {
+   "client": "HomeTrust Windows & Doors",
+   "finding": "GSC: NOT INDEXED: https://hometrustwindows.com/window-installation-reading-pa-hometrust-windows/ (URL is unknown to Google)",
+   "status": "verified",
+   "last": "2026-08-03 fixer-hourly: verified (curl w/ full browser headers: 200, self-canonical, no noindex). Present in post-sitemap.xml. Sitemap resubmitted via GSC API (204, isPending, 0/0). Request Indexing ",
+   "ts": "2026-08-03T03:10:51Z"
+  },
+  {
+   "client": "Patriot Ambulance",
+   "finding": "PIPELINE JOB: patriot-draft-runner.log overdue or errored (daily alert 2026-08-02)",
+   "status": "verified",
+   "last": "2026-08-02T23:37 hourly fixer: root cause found. clients/patriot.config.json wp_creds_path pointed to nonexistent patriot_wp.json (actual file: patriotamb_wp.json). Fixed path. Second error: patriotam",
+   "ts": "2026-08-03T03:10:51Z"
+  },
+  {
+   "client": "Cross-client",
+   "finding": "Both fixer-hourly-runner.sh and night-runner.sh invoke claude -p WITHOUT cd /Users/home first, so the session never loads the /Users/home project MCP servers (every client WP conne",
+   "status": "verified",
+   "last": "2026-08-02 22:33 fixer-hourly: added cd /Users/home || exit 1 to fixer-hourly-runner.sh (after VAULT_ISSUES line) and night-runner.sh (same). Backups: /tmp/fixer-backups/fixer-hourly-runner.sh.pre-202",
+   "ts": "2026-08-02T22:33:00-04:00"
+  },
+  {
+   "client": "Cross-client",
+   "finding": "night-runner 02:47 run on 2026-08-02 skipped via the headless-claude login guard, but hourly runs at 16:55/18:05/21:24 the same day worked, so the login was valid: the guard likely",
+   "status": "verified",
+   "last": "2026-08-02 22:31 fixer-hourly: ported engine-run-daily.sh network-wait pattern into night-runner.sh (caffeinate -u + up to 5min curl probe of dynamicfunding.net/aigwebmethods.com wp-json before login ",
+   "ts": "2026-08-02T21:27:00-04:00"
+  },
+  {
+   "client": "Cross-client",
+   "finding": "Keyword Planner API is operational (probe passing with real volumes). The calendar builder and keyword hunting still score topics without search-volume data.",
+   "status": "verified",
+   "last": "2026-08-02 15:46 ET hourly fixer: wired per proposed_fix. Added lib.keyword_planner.score_pool_with_volume(pool, client_slug) (new function, lib/keyword_planner.py) that additively nudges create/refre",
+   "ts": "2026-08-02T19:46:09Z"
+  }
+ ],
+ "fixer_status": {
+  "line": "2026-08-03 11:12 | Last sweep started: 2026-08-03 11:05:56 | Next sweep: 2026-08-03 12:05 (approx, hourly)",
+  "totals": "WORKING: 1, QUEUED: 81, WAITING ON ALLA: 29, BLOCKED: 4, FIXED (verify pending): 3, VERIFIED DONE: 46, withdrawn: 6, promoted_to_night: 2, resolved: 2, done: 4"
+ }
+}

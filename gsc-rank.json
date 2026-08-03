@@ -1,0 +1,1562 @@
+{
+ "date": "2026-08-03",
+ "period": "2026-07-06 to 2026-08-03",
+ "clients": {
+  "aig": {
+   "targets": [
+    {
+     "kw": "digital marketing agency Bucks County PA",
+     "position": null,
+     "note": "no GSC data (not ranking or insufficient impressions)"
+    },
+    {
+     "kw": "local SEO company Bucks County",
+     "position": 45,
+     "impressions": 2,
+     "clicks": 0,
+     "ctr": 0,
+     "page": "https://aigwebmethods.com/local-seo-bucks-county/"
+    },
+    {
+     "kw": "AI SEO Philadelphia",
+     "position": 68,
+     "impressions": 1,
+     "clicks": 0,
+     "ctr": 0,
+     "page": "https://aigwebmethods.com/local-seo-philadelphia/"
+    },
+    {
+     "kw": "SEO agency Philadelphia suburbs",
+     "position": null,
+     "note": "no GSC data (not ranking or insufficient impressions)"
+    },
+    {
+     "kw": "Google Business Profile management Montgomery County PA",
+     "position": null,
+     "note": "no GSC data (not ranking or insufficient impressions)"
+    },
+    {
+     "kw": "marketing automation for small business Philadelphia",
+     "position": null,
+     "note": "no GSC data (not ranking or insufficient impressions)"
+    },
+    {
+     "kw": "AI chatbot for small business website",
+     "position": null,
+     "note": "no GSC data (not ranking or insufficient impressions)"
+    },
+    {
+     "kw": "web design Huntingdon Valley PA",
+     "position": null,
+     "note": "no GSC data (not ranking or insufficient impressions)"
+    }
+   ],
+   "top_queries": [
+    {
+     "q": "ai seo bucks county",
+     "position": 27,
+     "impressions": 1,
+     "clicks": 0,
+     "ctr": 0
+    },
+    {
+     "q": "ai seo philadelphia",
+     "position": 68,
+     "impressions": 1,
+     "clicks": 0,
+     "ctr": 0
+    },
+    {
+     "q": "aig",
+     "position": 5.7,
+     "impressions": 3,
+     "clicks": 0,
+     "ctr": 0
+    },
+    {
+     "q": "aig chatgpt",
+     "position": 10.3,
+     "impressions": 9,
+     "clicks": 0,
+     "ctr": 0
+    },
+    {
+     "q": "aig open",
+     "position": 9.2,
+     "impressions": 9,
+     "clicks": 0,
+     "ctr": 0
+    },
+    {
+     "q": "aig website services",
+     "position": 25,
+     "impressions": 1,
+     "clicks": 0,
+     "ctr": 0
+    },
+    {
+     "q": "best local seo company bucks county",
+     "position": 72.6,
+     "impressions": 5,
+     "clicks": 0,
+     "ctr": 0
+    },
+    {
+     "q": "bucks county digital marketing",
+     "position": 65,
+     "impressions": 1,
+     "clicks": 0,
+     "ctr": 0
+    },
+    {
+     "q": "digital marketing bucks county",
+     "position": 64.5,
+     "impressions": 2,
+     "clicks": 0,
+     "ctr": 0
+    },
+    {
+     "q": "directory listing manager",
+     "position": 44.3,
+     "impressions": 3,
+     "clicks": 0,
+     "ctr": 0
+    }
+   ],
+   "error": "",
+   "wins": [],
+   "concerns": [
+    {
+     "kw": "digital marketing agency Bucks County PA",
+     "issue": "no ranking presence",
+     "action": "Check for a dedicated optimized page; build or optimize one for this keyword.",
+     "fixer_id": "aig-rankgap-fcfc62e55a",
+     "fixer_status": "queued for fixer"
+    },
+    {
+     "kw": "local SEO company Bucks County",
+     "issue": "deep at position 45",
+     "action": "Page exists but weak: run tm-page-optimizer + internal links + entity/schema strengthening.",
+     "fixer_id": "aig-rr-63d60f4d86",
+     "fixer_status": "queued for fixer"
+    },
+    {
+     "kw": "AI SEO Philadelphia",
+     "issue": "deep at position 68",
+     "action": "Page exists but weak: run tm-page-optimizer + internal links + entity/schema strengthening.",
+     "fixer_id": "aig-rr-3cc3c64620",
+     "fixer_status": "queued for fixer"
+    },
+    {
+     "kw": "SEO agency Philadelphia suburbs",
+     "issue": "no ranking presence",
+     "action": "Check for a dedicated optimized page; build or optimize one for this keyword.",
+     "fixer_id": "aig-rankgap-fcfc62e55a",
+     "fixer_status": "queued for fixer"
+    },
+    {
+     "kw": "Google Business Profile management Montgomery County PA",
+     "issue": "no ranking presence",
+     "action": "Check for a dedicated optimized page; build or optimize one for this keyword.",
+     "fixer_id": "aig-rankgap-fcfc62e55a",
+     "fixer_status": "queued for fixer"
+    },
+    {
+     "kw": "marketing automation for small business Philadelphia",
+     "issue": "no ranking presence",
+     "action": "Check for a dedicated optimized page; build or optimize one for this keyword.",
+     "fixer_id": "aig-rankgap-fcfc62e55a",
+     "fixer_status": "queued for fixer"
+    },
+    {
+     "kw": "AI chatbot for small business website",
+     "issue": "no ranking presence",
+     "action": "Check for a dedicated optimized page; build or optimize one for this keyword.",
+     "fixer_id": "aig-rankgap-fcfc62e55a",
+     "fixer_status": "queued for fixer"
+    },
+    {
+     "kw": "web design Huntingdon Valley PA",
+     "issue": "no ranking presence",
+     "action": "Check for a dedicated optimized page; build or optimize one for this keyword.",
+     "fixer_id": "aig-rankgap-fcfc62e55a",
+     "fixer_status": "queued for fixer"
+    }
+   ]
+  },
+  "ateam": {
+   "targets": [
+    {
+     "kw": "companion care Philadelphia",
+     "position": 15.3,
+     "impressions": 18,
+     "clicks": 0,
+     "ctr": 0,
+     "page": "https://ateampa.com/companion-care/"
+    },
+    {
+     "kw": "home care Philadelphia",
+     "position": 6.6,
+     "impressions": 413,
+     "clicks": 0,
+     "ctr": 0,
+     "page": "https://ateampa.com/"
+    },
+    {
+     "kw": "24 hour home care Philadelphia",
+     "position": 29,
+     "impressions": 1,
+     "clicks": 0,
+     "ctr": 0,
+     "page": "https://ateampa.com/"
+    },
+    {
+     "kw": "private duty nursing Philadelphia",
+     "position": null,
+     "note": "no GSC data (not ranking or insufficient impressions)"
+    },
+    {
+     "kw": "pediatric home care Philadelphia",
+     "position": null,
+     "note": "no GSC data (not ranking or insufficient impressions)"
+    },
+    {
+     "kw": "veterans home care Philadelphia",
+     "position": null,
+     "note": "no GSC data (not ranking or insufficient impressions)"
+    },
+    {
+     "kw": "caregiver jobs Philadelphia",
+     "position": 10.5,
+     "impressions": 183,
+     "clicks": 15,
+     "ctr": 8.2,
+     "page": "https://ateampa.com/caregiver-jobs/"
+    },
+    {
+     "kw": "family caregiver program Philadelphia",
+     "position": null,
+     "note": "no GSC data (not ranking or insufficient impressions)"
+    }
+   ],
+   "top_queries": [
+    {
+     "q": "a team home care",
+     "position": 1.6,
+     "impressions": 308,
+     "clicks": 35,
+     "ctr": 11.36
+    },
+    {
+     "q": "a-team home care",
+     "position": 1.6,
+     "impressions": 128,
+     "clicks": 19,
+     "ctr": 14.84
+    },
+    {
+     "q": "home health aide",
+     "position": 4.8,
+     "impressions": 719,
+     "clicks": 19,
+     "ctr": 2.64
+    },
+    {
+     "q": "highest paying home care agency in philadelphia",
+     "position": 4.6,
+     "impressions": 287,
+     "clicks": 15,
+     "ctr": 5.23
+    },
+    {
+     "q": "a team home care philadelphia",
+     "position": 1.3,
+     "impressions": 155,
+     "clicks": 13,
+     "ctr": 8.39
+    },
+    {
+     "q": "ateam home care",
+     "position": 1.5,
+     "impressions": 130,
+     "clicks": 13,
+     "ctr": 10.0
+    },
+    {
+     "q": "caregiver jobs philadelphia",
+     "position": 11.2,
+     "impressions": 161,
+     "clicks": 12,
+     "ctr": 7.45
+    },
+    {
+     "q": "top 10 highest paying home care agency in philadelphia",
+     "position": 4.2,
+     "impressions": 233,
+     "clicks": 12,
+     "ctr": 5.15
+    },
+    {
+     "q": "a-team home care philadelphia",
+     "position": 1.2,
+     "impressions": 135,
+     "clicks": 8,
+     "ctr": 5.93
+    },
+    {
+     "q": "a team home care pay rate",
+     "position": 1.6,
+     "impressions": 23,
+     "clicks": 5,
+     "ctr": 21.74
+    }
+   ],
+   "error": "",
+   "wins": [
+    {
+     "kw": "home care Philadelphia",
+     "position": 6.6,
+     "impressions": 413,
+     "clicks": 0,
+     "note": "page 1"
+    }
+   ],
+   "concerns": [
+    {
+     "kw": "companion care Philadelphia",
+     "issue": "page 2 at position 15.3",
+     "action": "Closest wins: optimizer push (title, FAQ schema, internal links from high-authority pages).",
+     "fixer_id": "ateam-rankaction-c8e24f74ae",
+     "fixer_status": "queued for fixer"
+    },
+    {
+     "kw": "24 hour home care Philadelphia",
+     "issue": "page 2 at position 29",
+     "action": "Closest wins: optimizer push (title, FAQ schema, internal links from high-authority pages).",
+     "fixer_id": "ateam-rr-bdeded46de",
+     "fixer_status": "queued for fixer"
+    },
+    {
+     "kw": "private duty nursing Philadelphia",
+     "issue": "no ranking presence",
+     "action": "Check for a dedicated optimized page; build or optimize one for this keyword.",
+     "fixer_id": "ateam-rr-24bee077ac",
+     "fixer_status": "queued for fixer"
+    },
+    {
+     "kw": "pediatric home care Philadelphia",
+     "issue": "no ranking presence",
+     "action": "Check for a dedicated optimized page; build or optimize one for this keyword.",
+     "fixer_id": "ateam-rr-8231f30b69",
+     "fixer_status": "queued for fixer"
+    },
+    {
+     "kw": "veterans home care Philadelphia",
+     "issue": "no ranking presence",
+     "action": "Check for a dedicated optimized page; build or optimize one for this keyword.",
+     "fixer_id": "ateam-rankaction-bf80b283de",
+     "fixer_status": "queued for fixer"
+    },
+    {
+     "kw": "caregiver jobs Philadelphia",
+     "issue": "page 2 at position 10.5",
+     "action": "Closest wins: optimizer push (title, FAQ schema, internal links from high-authority pages).",
+     "fixer_id": "ateam-rankaction-aea6a7ac46",
+     "fixer_status": "queued for fixer"
+    },
+    {
+     "kw": "family caregiver program Philadelphia",
+     "issue": "no ranking presence",
+     "action": "Check for a dedicated optimized page; build or optimize one for this keyword.",
+     "fixer_id": "ateam-rr-827eccebed",
+     "fixer_status": "queued for fixer"
+    }
+   ]
+  },
+  "dfs": {
+   "targets": [
+    {
+     "kw": "mortgage broker Pennsylvania",
+     "position": null,
+     "note": "no GSC data (not ranking or insufficient impressions)"
+    },
+    {
+     "kw": "hard money loans Pennsylvania",
+     "position": null,
+     "note": "no GSC data (not ranking or insufficient impressions)"
+    },
+    {
+     "kw": "FHA loans Pennsylvania",
+     "position": 71.8,
+     "impressions": 15,
+     "clicks": 0,
+     "ctr": 0,
+     "page": "https://dynamicfunding.net/fha-vs-conventional-loan-pennsylvania-2/"
+    },
+    {
+     "kw": "VA loans Pennsylvania",
+     "position": 29,
+     "impressions": 1,
+     "clicks": 0,
+     "ctr": 0,
+     "page": "https://dynamicfunding.net/services/va-loans/"
+    },
+    {
+     "kw": "mortgage broker Huntingdon Valley",
+     "position": null,
+     "note": "no GSC data (not ranking or insufficient impressions)"
+    },
+    {
+     "kw": "home loans Bucks County PA",
+     "position": null,
+     "note": "no GSC data (not ranking or insufficient impressions)"
+    },
+    {
+     "kw": "commercial mortgage broker PA",
+     "position": null,
+     "note": "no GSC data (not ranking or insufficient impressions)"
+    },
+    {
+     "kw": "bridge loans Pennsylvania",
+     "position": 1,
+     "impressions": 1,
+     "clicks": 0,
+     "ctr": 0,
+     "page": "https://dynamicfunding.net/services/bridge-loan/"
+    },
+    {
+     "kw": "mortgage broker Philadelphia PA",
+     "position": null,
+     "note": "no GSC data (not ranking or insufficient impressions)"
+    },
+    {
+     "kw": "first time home buyer loans PA",
+     "position": 45.7,
+     "impressions": 3,
+     "clicks": 0,
+     "ctr": 0,
+     "page": "https://dynamicfunding.net/services-pennsylvania/first-time-home-buyer/"
+    }
+   ],
+   "top_queries": [
+    {
+     "q": "lena polnet",
+     "position": 1.5,
+     "impressions": 30,
+     "clicks": 8,
+     "ctr": 26.67
+    },
+    {
+     "q": "dynamic funding solutions inc",
+     "position": 1,
+     "impressions": 19,
+     "clicks": 5,
+     "ctr": 26.32
+    },
+    {
+     "q": "dynamic funding solutions",
+     "position": 1,
+     "impressions": 13,
+     "clicks": 4,
+     "ctr": 30.77
+    },
+    {
+     "q": "dynamic funding",
+     "position": 11.5,
+     "impressions": 51,
+     "clicks": 1,
+     "ctr": 1.96
+    },
+    {
+     "q": "\"encrypted document\" victorian novel",
+     "position": 25,
+     "impressions": 1,
+     "clicks": 0,
+     "ctr": 0
+    },
+    {
+     "q": "\"finance broker\" in philadelphia, pennsylvania",
+     "position": 37.7,
+     "impressions": 3,
+     "clicks": 0,
+     "ctr": 0
+    },
+    {
+     "q": "\"home loan experts\"",
+     "position": 2,
+     "impressions": 1,
+     "clicks": 0,
+     "ctr": 0
+    },
+    {
+     "q": "1 person",
+     "position": 22,
+     "impressions": 1,
+     "clicks": 0,
+     "ctr": 0
+    },
+    {
+     "q": "19087 refinance",
+     "position": 69.2,
+     "impressions": 4,
+     "clicks": 0,
+     "ctr": 0
+    },
+    {
+     "q": "19087 usda loan",
+     "position": 18,
+     "impressions": 1,
+     "clicks": 0,
+     "ctr": 0
+    }
+   ],
+   "error": "",
+   "wins": [
+    {
+     "kw": "bridge loans Pennsylvania",
+     "position": 1,
+     "impressions": 1,
+     "clicks": 0,
+     "note": "#1-3, owns the term"
+    }
+   ],
+   "concerns": [
+    {
+     "kw": "mortgage broker Pennsylvania",
+     "issue": "no ranking presence",
+     "action": "Check for a dedicated optimized page; build or optimize one for this keyword.",
+     "fixer_id": "dfs-rankaction-a746c73f71",
+     "fixer_status": "queued for fixer"
+    },
+    {
+     "kw": "hard money loans Pennsylvania",
+     "issue": "no ranking presence",
+     "action": "Check for a dedicated optimized page; build or optimize one for this keyword.",
+     "fixer_id": "dfs-rr-f0f3cd27dc",
+     "fixer_status": "queued for fixer"
+    },
+    {
+     "kw": "FHA loans Pennsylvania",
+     "issue": "deep at position 71.8",
+     "action": "Page exists but weak: run tm-page-optimizer + internal links + entity/schema strengthening.",
+     "fixer_id": "dfs-rankaction-938494dcba",
+     "fixer_status": "queued for fixer"
+    },
+    {
+     "kw": "VA loans Pennsylvania",
+     "issue": "page 2 at position 29",
+     "action": "Closest wins: optimizer push (title, FAQ schema, internal links from high-authority pages).",
+     "fixer_id": "dfs-rr-017f0e6603",
+     "fixer_status": "queued for fixer"
+    },
+    {
+     "kw": "mortgage broker Huntingdon Valley",
+     "issue": "no ranking presence",
+     "action": "Check for a dedicated optimized page; build or optimize one for this keyword.",
+     "fixer_id": "dfs-rankaction-2b1d1efc77",
+     "fixer_status": "queued for fixer"
+    },
+    {
+     "kw": "home loans Bucks County PA",
+     "issue": "no ranking presence",
+     "action": "Check for a dedicated optimized page; build or optimize one for this keyword.",
+     "fixer_id": "dfs-rr-ce459e63cb",
+     "fixer_status": "queued for fixer"
+    },
+    {
+     "kw": "commercial mortgage broker PA",
+     "issue": "no ranking presence",
+     "action": "Check for a dedicated optimized page; build or optimize one for this keyword.",
+     "fixer_id": "dfs-rr-adefc85e18",
+     "fixer_status": "queued for fixer"
+    },
+    {
+     "kw": "mortgage broker Philadelphia PA",
+     "issue": "no ranking presence",
+     "action": "Check for a dedicated optimized page; build or optimize one for this keyword.",
+     "fixer_id": "dfs-rr-f00439884a",
+     "fixer_status": "queued for fixer"
+    },
+    {
+     "kw": "first time home buyer loans PA",
+     "issue": "deep at position 45.7",
+     "action": "Page exists but weak: run tm-page-optimizer + internal links + entity/schema strengthening.",
+     "fixer_id": "dfs-rr-6e81c535b0",
+     "fixer_status": "queued for fixer"
+    }
+   ]
+  },
+  "hometrust": {
+   "targets": [
+    {
+     "kw": "window replacement Bucks County PA",
+     "position": 31.6,
+     "impressions": 5,
+     "clicks": 0,
+     "ctr": 0,
+     "page": "https://hometrustwindows.com/"
+    },
+    {
+     "kw": "andersen window installers near me",
+     "position": 52.1,
+     "impressions": 7,
+     "clicks": 0,
+     "ctr": 0,
+     "page": "https://hometrustwindows.com/"
+    },
+    {
+     "kw": "Andersen windows contractor",
+     "position": null,
+     "note": "no GSC data (not ranking or insufficient impressions)"
+    },
+    {
+     "kw": "window installation Montgomery County PA",
+     "position": null,
+     "note": "no GSC data (not ranking or insufficient impressions)"
+    },
+    {
+     "kw": "window replacement Philadelphia",
+     "position": null,
+     "note": "no GSC data (not ranking or insufficient impressions)"
+    },
+    {
+     "kw": "door replacement Bucks County PA",
+     "position": null,
+     "note": "no GSC data (not ranking or insufficient impressions)"
+    },
+    {
+     "kw": "replacement windows Huntingdon Valley PA",
+     "position": null,
+     "note": "no GSC data (not ranking or insufficient impressions)"
+    },
+    {
+     "kw": "window replacement Mercer County NJ",
+     "position": null,
+     "note": "no GSC data (not ranking or insufficient impressions)"
+    }
+   ],
+   "top_queries": [
+    {
+     "q": "windows store near me",
+     "position": 6,
+     "impressions": 1,
+     "clicks": 1,
+     "ctr": 100
+    },
+    {
+     "q": "acre replacement windows",
+     "position": 29.5,
+     "impressions": 4,
+     "clicks": 0,
+     "ctr": 0
+    },
+    {
+     "q": "acre windows",
+     "position": 43,
+     "impressions": 1,
+     "clicks": 0,
+     "ctr": 0
+    },
+    {
+     "q": "affordable window replacement martinsburg wv",
+     "position": 63,
+     "impressions": 1,
+     "clicks": 0,
+     "ctr": 0
+    },
+    {
+     "q": "affordable windows atlantic county nj",
+     "position": 33.6,
+     "impressions": 5,
+     "clicks": 0,
+     "ctr": 0
+    },
+    {
+     "q": "affordable windows burlington county nj",
+     "position": 37,
+     "impressions": 2,
+     "clicks": 0,
+     "ctr": 0
+    },
+    {
+     "q": "andersen certified contractor",
+     "position": 23,
+     "impressions": 1,
+     "clicks": 0,
+     "ctr": 0
+    },
+    {
+     "q": "andersen certified contractor near me",
+     "position": 33,
+     "impressions": 1,
+     "clicks": 0,
+     "ctr": 0
+    },
+    {
+     "q": "andersen certified installer",
+     "position": 40,
+     "impressions": 1,
+     "clicks": 0,
+     "ctr": 0
+    },
+    {
+     "q": "andersen door repair service near me",
+     "position": 27,
+     "impressions": 1,
+     "clicks": 0,
+     "ctr": 0
+    }
+   ],
+   "error": "",
+   "wins": [],
+   "concerns": [
+    {
+     "kw": "window replacement Bucks County PA",
+     "issue": "deep at position 31.6",
+     "action": "Page exists but weak: run tm-page-optimizer + internal links + entity/schema strengthening.",
+     "fixer_id": "hometrust-rr-1cd3854344",
+     "fixer_status": "queued for fixer"
+    },
+    {
+     "kw": "andersen window installers near me",
+     "issue": "deep at position 52.1",
+     "action": "Page exists but weak: run tm-page-optimizer + internal links + entity/schema strengthening.",
+     "fixer_id": "hometrust-rr-e1156b2fc1",
+     "fixer_status": "queued for fixer"
+    },
+    {
+     "kw": "Andersen windows contractor",
+     "issue": "no ranking presence",
+     "action": "Check for a dedicated optimized page; build or optimize one for this keyword.",
+     "fixer_id": "hometrust-rankgap-d0478e5760",
+     "fixer_status": "queued for fixer"
+    },
+    {
+     "kw": "window installation Montgomery County PA",
+     "issue": "no ranking presence",
+     "action": "Check for a dedicated optimized page; build or optimize one for this keyword.",
+     "fixer_id": "hometrust-rankgap-d0478e5760",
+     "fixer_status": "queued for fixer"
+    },
+    {
+     "kw": "window replacement Philadelphia",
+     "issue": "no ranking presence",
+     "action": "Check for a dedicated optimized page; build or optimize one for this keyword.",
+     "fixer_id": "hometrust-rankgap-d0478e5760",
+     "fixer_status": "queued for fixer"
+    },
+    {
+     "kw": "door replacement Bucks County PA",
+     "issue": "no ranking presence",
+     "action": "Check for a dedicated optimized page; build or optimize one for this keyword.",
+     "fixer_id": "hometrust-rankgap-d0478e5760",
+     "fixer_status": "queued for fixer"
+    },
+    {
+     "kw": "replacement windows Huntingdon Valley PA",
+     "issue": "no ranking presence",
+     "action": "Check for a dedicated optimized page; build or optimize one for this keyword.",
+     "fixer_id": "hometrust-rankgap-d0478e5760",
+     "fixer_status": "queued for fixer"
+    },
+    {
+     "kw": "window replacement Mercer County NJ",
+     "issue": "no ranking presence",
+     "action": "Check for a dedicated optimized page; build or optimize one for this keyword.",
+     "fixer_id": "hometrust-rankgap-d0478e5760",
+     "fixer_status": "queued for fixer"
+    }
+   ]
+  },
+  "patriot": {
+   "targets": [
+    {
+     "kw": "EMT training Philadelphia",
+     "position": 1.4,
+     "impressions": 57,
+     "clicks": 5,
+     "ctr": 8.77,
+     "page": "https://www.patriotamb.com/home/courses/"
+    },
+    {
+     "kw": "EMT classes Philadelphia",
+     "position": 3.4,
+     "impressions": 10,
+     "clicks": 2,
+     "ctr": 20.0,
+     "page": "https://www.patriotamb.com/home/courses/"
+    },
+    {
+     "kw": "EMT school Northeast Philadelphia",
+     "position": 1,
+     "impressions": 10,
+     "clicks": 5,
+     "ctr": 50.0,
+     "page": "https://www.patriotamb.com/home/courses/"
+    },
+    {
+     "kw": "ambulance service Philadelphia",
+     "position": null,
+     "note": "no GSC data (not ranking or insufficient impressions)"
+    },
+    {
+     "kw": "medical transport Philadelphia",
+     "position": null,
+     "note": "no GSC data (not ranking or insufficient impressions)"
+    },
+    {
+     "kw": "paratransit Philadelphia",
+     "position": null,
+     "note": "no GSC data (not ranking or insufficient impressions)"
+    },
+    {
+     "kw": "BLS ambulance service Philadelphia",
+     "position": null,
+     "note": "no GSC data (not ranking or insufficient impressions)"
+    },
+    {
+     "kw": "EMT programs Philadelphia",
+     "position": 1,
+     "impressions": 5,
+     "clicks": 1,
+     "ctr": 20.0,
+     "page": "https://www.patriotamb.com/home/courses/"
+    }
+   ],
+   "top_queries": [
+    {
+     "q": "patriot ambulance",
+     "position": 3.7,
+     "impressions": 54,
+     "clicks": 10,
+     "ctr": 18.52
+    },
+    {
+     "q": "emt school northeast philadelphia",
+     "position": 1,
+     "impressions": 10,
+     "clicks": 5,
+     "ctr": 50.0
+    },
+    {
+     "q": "emt training philadelphia",
+     "position": 1.4,
+     "impressions": 57,
+     "clicks": 5,
+     "ctr": 8.77
+    },
+    {
+     "q": "patriot ambulance philadelphia",
+     "position": 1.3,
+     "impressions": 10,
+     "clicks": 3,
+     "ctr": 30.0
+    },
+    {
+     "q": "emt classes philadelphia",
+     "position": 3.4,
+     "impressions": 10,
+     "clicks": 2,
+     "ctr": 20.0
+    },
+    {
+     "q": "emt school",
+     "position": 5.8,
+     "impressions": 8,
+     "clicks": 2,
+     "ctr": 25.0
+    },
+    {
+     "q": "emt school philadelphia",
+     "position": 2.1,
+     "impressions": 11,
+     "clicks": 2,
+     "ctr": 18.18
+    },
+    {
+     "q": "2 week emt course",
+     "position": 3,
+     "impressions": 2,
+     "clicks": 1,
+     "ctr": 50.0
+    },
+    {
+     "q": "accelerated emt course philadelphia",
+     "position": 1,
+     "impressions": 2,
+     "clicks": 1,
+     "ctr": 50.0
+    },
+    {
+     "q": "emergency medical technician certification",
+     "position": 3,
+     "impressions": 3,
+     "clicks": 1,
+     "ctr": 33.33
+    }
+   ],
+   "error": "",
+   "wins": [
+    {
+     "kw": "EMT training Philadelphia",
+     "position": 1.4,
+     "impressions": 57,
+     "clicks": 5,
+     "note": "#1-3, owns the term"
+    },
+    {
+     "kw": "EMT classes Philadelphia",
+     "position": 3.4,
+     "impressions": 10,
+     "clicks": 2,
+     "note": "page 1"
+    },
+    {
+     "kw": "EMT school Northeast Philadelphia",
+     "position": 1,
+     "impressions": 10,
+     "clicks": 5,
+     "note": "#1-3, owns the term"
+    },
+    {
+     "kw": "EMT programs Philadelphia",
+     "position": 1,
+     "impressions": 5,
+     "clicks": 1,
+     "note": "#1-3, owns the term"
+    }
+   ],
+   "concerns": [
+    {
+     "kw": "ambulance service Philadelphia",
+     "issue": "no ranking presence",
+     "action": "Check for a dedicated optimized page; build or optimize one for this keyword.",
+     "fixer_id": "patriot-rankgap-c320398ea2",
+     "fixer_status": "queued for fixer"
+    },
+    {
+     "kw": "medical transport Philadelphia",
+     "issue": "no ranking presence",
+     "action": "Check for a dedicated optimized page; build or optimize one for this keyword.",
+     "fixer_id": "patriot-rankgap-c320398ea2",
+     "fixer_status": "queued for fixer"
+    },
+    {
+     "kw": "paratransit Philadelphia",
+     "issue": "no ranking presence",
+     "action": "Check for a dedicated optimized page; build or optimize one for this keyword.",
+     "fixer_id": "patriot-rankgap-c320398ea2",
+     "fixer_status": "queued for fixer"
+    },
+    {
+     "kw": "BLS ambulance service Philadelphia",
+     "issue": "no ranking presence",
+     "action": "Check for a dedicated optimized page; build or optimize one for this keyword.",
+     "fixer_id": "patriot-rankgap-c320398ea2",
+     "fixer_status": "queued for fixer"
+    }
+   ]
+  },
+  "roi": {
+   "targets": [
+    {
+     "kw": "sell my house fast Philadelphia",
+     "position": 12.2,
+     "impressions": 12,
+     "clicks": 0,
+     "ctr": 0,
+     "page": "https://roinational.com/sell-home-fast-philadelphia-tough-times/"
+    },
+    {
+     "kw": "we buy houses Philadelphia",
+     "position": null,
+     "note": "no GSC data (not ranking or insufficient impressions)"
+    },
+    {
+     "kw": "we buy houses PA",
+     "position": null,
+     "note": "no GSC data (not ranking or insufficient impressions)"
+    },
+    {
+     "kw": "sell my house fast Bucks County PA",
+     "position": 44.2,
+     "impressions": 5,
+     "clicks": 0,
+     "ctr": 0,
+     "page": "https://roinational.com/bucks-county-pa/"
+    },
+    {
+     "kw": "we buy houses Levittown PA",
+     "position": 11,
+     "impressions": 1,
+     "clicks": 0,
+     "ctr": 0,
+     "page": "https://roinational.com/levittown-pa/"
+    },
+    {
+     "kw": "cash home buyers Burlington County NJ",
+     "position": null,
+     "note": "no GSC data (not ranking or insufficient impressions)"
+    },
+    {
+     "kw": "sell my house fast Camden County NJ",
+     "position": 7,
+     "impressions": 3,
+     "clicks": 0,
+     "ctr": 0,
+     "page": "https://roinational.com/sell-my-house-fast-camden-county-nj-preview/"
+    },
+    {
+     "kw": "sell fire damaged house Pennsylvania",
+     "position": 6.7,
+     "impressions": 90,
+     "clicks": 0,
+     "ctr": 0,
+     "page": "https://roinational.com/sell-damaged-house-pennsylvania/"
+    }
+   ],
+   "top_queries": [
+    {
+     "q": "roi national realty",
+     "position": 2.9,
+     "impressions": 29,
+     "clicks": 2,
+     "ctr": 6.9
+    },
+    {
+     "q": "bucks county delinquent tax list",
+     "position": 6.6,
+     "impressions": 29,
+     "clicks": 1,
+     "ctr": 3.45
+    },
+    {
+     "q": "roi national",
+     "position": 2.4,
+     "impressions": 36,
+     "clicks": 1,
+     "ctr": 2.78
+    },
+    {
+     "q": "\"homeowners who are \"underwater\":\"",
+     "position": 8,
+     "impressions": 2,
+     "clicks": 0,
+     "ctr": 0
+    },
+    {
+     "q": "\"planet 8 digital\" \"morrisville\"",
+     "position": 38,
+     "impressions": 5,
+     "clicks": 0,
+     "ctr": 0
+    },
+    {
+     "q": "\"royogauidnyvbw-awgfiiqosa-n\"",
+     "position": 5,
+     "impressions": 2,
+     "clicks": 0,
+     "ctr": 0
+    },
+    {
+     "q": "(\"my house\" or \"my home\" or \"my property\" or \"my apartment\") (\"water damage\" or \"fire damage\" or \"wind damage\" or \"storm damage\") \"new jersey\" (\"what should i do\" or \"need help\" or \"insurance\")",
+     "position": 5,
+     "impressions": 1,
+     "clicks": 0,
+     "ctr": 0
+    },
+    {
+     "q": "(\"water damage\" or \"fire damage\" or \"flood\" or \"storm damage\") (\"newark\" or \"jersey city\" or \"paterson\" or \"elizabeth\" or \"trenton\" or \"camden\") nj (\"help\" or \"need\" or \"insurance\" or \"claim\")",
+     "position": 19,
+     "impressions": 1,
+     "clicks": 0,
+     "ctr": 0
+    },
+    {
+     "q": "answer both questions",
+     "position": 4,
+     "impressions": 1,
+     "clicks": 0,
+     "ctr": 0
+    },
+    {
+     "q": "avoid fines sell code violation house",
+     "position": 18.5,
+     "impressions": 2,
+     "clicks": 0,
+     "ctr": 0
+    }
+   ],
+   "error": "",
+   "wins": [
+    {
+     "kw": "sell my house fast Camden County NJ",
+     "position": 7,
+     "impressions": 3,
+     "clicks": 0,
+     "note": "page 1"
+    },
+    {
+     "kw": "sell fire damaged house Pennsylvania",
+     "position": 6.7,
+     "impressions": 90,
+     "clicks": 0,
+     "note": "page 1"
+    }
+   ],
+   "concerns": [
+    {
+     "kw": "sell my house fast Philadelphia",
+     "issue": "page 2 at position 12.2",
+     "action": "Closest wins: optimizer push (title, FAQ schema, internal links from high-authority pages).",
+     "fixer_id": "roi-rr-3a1c432667",
+     "fixer_status": "queued for fixer"
+    },
+    {
+     "kw": "we buy houses Philadelphia",
+     "issue": "no ranking presence",
+     "action": "Check for a dedicated optimized page; build or optimize one for this keyword.",
+     "fixer_id": "roi-rankgap-4820fec566",
+     "fixer_status": "queued for fixer"
+    },
+    {
+     "kw": "we buy houses PA",
+     "issue": "no ranking presence",
+     "action": "Check for a dedicated optimized page; build or optimize one for this keyword.",
+     "fixer_id": "roi-rankgap-4820fec566",
+     "fixer_status": "queued for fixer"
+    },
+    {
+     "kw": "sell my house fast Bucks County PA",
+     "issue": "deep at position 44.2",
+     "action": "Page exists but weak: run tm-page-optimizer + internal links + entity/schema strengthening.",
+     "fixer_id": "roi-rr-fa8cddc235",
+     "fixer_status": "queued for fixer"
+    },
+    {
+     "kw": "we buy houses Levittown PA",
+     "issue": "page 2 at position 11",
+     "action": "Closest wins: optimizer push (title, FAQ schema, internal links from high-authority pages).",
+     "fixer_id": "roi-rr-10ec898cff",
+     "fixer_status": "queued for fixer"
+    },
+    {
+     "kw": "cash home buyers Burlington County NJ",
+     "issue": "no ranking presence",
+     "action": "Check for a dedicated optimized page; build or optimize one for this keyword.",
+     "fixer_id": "roi-rankgap-4820fec566",
+     "fixer_status": "queued for fixer"
+    }
+   ]
+  },
+  "vector": {
+   "targets": [
+    {
+     "kw": "sleep clinic Queens NY",
+     "position": null,
+     "note": "no GSC data (not ranking or insufficient impressions)"
+    },
+    {
+     "kw": "sleep study Queens NY",
+     "position": null,
+     "note": "no GSC data (not ranking or insufficient impressions)"
+    },
+    {
+     "kw": "sleep apnea treatment NYC",
+     "position": 58,
+     "impressions": 3,
+     "clicks": 0,
+     "ctr": 0,
+     "page": "https://vectorsleepclinic.com/sleep-apnea-doctor-manhattan/"
+    },
+    {
+     "kw": "sleep apnea doctor Queens",
+     "position": null,
+     "note": "no GSC data (not ranking or insufficient impressions)"
+    },
+    {
+     "kw": "insomnia treatment NYC",
+     "position": null,
+     "note": "no GSC data (not ranking or insufficient impressions)"
+    },
+    {
+     "kw": "CPAP therapy Queens NY",
+     "position": null,
+     "note": "no GSC data (not ranking or insufficient impressions)"
+    },
+    {
+     "kw": "sleep disorder specialist NYC",
+     "position": null,
+     "note": "no GSC data (not ranking or insufficient impressions)"
+    },
+    {
+     "kw": "sleep study near me Queens",
+     "position": null,
+     "note": "no GSC data (not ranking or insufficient impressions)"
+    },
+    {
+     "kw": "polysomnography Queens NY",
+     "position": null,
+     "note": "no GSC data (not ranking or insufficient impressions)"
+    },
+    {
+     "kw": "sleep apnea specialist Rego Park",
+     "position": null,
+     "note": "no GSC data (not ranking or insufficient impressions)"
+    }
+   ],
+   "top_queries": [
+    {
+     "q": "vector sleep diagnostic center",
+     "position": 1.1,
+     "impressions": 84,
+     "clicks": 14,
+     "ctr": 16.67
+    },
+    {
+     "q": "vector sleep",
+     "position": 1.6,
+     "impressions": 56,
+     "clicks": 6,
+     "ctr": 10.71
+    },
+    {
+     "q": "dr dmitriy kolesnik",
+     "position": 8.9,
+     "impressions": 56,
+     "clicks": 1,
+     "ctr": 1.79
+    },
+    {
+     "q": "other supplements",
+     "position": 3,
+     "impressions": 1,
+     "clicks": 1,
+     "ctr": 100
+    },
+    {
+     "q": "sleep apnea clinic near me",
+     "position": 1.2,
+     "impressions": 5,
+     "clicks": 1,
+     "ctr": 20.0
+    },
+    {
+     "q": "sleep apnea doctor",
+     "position": 2.5,
+     "impressions": 29,
+     "clicks": 1,
+     "ctr": 3.45
+    },
+    {
+     "q": "sleep apnea doctor near me",
+     "position": 3.2,
+     "impressions": 41,
+     "clicks": 1,
+     "ctr": 2.44
+    },
+    {
+     "q": "sleep apnea near me",
+     "position": 1.0,
+     "impressions": 1049,
+     "clicks": 1,
+     "ctr": 0.1
+    },
+    {
+     "q": "sleep apnea testing near me",
+     "position": 1.5,
+     "impressions": 6,
+     "clicks": 1,
+     "ctr": 16.67
+    },
+    {
+     "q": "sleep center near me",
+     "position": 1.8,
+     "impressions": 9,
+     "clicks": 1,
+     "ctr": 11.11
+    }
+   ],
+   "error": "",
+   "wins": [],
+   "concerns": [
+    {
+     "kw": "sleep clinic Queens NY",
+     "issue": "no ranking presence",
+     "action": "Check for a dedicated optimized page; build or optimize one for this keyword.",
+     "fixer_id": "vector-rankaction-ec24c08d47",
+     "fixer_status": "queued for fixer"
+    },
+    {
+     "kw": "sleep study Queens NY",
+     "issue": "no ranking presence",
+     "action": "Check for a dedicated optimized page; build or optimize one for this keyword.",
+     "fixer_id": "vector-rankaction-ec24c08d47",
+     "fixer_status": "queued for fixer"
+    },
+    {
+     "kw": "sleep apnea treatment NYC",
+     "issue": "deep at position 58",
+     "action": "Page exists but weak: run tm-page-optimizer + internal links + entity/schema strengthening.",
+     "fixer_id": "vector-rr-bba3b34eeb",
+     "fixer_status": "queued for fixer"
+    },
+    {
+     "kw": "sleep apnea doctor Queens",
+     "issue": "no ranking presence",
+     "action": "Check for a dedicated optimized page; build or optimize one for this keyword.",
+     "fixer_id": "vector-rankaction-ec24c08d47",
+     "fixer_status": "queued for fixer"
+    },
+    {
+     "kw": "insomnia treatment NYC",
+     "issue": "no ranking presence",
+     "action": "Check for a dedicated optimized page; build or optimize one for this keyword.",
+     "fixer_id": "vector-rr-3f7a6adfd8",
+     "fixer_status": "queued for fixer"
+    },
+    {
+     "kw": "CPAP therapy Queens NY",
+     "issue": "no ranking presence",
+     "action": "Check for a dedicated optimized page; build or optimize one for this keyword.",
+     "fixer_id": "vector-rr-175d7bb28b",
+     "fixer_status": "queued for fixer"
+    },
+    {
+     "kw": "sleep disorder specialist NYC",
+     "issue": "no ranking presence",
+     "action": "Check for a dedicated optimized page; build or optimize one for this keyword.",
+     "fixer_id": "vector-rr-6a6908fdcf",
+     "fixer_status": "queued for fixer"
+    },
+    {
+     "kw": "sleep study near me Queens",
+     "issue": "no ranking presence",
+     "action": "Check for a dedicated optimized page; build or optimize one for this keyword.",
+     "fixer_id": "vector-rr-dcb99dc83e",
+     "fixer_status": "queued for fixer"
+    },
+    {
+     "kw": "polysomnography Queens NY",
+     "issue": "no ranking presence",
+     "action": "Check for a dedicated optimized page; build or optimize one for this keyword.",
+     "fixer_id": "vector-rr-1020f0e9ef",
+     "fixer_status": "queued for fixer"
+    },
+    {
+     "kw": "sleep apnea specialist Rego Park",
+     "issue": "no ranking presence",
+     "action": "Check for a dedicated optimized page; build or optimize one for this keyword.",
+     "fixer_id": "vector-rr-5359e8fcc5",
+     "fixer_status": "queued for fixer"
+    }
+   ]
+  },
+  "ybr": {
+   "targets": [
+    {
+     "kw": "roofing contractor Bucks County PA",
+     "position": null,
+     "note": "no GSC data (not ranking or insufficient impressions)"
+    },
+    {
+     "kw": "roof replacement Southampton PA",
+     "position": null,
+     "note": "no GSC data (not ranking or insufficient impressions)"
+    },
+    {
+     "kw": "siding contractor Bucks County PA",
+     "position": 22.9,
+     "impressions": 7,
+     "clicks": 0,
+     "ctr": 0,
+     "page": "https://ybrroofingsidingwindows.com/siding/"
+    },
+    {
+     "kw": "window replacement Bucks County PA",
+     "position": 35.8,
+     "impressions": 6,
+     "clicks": 0,
+     "ctr": 0,
+     "page": "https://ybrroofingsidingwindows.com/windows/"
+    },
+    {
+     "kw": "roofing company Holland PA",
+     "position": null,
+     "note": "no GSC data (not ranking or insufficient impressions)"
+    },
+    {
+     "kw": "metal roof installation Bucks County",
+     "position": null,
+     "note": "no GSC data (not ranking or insufficient impressions)"
+    },
+    {
+     "kw": "James Hardie siding Bucks County",
+     "position": null,
+     "note": "no GSC data (not ranking or insufficient impressions)"
+    },
+    {
+     "kw": "roofing contractor Levittown PA",
+     "position": null,
+     "note": "no GSC data (not ranking or insufficient impressions)"
+    },
+    {
+     "kw": "emergency roof repair Bucks County",
+     "position": null,
+     "note": "no GSC data (not ranking or insufficient impressions)"
+    },
+    {
+     "kw": "gutter installation Bucks County PA",
+     "position": null,
+     "note": "no GSC data (not ranking or insufficient impressions)"
+    }
+   ],
+   "top_queries": [
+    {
+     "q": "110000",
+     "position": 4,
+     "impressions": 1,
+     "clicks": 1,
+     "ctr": 100
+    },
+    {
+     "q": "i live in pa",
+     "position": 12,
+     "impressions": 1,
+     "clicks": 1,
+     "ctr": 100
+    },
+    {
+     "q": "new project",
+     "position": 7,
+     "impressions": 1,
+     "clicks": 1,
+     "ctr": 100
+    },
+    {
+     "q": "peco",
+     "position": 3.8,
+     "impressions": 8,
+     "clicks": 1,
+     "ctr": 12.5
+    },
+    {
+     "q": "ybr group",
+     "position": 2.7,
+     "impressions": 3,
+     "clicks": 1,
+     "ctr": 33.33
+    },
+    {
+     "q": "\"40.2927695\" \"-75.2091504\"",
+     "position": 1,
+     "impressions": 2,
+     "clicks": 0,
+     "ctr": 0
+    },
+    {
+     "q": "18930",
+     "position": 13,
+     "impressions": 1,
+     "clicks": 0,
+     "ctr": 0
+    },
+    {
+     "q": "18951",
+     "position": 3,
+     "impressions": 1,
+     "clicks": 0,
+     "ctr": 0
+    },
+    {
+     "q": "19030",
+     "position": 2,
+     "impressions": 1,
+     "clicks": 0,
+     "ctr": 0
+    },
+    {
+     "q": "19067",
+     "position": 1,
+     "impressions": 1,
+     "clicks": 0,
+     "ctr": 0
+    }
+   ],
+   "error": "",
+   "wins": [],
+   "concerns": [
+    {
+     "kw": "roofing contractor Bucks County PA",
+     "issue": "no ranking presence",
+     "action": "Check for a dedicated optimized page; build or optimize one for this keyword.",
+     "fixer_id": "ybr-dashapproval-1785669874",
+     "fixer_status": "waiting on Alla"
+    },
+    {
+     "kw": "roof replacement Southampton PA",
+     "issue": "no ranking presence",
+     "action": "Check for a dedicated optimized page; build or optimize one for this keyword.",
+     "fixer_id": "ybr-rr-eba1289c74",
+     "fixer_status": "queued for fixer"
+    },
+    {
+     "kw": "siding contractor Bucks County PA",
+     "issue": "page 2 at position 22.9",
+     "action": "Closest wins: optimizer push (title, FAQ schema, internal links from high-authority pages).",
+     "fixer_id": "ybr-rr-205c1195b4",
+     "fixer_status": "queued for fixer"
+    },
+    {
+     "kw": "window replacement Bucks County PA",
+     "issue": "deep at position 35.8",
+     "action": "Page exists but weak: run tm-page-optimizer + internal links + entity/schema strengthening.",
+     "fixer_id": "ybr-rr-ea384ae64c",
+     "fixer_status": "queued for fixer"
+    },
+    {
+     "kw": "roofing company Holland PA",
+     "issue": "no ranking presence",
+     "action": "Check for a dedicated optimized page; build or optimize one for this keyword.",
+     "fixer_id": "ybr-rankaction-b6d52aeb41",
+     "fixer_status": "queued for fixer"
+    },
+    {
+     "kw": "metal roof installation Bucks County",
+     "issue": "no ranking presence",
+     "action": "Check for a dedicated optimized page; build or optimize one for this keyword.",
+     "fixer_id": "ybr-rr-c4c47dbaab",
+     "fixer_status": "queued for fixer"
+    },
+    {
+     "kw": "James Hardie siding Bucks County",
+     "issue": "no ranking presence",
+     "action": "Check for a dedicated optimized page; build or optimize one for this keyword.",
+     "fixer_id": "ybr-rr-3f56ea9348",
+     "fixer_status": "queued for fixer"
+    },
+    {
+     "kw": "roofing contractor Levittown PA",
+     "issue": "no ranking presence",
+     "action": "Check for a dedicated optimized page; build or optimize one for this keyword.",
+     "fixer_id": "ybr-rr-9f81409157",
+     "fixer_status": "queued for fixer"
+    },
+    {
+     "kw": "emergency roof repair Bucks County",
+     "issue": "no ranking presence",
+     "action": "Check for a dedicated optimized page; build or optimize one for this keyword.",
+     "fixer_id": "ybr-rr-0ce7702e23",
+     "fixer_status": "queued for fixer"
+    },
+    {
+     "kw": "gutter installation Bucks County PA",
+     "issue": "no ranking presence",
+     "action": "Check for a dedicated optimized page; build or optimize one for this keyword.",
+     "fixer_id": "ybr-rr-875038315b",
+     "fixer_status": "queued for fixer"
+    }
+   ]
+  }
+ }
+}

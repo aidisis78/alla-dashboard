@@ -1,0 +1,15 @@
+[2026-08-03 10:31:36] Stop hook fired. JSONL=/Users/home/.claude/projects/-Users-home/85f9c16d-aebb-4c67-9284-cec20a2edaec.jsonl
+[2026-08-03 10:31 EDT] update-client-last-session: folder not found: /Users/home/Documents/Obsidian Vault/01 - Business/Clients/Prospects/2_Contacted/A-Team Home Care
+[2026-08-03 10:31 EDT] update-client-last-session: wrote _LAST-SESSION.md for 'Active/Dynamic Funding Solutions' (matched keyword: 'dynamic funding')
+[2026-08-03 10:31 EDT] update-client-last-session: wrote _LAST-SESSION.md for 'Active/YBR Roofing Siding and Windows' (matched keyword: 'ybr roofing')
+[2026-08-03 10:31:36] Stop hook: captured 1 text blocks, 0 tool calls
+[2026-08-03T10:33:54.054261] UserPromptSubmit keys: ['session_id', 'transcript_path', 'cwd', 'prompt_id', 'permission_mode', 'hook_event_name', 'prompt', 'session_title']
+  session_id: 85f9c16d-aebb-4c67-9284-cec20a2edaec
+  transcript_path: /Users/home/.claude/projects/-Users-home/85f9c16d-aebb-4c67-9284-cec20a2edaec.jsonl
+  cwd: /Users/home/.claude/dashboard/.gh-mirror
+  prompt_id: ca04584d-8bda-4e74-8d40-8d9e5475616f
+  permission_mode: acceptEdits
+  hook_event_name: UserPromptSubmit
+  prompt: I want you to grab stuff out of this Support every time it arrives every time it's triggered or I want you to figure out how this report is triggered and how it's created and use it in the fixer befor
+  session_title: dashboard
+
