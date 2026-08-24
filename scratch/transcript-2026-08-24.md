@@ -1,0 +1,20 @@
+# Session Transcript — 2026-08-24
+**Session ID:** 7a507a48-43a0-4cae-9eb8-c41cac76a34e
+**Working Directory:** /Users/home/.claude/dashboard/.gh-mirror
+**Started:** 2026-08-24 12:33:01
+
+---
+
+
+## [2026-08-24 12:33:01] USER
+
+AUTO CLOSEOUT (backup, not a session end; do not stop other crons/monitors). Zero questions. For every project/client touched since the last closeout in this "dashboard" session: (1) update the living handoff (Dashboard project = /Users/home/scratch/project-handoffs/Dashboard.md; client canonical handoffs live INSIDE each client folder, reachable via /Users/home/scratch/project-handoffs/[Name].md; keep the RESUME HERE block current), (2) mcp__open-brain__capture_thought with one specific paragraph per project, (3) append the session record to each touched client's Agent Notes/YYYY-MM-DD.md. Then confirm to Alla in ONE line with full paths. If nothing changed since the last closeout, verify the handoff still matches reality and log a one-line "no-change closeout" to the Session log.
+
+
+## [2026-08-24 12:34:33] CLAUDE
+
+Closeout done (backup, nothing stopped), and the gate-order stall is actually fixed this time: the night runner only counts night-queue items with status "new" or "in_progress" (night-runner.sh line 31), and my 13 orders were filed as "open," so it never saw them; all 13 are now status "new" and should be claimed starting tonight. Records: /Users/home/scratch/project-handoffs/Dashboard.md (session log + fix), OB1 captured (including the filing lesson: night-queue items must use status "new"); no client sites touched, deploys healthy (12:01), poller alive (12:31), no clicks, queue unchanged.
+
+※ recap: Goal: 12:33 backup closeout. Done: found and fixed why the night runner ignored the 13 gate orders for 4 nights (status convention mismatch, now "new"); handoff + OB1 updated; system healthy. Next: verify tomorrow morning that the runner claimed gate orders; your calls: A-Team gate-or-freeze, AIG plugin upload, Google Ads session, Patriot docs.
+
+---
