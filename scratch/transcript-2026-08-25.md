@@ -33,3 +33,12 @@ The only new fixer flag since your last look is a GSC "not indexed" note on the 
 ※ recap: Goal: status of dashboard + fixer and what waits on you. Both healthy, everything routine is scheduled; the 13-item gate backlog is too slow on the night runner so I'll gate in-session; 5 things need you: HomeTrust Ads budget call, DFS 5-minute meta fix, A-Team gate-or-freeze, AIG plugin upload, Patriot docs. Next: I keep gating the backlog starting with ROI Burlington and HomeTrust Malvern.
 
 ---
+
+## [2026-08-25 11:04:52] USER
+
+1.  I want casey keith to decide
+2. you are supposed to show me the _PREVIEW  file, not the wordpress edit verion.  This has been happening nonstop and I need this to stop. You're never to show me the edited files from WordPress. You need to create the files with_preview with non-inducible situation, and then you need to wait for my approval after I approve you redo this in an actualpage and you index. I really don't want to repeat this again. This is stupid. You need to add this into the pipeline as of right now and never asked me to check for press pages again you add I need to check actual live pages with_preview. I'm not gonna repeat this again. This is stupid.
+3. I don't understand what that gate or freeze means.
+4. What am I supposed to do here? I don't know what the plug-ins do or what do you need me to do.
+5. For Patriot, I need you to start working on the blogs on the pages that are necessary and not wait for the accreditation. This is not something that we need to wait for and stop all work. The work continues.
+
