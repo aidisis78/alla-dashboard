@@ -1,0 +1,38 @@
+
+## [2026-08-26 08:43:01] CLAUDE
+
+All five handled. Here's each one:
+
+**1. Ads budget: Casey decided.** His method says the bid is a ceiling and quality sets the real cost, so budget follows the cheap proven theme. Verdict: shift budget to the Local Window Company theme (it converts at about $34 while doors runs $511 and Andersen $596 [fixer Ads audit 2026-08-24]), pause or cap the doors and Andersen ad groups until their landing page and ad copy are fixed (they land on the old premium-windows page his audit already condemned), and do NOT switch to automated bidding yet because the account only counts button clicks as conversions at about 5 a month, far below the reliable threshold; conversion tracking gets fixed first. Executing this needs your Google Ads login in the browser: say "ads session" whenever you're at the computer and I'll drive the whole thing, including the ad rewrite that's been waiting.
+
+**2. Preview files only: locked in permanently, four ways, effective now.** A new hard gate (WPADMIN_FAIL) now blocks any reply of mine that contains a WordPress edit link, the memory rule that treated edit links as acceptable "work surfaces" is revoked in writing, the pipeline rulebook (CK-RULES, synced to your vault) now states the flow exactly as you said it: build at a readable noindexed -preview address, you approve, then it goes onto the real page and gets indexed, and the fixer's escalation rules got the same instruction so its reports to you can't contain edit links either. The DFS item from my last message is reframed the same way: nothing for you to click or edit; say "do the DFS fix" and I'll drive it in Chrome with your login.
+
+**3. "Gate or freeze" in plain words, and it's resolved.** A-Team has 5 finished blog articles that were parked because A-Team publishing was paused. I was asking whether to quality-check them and put them up as hidden -preview pages for you, or leave them untouched. Your pipeline ruling in point 2 answers it: they'll be staged as noindexed previews like everything else, and nothing goes live without your approval click. The 5 work orders are filed.
+
+**4. AIG in plain words:** the Google Business Profile page on your own AIG site shows outdated Montgomery County info that's baked into a small plugin file, and the fixer already built the corrected version. Installing it is a one-minute upload inside WordPress admin, which per your rule is now my job, not yours: say "do the AIG upload" when you're at the computer and I'll drive it in Chrome.
+
+**5. Patriot: work continues, confirmed.** The accreditation paperwork no longer holds anything; blogs and the needed pages proceed on the normal preview pipeline starting with the queued ambulance-vs-hospital refresh. The only thing that waits for the documentation is the specific "Nationally Accredited" wording, which stays out of new copy until it's documented. That's recorded as a standing order.
+
+So the real list for you shrank to three say-go phrases whenever you're at the computer: "ads session", "do the DFS fix", "do the AIG upload". Everything else runs without you and arrives as preview links.
+
+※ recap: Goal: act on your five rulings. Done: preview-only flow hard-wired into the hook, memory, pipeline rules, and fixer (no more edit links, ever); Casey's ads verdict is budget to Local Window Company + pause doors/Andersen + fix tracking first; A-Team's 5 blogs are queued for preview staging; AIG and DFS are now driven-browser tasks needing only your "go"; Patriot work is unblocked with only the accreditation claim held. Next: I gate Patriot and the backlog into previews; you say "ads session", "do the DFS fix", or "do the AIG upload" when convenient.
+
+---
+
+## [2026-08-26 08:44:12] USER
+
+AUTO CLOSEOUT (backup, not a session end; do not stop other crons/monitors). Zero questions. For every project/client touched since the last closeout in this "dashboard" session: (1) update the living handoff (Dashboard project = /Users/home/scratch/project-handoffs/Dashboard.md; client canonical handoffs live INSIDE each client folder, reachable via /Users/home/scratch/project-handoffs/[Name].md; keep the RESUME HERE block current), (2) mcp__open-brain__capture_thought with one specific paragraph per project, (3) append the session record to each touched client's Agent Notes/YYYY-MM-DD.md. Then confirm to Alla in ONE line with full paths. If nothing changed since the last closeout, verify the handoff still matches reality and log a one-line "no-change closeout" to the Session log.
+
+
+## [2026-08-26 08:44:13] USER
+
+AUTO CLOSEOUT (backup, not a session end; do not stop other crons/monitors). Zero questions. For every project/client touched since the last closeout in this "dashboard" session: (1) update the living handoff (Dashboard project = /Users/home/scratch/project-handoffs/Dashboard.md; client canonical handoffs live INSIDE each client folder, reachable via /Users/home/scratch/project-handoffs/[Name].md; keep the RESUME HERE block current), (2) mcp__open-brain__capture_thought with one specific paragraph per project, (3) append the session record to each touched client's Agent Notes/YYYY-MM-DD.md. Then confirm to Alla in ONE line with full paths. If nothing changed since the last closeout, verify the handoff still matches reality and log a one-line "no-change closeout" to the Session log.
+
+
+## [2026-08-26 08:45:24] CLAUDE
+
+Closeout done for both queued firings (backup, nothing stopped): /Users/home/scratch/project-handoffs/Dashboard.md carries the 08-25 five-rulings summary in RESUME plus today's log line, Agent Notes written for the two touched clients at /Users/home/Documents/Obsidian Vault/01 - Business/Clients/Active/A-Team Home Care/Agent Notes/2026-08-26.md and /Users/home/Documents/Obsidian Vault/01 - Business/Clients/Active/Patriot Ambulance/Agent Notes/2026-08-26.md, OB1 captured, and fresh 7-day closeout crons recreated (the originals expired today). Reality check: the night runner skipped last night (Mac asleep at 3 AM) so all 18 gate orders still sit unclaimed, deploys resume this hour, nothing awaits your approval.
+
+※ recap: Goal: 08:44 backup closeout. Done: handoff, Agent Notes, OB1 current; crons recreated; system healthy with deploys resuming. Next: I gate the backlog in-session since the night runner keeps missing its window; your three say-go phrases stand: "ads session", "do the DFS fix", "do the AIG upload".
+
+---
