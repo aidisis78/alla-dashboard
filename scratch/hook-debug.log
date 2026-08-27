@@ -178,3 +178,70 @@
 [2026-08-27 09:12 EDT] update-client-last-session: wrote _LAST-SESSION.md for 'Active/Vector Sleep Clinic' (matched keyword: 'vector sleep')
 [2026-08-27 09:12 EDT] update-client-last-session: wrote _LAST-SESSION.md for 'Active/YBR Roofing Siding and Windows' (matched keyword: 'ybr')
 [2026-08-27 09:12:25] Stop hook: captured 1 text blocks, 0 tool calls
+[2026-08-27T10:18:35.077411] UserPromptSubmit keys: ['session_id', 'transcript_path', 'cwd', 'prompt_id', 'permission_mode', 'hook_event_name', 'prompt', 'session_title']
+  session_id: 7a507a48-43a0-4cae-9eb8-c41cac76a34e
+  transcript_path: /Users/home/.claude/projects/-Users-home/7a507a48-43a0-4cae-9eb8-c41cac76a34e.jsonl
+  cwd: /Users/home/.claude/dashboard/.gh-mirror
+  prompt_id: 2eb92c79-5b69-4587-9063-c93e69c83298
+  permission_mode: acceptEdits
+  hook_event_name: UserPromptSubmit
+  prompt: what is the plan now?
+  session_title: dashboard
+
+[2026-08-27 10:21:41] Stop hook fired. JSONL=/Users/home/.claude/projects/-Users-home/7a507a48-43a0-4cae-9eb8-c41cac76a34e.jsonl
+[2026-08-27 10:21:41] Stop hook: captured 1 text blocks, 0 tool calls
+[2026-08-27 10:21 EDT] update-client-last-session: folder not found: /Users/home/Documents/Obsidian Vault/01 - Business/Clients/Prospects/2_Contacted/A-Team Home Care
+[2026-08-27 10:21 EDT] update-client-last-session: wrote _LAST-SESSION.md for 'Active/Dynamic Funding Solutions' (matched keyword: 'dfs')
+[2026-08-27 10:21 EDT] update-client-last-session: wrote _LAST-SESSION.md for 'Active/Vector Sleep Clinic' (matched keyword: 'vector sleep')
+[2026-08-27 10:21 EDT] update-client-last-session: wrote _LAST-SESSION.md for 'Active/YBR Roofing Siding and Windows' (matched keyword: 'ybr')
+[2026-08-27T10:25:12.614022] UserPromptSubmit keys: ['session_id', 'transcript_path', 'cwd', 'prompt_id', 'permission_mode', 'hook_event_name', 'prompt', 'session_title']
+  session_id: 7a507a48-43a0-4cae-9eb8-c41cac76a34e
+  transcript_path: /Users/home/.claude/projects/-Users-home/7a507a48-43a0-4cae-9eb8-c41cac76a34e.jsonl
+  cwd: /Users/home/.claude/dashboard/.gh-mirror
+  prompt_id: 8bca4099-3bd7-44bf-b7c6-940d3c59fd2f
+  permission_mode: acceptEdits
+  hook_event_name: UserPromptSubmit
+  prompt: <task-notification>
+<task-id>b5k9fi5bn</task-id>
+<tool-use-id>toolu_01HzZ3d8iNummdFCmJmKrpUQ</tool-use-id>
+<output-file>/private/tmp/claude-501/-Users-home/395ef479-22d4-483b-8c21-ce6dabd31ecf/tasks/b
+  session_title: dashboard
+
+[2026-08-27 10:26:24] Stop hook fired. JSONL=/Users/home/.claude/projects/-Users-home/7a507a48-43a0-4cae-9eb8-c41cac76a34e.jsonl
+[2026-08-27 10:26 EDT] update-client-last-session: folder not found: /Users/home/Documents/Obsidian Vault/01 - Business/Clients/Prospects/2_Contacted/A-Team Home Care
+[2026-08-27 10:26 EDT] update-client-last-session: wrote _LAST-SESSION.md for 'Active/Dynamic Funding Solutions' (matched keyword: 'dfs')
+[2026-08-27 10:26:24] Stop hook: captured 1 text blocks, 0 tool calls
+[2026-08-27 10:26 EDT] update-client-last-session: wrote _LAST-SESSION.md for 'Active/Vector Sleep Clinic' (matched keyword: 'vector sleep')
+[2026-08-27 10:26 EDT] update-client-last-session: wrote _LAST-SESSION.md for 'Active/YBR Roofing Siding and Windows' (matched keyword: 'ybr')
+[2026-08-27T10:34:59.631586] UserPromptSubmit keys: ['session_id', 'transcript_path', 'cwd', 'prompt_id', 'permission_mode', 'hook_event_name', 'prompt', 'session_title']
+  session_id: 7a507a48-43a0-4cae-9eb8-c41cac76a34e
+  transcript_path: /Users/home/.claude/projects/-Users-home/7a507a48-43a0-4cae-9eb8-c41cac76a34e.jsonl
+  cwd: /Users/home/.claude/dashboard/.gh-mirror
+  prompt_id: 8e245c51-65a9-4a70-920f-4d2070b80838
+  permission_mode: acceptEdits
+  hook_event_name: UserPromptSubmit
+  prompt: <task-notification>
+<task-id>bydcl1rnv</task-id>
+<tool-use-id>toolu_01UGeePsDG5yGpLp2VUDr1eV</tool-use-id>
+<output-file>/private/tmp/claude-501/-Users-home/395ef479-22d4-483b-8c21-ce6dabd31ecf/tasks/b
+  session_title: dashboard
+
+[2026-08-27 10:36:12] Stop hook fired. JSONL=/Users/home/.claude/projects/-Users-home/7a507a48-43a0-4cae-9eb8-c41cac76a34e.jsonl
+[2026-08-27 10:36 EDT] update-client-last-session: folder not found: /Users/home/Documents/Obsidian Vault/01 - Business/Clients/Prospects/2_Contacted/A-Team Home Care
+[2026-08-27 10:36 EDT] update-client-last-session: wrote _LAST-SESSION.md for 'Active/Dynamic Funding Solutions' (matched keyword: 'dfs')
+[2026-08-27 10:36:12] Stop hook: captured 1 text blocks, 0 tool calls
+[2026-08-27 10:36 EDT] update-client-last-session: wrote _LAST-SESSION.md for 'Active/Vector Sleep Clinic' (matched keyword: 'vector sleep')
+[2026-08-27 10:36 EDT] update-client-last-session: wrote _LAST-SESSION.md for 'Active/YBR Roofing Siding and Windows' (matched keyword: 'ybr')
+[2026-08-27T10:56:47.608878] UserPromptSubmit keys: ['session_id', 'transcript_path', 'cwd', 'prompt_id', 'permission_mode', 'hook_event_name', 'prompt', 'session_title']
+  session_id: 7a507a48-43a0-4cae-9eb8-c41cac76a34e
+  transcript_path: /Users/home/.claude/projects/-Users-home/7a507a48-43a0-4cae-9eb8-c41cac76a34e.jsonl
+  cwd: /Users/home/.claude/dashboard/.gh-mirror
+  prompt_id: a330a4bb-f9bd-45f0-a1af-92e2b1d13355
+  permission_mode: acceptEdits
+  hook_event_name: UserPromptSubmit
+  prompt: <task-notification>
+<task-id>bmb4nmemq</task-id>
+<tool-use-id>toolu_01UGUaM8REApjukYEsdbUQhP</tool-use-id>
+<output-file>/private/tmp/claude-501/-Users-home/395ef479-22d4-483b-8c21-ce6dabd31ecf/tasks/b
+  session_title: dashboard
+
